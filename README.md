@@ -20,7 +20,7 @@ The 46th President of the United States being sworn into office, was the day the
 Stay vigilant, trust but verify and protect yourself always.
 
 
-#Execution: 
+# Execution: 
 git clone into <directory>
 cd <directory>
 python / python3 redpill.py 
