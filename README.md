@@ -18,3 +18,9 @@ I am a visual learner, sometimes all you need to do is see in order to believe a
 The 46th President of the United States being sworn into office, was the day the coup was executed successfully, while the continued and planned fall of America continues to play out...
 
 Stay vigilant, trust but verify and protect yourself always.
+
+
+Execution: 
+git clone into <directory>
+cd <directory>
+python / python3 redpill.py 
