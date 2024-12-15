@@ -21,8 +21,8 @@ Stay vigilant, trust but verify and protect yourself always.
 
 
 # Execution: 
+'''
 git clone into <directory>
-
 cd <directory>
-
 python / python3 redpill.py 
+'''
