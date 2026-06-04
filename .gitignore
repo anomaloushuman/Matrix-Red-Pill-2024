@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Static Pages bundle is built in CI from src/voting_data (large JSON).
+docs/data/*_timeline.json

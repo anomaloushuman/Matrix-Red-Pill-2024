@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Red Pill or Blue Pill? — 2020 Election Analysis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+</head>
+<body class="map-mode-entry">
+  <canvas id="map-canvas" aria-hidden="true"></canvas>
+  <div id="map-viewport-full" class="map-viewport map-viewport--full" aria-hidden="true"></div>
+
+  <div id="page-loader" class="page-loader" aria-hidden="true"></div>
+
+  <div id="matrix-glitch-overlay" class="matrix-glitch-overlay" aria-hidden="true">
+    <canvas id="glitch-matrix-canvas" class="glitch-matrix-canvas" aria-hidden="true"></canvas>
+    <div class="glitch-noise" aria-hidden="true"></div>
+    <div class="glitch-scan" aria-hidden="true"></div>
+    <div class="glitch-bars" aria-hidden="true"></div>
+    <p class="glitch-label" aria-live="polite">LOADING TO</p>
+  </div>
+
+  <script id="map-winners-url" type="text/plain">data/us_state_winners.json</script>
+
+  <div id="map-entry" class="map-entry">
+    <div class="glass-panel map-entry-card">
+      <p class="map-entry-kicker">2020 Election Data</p>
+      <h1 class="map-entry-title">Red Pill or Blue Pill?</h1>
+      <p class="map-entry-sub">
+        Select a state to deploy county-level vote analysis. The map is your command surface.
+      </p>
+      <div class="field-row">
+        <label for="state-select">State</label>
+        <select id="state-select" required></select>
+      </div>
+      <button type="button" id="enter-state-btn" class="btn-primary">Analyze State</button>
+      <p id="load-status" class="muted map-entry-status">Loading state manifest…</p>
+      <p class="disclaimer">Anomaly signals are for investigation only. They do not independently prove fraud.</p>
+    </div>
+  </div>
+
+  <div id="state-detail-view" class="state-detail-view" aria-hidden="true">
+    <div id="map-viewport-transition" class="map-viewport map-viewport--transition" aria-hidden="true"></div>
+
+    <button type="button" id="sheet-dismiss" class="glass-chip map-back-btn" aria-label="Back to US map">
+      ← US Map
+    </button>
+
+    <div id="detail-scroll" class="detail-scroll">
+      <div class="detail-stack">
+        <div id="map-morph-sentinel" class="map-morph-sentinel" aria-hidden="true"></div>
+
+        <header class="glass-section detail-hero">
+          <h2 id="sheet-state-title">State Analysis</h2>
+          <p class="muted detail-hero-sub">County winners and vote telemetry for the selected snapshot.</p>
+        </header>
+
+        <section id="inline-map-shell" class="inline-map-shell" aria-label="State county map">
+          <div id="map-viewport-inline" class="map-viewport map-viewport--inline" aria-hidden="true"></div>
+        </section>
+
+        <form id="analysis-form" class="glass-section sheet-controls">
+          <div class="field-row">
+            <label for="version-select">Version (Timestamp)</label>
+            <select id="version-select"></select>
+          </div>
+          <div class="field-grid">
+            <div class="field-row">
+              <label for="min-gap">Minimum Stop Gap (minutes)</label>
+              <input id="min-gap" type="number" min="15" max="240" value="45">
+            </div>
+            <div class="field-row">
+              <label for="cadence-mult">Gap Multiplier vs Cadence</label>
+              <input id="cadence-mult" type="number" min="1" max="8" step="0.5" value="4">
+            </div>
+            <div class="field-row">
+              <label for="min-abs-drop">Min Absentee Drop Votes</label>
+              <input id="min-abs-drop" type="number" min="100" max="500000" value="5000">
+            </div>
+          </div>
+          <button type="submit" class="btn-primary">Refresh Analysis</button>
+        </form>
+
+        <div id="app-content" class="app-content">
+          <section id="error-panel" class="glass-section alert error hidden"></section>
+          <section id="info-panel" class="glass-section alert info hidden"></section>
+
+          <section class="metric-grid">
+            <article class="glass-section metric">
+              <h3>Snapshot Points</h3>
+              <div id="metric-snapshots" class="value">0</div>
+            </article>
+            <article class="glass-section metric">
+              <h3>Stop-Count Windows</h3>
+              <div id="metric-stops" class="value">0</div>
+            </article>
+            <article class="glass-section metric">
+              <h3>Large Absentee Drops</h3>
+              <div id="metric-drops" class="value">0</div>
+            </article>
+          </section>
+
+          <section class="glass-section">
+            <h2>Timeline Analysis</h2>
+            <div id="timeline-chart" class="chart-shell chart-shell--tall"></div>
+          </section>
+
+          <section class="glass-section">
+            <h2>Stop-Count Event Table</h2>
+            <div id="stop-events-table" class="table-wrap"></div>
+          </section>
+
+          <section class="glass-section">
+            <h2>County Vote-Type Breakdown</h2>
+            <p class="muted">County and ballot-type rows follow the selected timestamp.</p>
+            <div id="vote-type-spread-chart" class="chart-shell"></div>
+            <div id="vote-type-spread-table" class="table-wrap"></div>
+            <div id="county-vote-type-chart" class="chart-shell chart-shell--wide-labels"></div>
+            <div id="county-vote-type-table" class="table-wrap"></div>
+          </section>
+
+          <section class="glass-section">
+            <h2>Large Absentee Drops</h2>
+            <p id="drop-threshold-note" class="muted"></p>
+            <div id="absentee-drop-chart" class="chart-shell chart-shell--tall"></div>
+            <div id="absentee-drop-table" class="table-wrap"></div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/map-background.js"></script>
+  <script src="assets/map-bridge.js"></script>
+  <script src="assets/app-shell.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

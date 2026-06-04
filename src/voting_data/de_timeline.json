@@ -1,0 +1,825 @@
+{
+  "source": "nyt-race-page",
+  "state": "DE",
+  "slug": "delaware",
+  "url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/delaware/president.json",
+  "county_totals_source": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/delaware/president.json",
+  "county_by_vote_type_source": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/delaware/president.json",
+  "county_by_vote_type_method": "derived_county_absentee_split",
+  "versioned_snapshots_method": "derived_county_absentee_split_timeseries",
+  "fetched_at_unix": 1780400001,
+  "timeseries": [
+    {
+      "timestamp": "2020-11-04T06:22:59Z",
+      "votes": 0,
+      "results": {
+        "bidenj": 0,
+        "trumpd": 0,
+        "jorgensenj": 0
+      },
+      "vote_shares": {
+        "bidenj": 0.0,
+        "trumpd": 0.0
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:28:10Z",
+      "votes": 115441,
+      "results": {
+        "bidenj": 95239,
+        "trumpd": 18817,
+        "jorgensenj": 1385
+      },
+      "vote_shares": {
+        "bidenj": 0.825,
+        "trumpd": 0.163
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:52:59Z",
+      "votes": 237335,
+      "results": {
+        "bidenj": 149996,
+        "trumpd": 84491,
+        "jorgensenj": 2848
+      },
+      "vote_shares": {
+        "bidenj": 0.632,
+        "trumpd": 0.356
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:53:17Z",
+      "votes": 300037,
+      "results": {
+        "bidenj": 176422,
+        "trumpd": 119715,
+        "jorgensenj": 3900
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.399
+      }
+    },
+    {
+      "timestamp": "2020-11-04T05:07:49Z",
+      "votes": 300647,
+      "results": {
+        "bidenj": 176780,
+        "trumpd": 119958,
+        "jorgensenj": 3909
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.399
+      }
+    },
+    {
+      "timestamp": "2020-11-04T05:08:03Z",
+      "votes": 308006,
+      "results": {
+        "bidenj": 178643,
+        "trumpd": 125358,
+        "jorgensenj": 4005
+      },
+      "vote_shares": {
+        "bidenj": 0.58,
+        "trumpd": 0.407
+      }
+    },
+    {
+      "timestamp": "2020-11-04T05:48:15Z",
+      "votes": 502343,
+      "results": {
+        "bidenj": 295378,
+        "trumpd": 199933,
+        "jorgensenj": 7032
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.398
+      }
+    },
+    {
+      "timestamp": "2020-11-04T22:46:43Z",
+      "votes": 502383,
+      "results": {
+        "bidenj": 295401,
+        "trumpd": 199948,
+        "jorgensenj": 7034
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.398
+      }
+    },
+    {
+      "timestamp": "2020-11-06T03:34:22Z",
+      "votes": 502384,
+      "results": {
+        "bidenj": 295402,
+        "trumpd": 199949,
+        "jorgensenj": 7033
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.398
+      }
+    },
+    {
+      "timestamp": "2020-11-09T21:44:52Z",
+      "votes": 502392,
+      "results": {
+        "bidenj": 295406,
+        "trumpd": 199952,
+        "jorgensenj": 7034
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.398
+      }
+    },
+    {
+      "timestamp": "2020-11-10T22:30:51Z",
+      "votes": 504010,
+      "results": {
+        "bidenj": 296358,
+        "trumpd": 200596,
+        "jorgensenj": 7056
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.398
+      }
+    },
+    {
+      "timestamp": "2020-11-17T17:10:55.047Z",
+      "votes": 504010,
+      "results": {
+        "bidenj": 296358,
+        "trumpd": 200596,
+        "jorgensenj": 7056
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.398
+      }
+    },
+    {
+      "timestamp": "2020-11-20T14:18:40Z",
+      "votes": 504010,
+      "results": {
+        "bidenj": 296358,
+        "trumpd": 200596,
+        "jorgensenj": 7056
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.398
+      }
+    },
+    {
+      "timestamp": "2021-01-12T20:28:48Z",
+      "votes": 504346,
+      "results": {
+        "bidenj": 296051,
+        "trumpd": 200730,
+        "jorgensenj": 7565
+      },
+      "vote_shares": {
+        "bidenj": 0.587,
+        "trumpd": 0.398
+      }
+    },
+    {
+      "timestamp": "2021-02-17T16:41:14Z",
+      "votes": 504010,
+      "results": {
+        "bidenj": 296358,
+        "trumpd": 200596,
+        "jorgensenj": 7056
+      },
+      "vote_shares": {
+        "bidenj": 0.588,
+        "trumpd": 0.398
+      }
+    }
+  ],
+  "county_totals": [
+    {
+      "locality_name": "Kent",
+      "locality_fips": "10001",
+      "votes": 87025,
+      "absentee_votes": 0,
+      "precincts": 89,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 44552,
+        "trumpd": 41009,
+        "jorgensenj": 1044,
+        "hawkinsh": 420
+      },
+      "last_updated": "2020-11-24T13:22:07Z"
+    },
+    {
+      "locality_name": "New Castle",
+      "locality_fips": "10003",
+      "votes": 287633,
+      "absentee_votes": 0,
+      "precincts": 272,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 195034,
+        "trumpd": 88364,
+        "jorgensenj": 2953,
+        "hawkinsh": 1282,
+        "write-ins": 0
+      },
+      "last_updated": "2021-02-17T16:41:44Z"
+    },
+    {
+      "locality_name": "Sussex",
+      "locality_fips": "10005",
+      "votes": 129352,
+      "absentee_votes": 0,
+      "precincts": 73,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 56682,
+        "trumpd": 71230,
+        "jorgensenj": 1003,
+        "hawkinsh": 437
+      },
+      "last_updated": "2020-11-24T13:22:11Z"
+    }
+  ],
+  "county_by_vote_type": [
+    {
+      "locality_name": "Kent",
+      "locality_fips": "10001",
+      "vote_type": "electionday",
+      "votes": 87025,
+      "results": {
+        "hawkinsh": 420,
+        "trumpd": 41009,
+        "jorgensenj": 1044,
+        "bidenj": 44552
+      }
+    },
+    {
+      "locality_name": "New Castle",
+      "locality_fips": "10003",
+      "vote_type": "electionday",
+      "votes": 287633,
+      "results": {
+        "hawkinsh": 1282,
+        "trumpd": 88364,
+        "jorgensenj": 2953,
+        "write-ins": 0,
+        "bidenj": 195034
+      }
+    },
+    {
+      "locality_name": "Sussex",
+      "locality_fips": "10005",
+      "vote_type": "electionday",
+      "votes": 129352,
+      "results": {
+        "hawkinsh": 437,
+        "trumpd": 71230,
+        "jorgensenj": 1003,
+        "bidenj": 56682
+      }
+    }
+  ],
+  "versioned_snapshots": [
+    {
+      "timestamp": "2020-11-04T01:28:10Z",
+      "total_votes": 115441,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 19933,
+          "results": {
+            "hawkinsh": 96,
+            "trumpd": 9393,
+            "jorgensenj": 239,
+            "bidenj": 10204
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 65881,
+          "results": {
+            "hawkinsh": 294,
+            "trumpd": 20239,
+            "jorgensenj": 676,
+            "write-ins": 0,
+            "bidenj": 44672
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 29627,
+          "results": {
+            "hawkinsh": 100,
+            "trumpd": 16315,
+            "jorgensenj": 230,
+            "bidenj": 12983
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:52:59Z",
+      "total_votes": 237335,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 40980,
+          "results": {
+            "hawkinsh": 198,
+            "trumpd": 19311,
+            "jorgensenj": 492,
+            "bidenj": 20979
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 135444,
+          "results": {
+            "hawkinsh": 604,
+            "trumpd": 41610,
+            "jorgensenj": 1391,
+            "write-ins": 0,
+            "bidenj": 91840
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 60911,
+          "results": {
+            "hawkinsh": 206,
+            "trumpd": 33542,
+            "jorgensenj": 472,
+            "bidenj": 26691
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:53:17Z",
+      "total_votes": 300037,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 51806,
+          "results": {
+            "hawkinsh": 250,
+            "trumpd": 24413,
+            "jorgensenj": 621,
+            "bidenj": 26522
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 171228,
+          "results": {
+            "hawkinsh": 763,
+            "trumpd": 52603,
+            "jorgensenj": 1758,
+            "write-ins": 0,
+            "bidenj": 116104
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 77003,
+          "results": {
+            "hawkinsh": 260,
+            "trumpd": 42403,
+            "jorgensenj": 597,
+            "bidenj": 33743
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T05:07:49Z",
+      "total_votes": 300647,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 51911,
+          "results": {
+            "hawkinsh": 251,
+            "trumpd": 24462,
+            "jorgensenj": 623,
+            "bidenj": 26576
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 171576,
+          "results": {
+            "hawkinsh": 765,
+            "trumpd": 52710,
+            "jorgensenj": 1761,
+            "write-ins": 0,
+            "bidenj": 116340
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 77160,
+          "results": {
+            "hawkinsh": 261,
+            "trumpd": 42489,
+            "jorgensenj": 598,
+            "bidenj": 33811
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T05:08:03Z",
+      "total_votes": 308006,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 53182,
+          "results": {
+            "hawkinsh": 257,
+            "trumpd": 25061,
+            "jorgensenj": 638,
+            "bidenj": 27226
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 175776,
+          "results": {
+            "hawkinsh": 783,
+            "trumpd": 54000,
+            "jorgensenj": 1805,
+            "write-ins": 0,
+            "bidenj": 119187
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 79048,
+          "results": {
+            "hawkinsh": 267,
+            "trumpd": 43529,
+            "jorgensenj": 613,
+            "bidenj": 34639
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T05:48:15Z",
+      "total_votes": 502343,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 86737,
+          "results": {
+            "hawkinsh": 419,
+            "trumpd": 40873,
+            "jorgensenj": 1041,
+            "bidenj": 44405
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 286682,
+          "results": {
+            "hawkinsh": 1278,
+            "trumpd": 88072,
+            "jorgensenj": 2943,
+            "write-ins": 0,
+            "bidenj": 194389
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 128924,
+          "results": {
+            "hawkinsh": 436,
+            "trumpd": 70994,
+            "jorgensenj": 1000,
+            "bidenj": 56495
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T22:46:43Z",
+      "total_votes": 502383,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 86744,
+          "results": {
+            "hawkinsh": 419,
+            "trumpd": 40877,
+            "jorgensenj": 1041,
+            "bidenj": 44408
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 286704,
+          "results": {
+            "hawkinsh": 1278,
+            "trumpd": 88079,
+            "jorgensenj": 2943,
+            "write-ins": 0,
+            "bidenj": 194404
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 128934,
+          "results": {
+            "hawkinsh": 436,
+            "trumpd": 71000,
+            "jorgensenj": 1000,
+            "bidenj": 56499
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-06T03:34:22Z",
+      "total_votes": 502384,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 86744,
+          "results": {
+            "hawkinsh": 419,
+            "trumpd": 40877,
+            "jorgensenj": 1041,
+            "bidenj": 44408
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 286705,
+          "results": {
+            "hawkinsh": 1278,
+            "trumpd": 88079,
+            "jorgensenj": 2943,
+            "write-ins": 0,
+            "bidenj": 194405
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 128935,
+          "results": {
+            "hawkinsh": 436,
+            "trumpd": 71000,
+            "jorgensenj": 1000,
+            "bidenj": 56499
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T21:44:52Z",
+      "total_votes": 502392,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 86746,
+          "results": {
+            "hawkinsh": 419,
+            "trumpd": 40877,
+            "jorgensenj": 1041,
+            "bidenj": 44409
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 286710,
+          "results": {
+            "hawkinsh": 1278,
+            "trumpd": 88080,
+            "jorgensenj": 2944,
+            "write-ins": 0,
+            "bidenj": 194408
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 128937,
+          "results": {
+            "hawkinsh": 436,
+            "trumpd": 71001,
+            "jorgensenj": 1000,
+            "bidenj": 56500
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-10T22:30:51Z",
+      "total_votes": 504010,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 87025,
+          "results": {
+            "hawkinsh": 420,
+            "trumpd": 41009,
+            "jorgensenj": 1044,
+            "bidenj": 44552
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 287633,
+          "results": {
+            "hawkinsh": 1282,
+            "trumpd": 88364,
+            "jorgensenj": 2953,
+            "write-ins": 0,
+            "bidenj": 195034
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 129352,
+          "results": {
+            "hawkinsh": 437,
+            "trumpd": 71230,
+            "jorgensenj": 1003,
+            "bidenj": 56682
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2021-01-12T20:28:48Z",
+      "total_votes": 504346,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 87083,
+          "results": {
+            "hawkinsh": 420,
+            "trumpd": 41036,
+            "jorgensenj": 1045,
+            "bidenj": 44582
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 287825,
+          "results": {
+            "hawkinsh": 1283,
+            "trumpd": 88423,
+            "jorgensenj": 2955,
+            "write-ins": 0,
+            "bidenj": 195164
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 129438,
+          "results": {
+            "hawkinsh": 437,
+            "trumpd": 71277,
+            "jorgensenj": 1004,
+            "bidenj": 56720
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2021-02-17T16:41:14Z",
+      "total_votes": 504010,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Kent",
+          "locality_fips": "10001",
+          "vote_type": "electionday",
+          "votes": 87025,
+          "results": {
+            "hawkinsh": 420,
+            "trumpd": 41009,
+            "jorgensenj": 1044,
+            "bidenj": 44552
+          }
+        },
+        {
+          "locality_name": "New Castle",
+          "locality_fips": "10003",
+          "vote_type": "electionday",
+          "votes": 287633,
+          "results": {
+            "hawkinsh": 1282,
+            "trumpd": 88364,
+            "jorgensenj": 2953,
+            "write-ins": 0,
+            "bidenj": 195034
+          }
+        },
+        {
+          "locality_name": "Sussex",
+          "locality_fips": "10005",
+          "vote_type": "electionday",
+          "votes": 129352,
+          "results": {
+            "hawkinsh": 437,
+            "trumpd": 71230,
+            "jorgensenj": 1003,
+            "bidenj": 56682
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    }
+  ]
+}

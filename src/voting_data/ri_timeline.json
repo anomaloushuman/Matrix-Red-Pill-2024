@@ -1,0 +1,4485 @@
+{
+  "source": "nyt-race-page",
+  "state": "RI",
+  "slug": "rhode-island",
+  "url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/rhode-island/president.json",
+  "county_totals_source": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/rhode-island/president.json",
+  "county_by_vote_type_source": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/rhode-island/president.json",
+  "county_by_vote_type_method": "derived_county_absentee_split",
+  "versioned_snapshots_method": "derived_county_absentee_split_timeseries",
+  "fetched_at_unix": 1780400054,
+  "timeseries": [
+    {
+      "timestamp": "2020-11-04T07:01:20Z",
+      "votes": 0,
+      "results": {
+        "bidenj": 0,
+        "trumpd": 0,
+        "jorgensenj": 0
+      },
+      "vote_shares": {
+        "bidenj": 0.0,
+        "trumpd": 0.0
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:14:14Z",
+      "votes": 2958,
+      "results": {
+        "bidenj": 1686,
+        "trumpd": 1213,
+        "jorgensenj": 59
+      },
+      "vote_shares": {
+        "bidenj": 0.57,
+        "trumpd": 0.41
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:16:02Z",
+      "votes": 8231,
+      "results": {
+        "bidenj": 4609,
+        "trumpd": 3457,
+        "jorgensenj": 165
+      },
+      "vote_shares": {
+        "bidenj": 0.56,
+        "trumpd": 0.42
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:18:01Z",
+      "votes": 20446,
+      "results": {
+        "bidenj": 10039,
+        "trumpd": 10019,
+        "jorgensenj": 388
+      },
+      "vote_shares": {
+        "bidenj": 0.491,
+        "trumpd": 0.49
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:22:01Z",
+      "votes": 42193,
+      "results": {
+        "bidenj": 19915,
+        "trumpd": 21434,
+        "jorgensenj": 844
+      },
+      "vote_shares": {
+        "bidenj": 0.472,
+        "trumpd": 0.508
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:26:02Z",
+      "votes": 73105,
+      "results": {
+        "bidenj": 34432,
+        "trumpd": 37210,
+        "jorgensenj": 1463
+      },
+      "vote_shares": {
+        "bidenj": 0.471,
+        "trumpd": 0.509
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:28:01Z",
+      "votes": 96102,
+      "results": {
+        "bidenj": 44976,
+        "trumpd": 49204,
+        "jorgensenj": 1922
+      },
+      "vote_shares": {
+        "bidenj": 0.468,
+        "trumpd": 0.512
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:32:02Z",
+      "votes": 124809,
+      "results": {
+        "bidenj": 55790,
+        "trumpd": 66648,
+        "jorgensenj": 2371
+      },
+      "vote_shares": {
+        "bidenj": 0.447,
+        "trumpd": 0.534
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:33:56Z",
+      "votes": 127594,
+      "results": {
+        "bidenj": 56907,
+        "trumpd": 68263,
+        "jorgensenj": 2424
+      },
+      "vote_shares": {
+        "bidenj": 0.446,
+        "trumpd": 0.535
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:35:06Z",
+      "votes": 152904,
+      "results": {
+        "bidenj": 67736,
+        "trumpd": 82109,
+        "jorgensenj": 3059
+      },
+      "vote_shares": {
+        "bidenj": 0.443,
+        "trumpd": 0.537
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:36:00Z",
+      "votes": 161933,
+      "results": {
+        "bidenj": 71412,
+        "trumpd": 87282,
+        "jorgensenj": 3239
+      },
+      "vote_shares": {
+        "bidenj": 0.441,
+        "trumpd": 0.539
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:40:57Z",
+      "votes": 166726,
+      "results": {
+        "bidenj": 73359,
+        "trumpd": 90032,
+        "jorgensenj": 3335
+      },
+      "vote_shares": {
+        "bidenj": 0.44,
+        "trumpd": 0.54
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:43:59Z",
+      "votes": 171060,
+      "results": {
+        "bidenj": 75095,
+        "trumpd": 92543,
+        "jorgensenj": 3422
+      },
+      "vote_shares": {
+        "bidenj": 0.439,
+        "trumpd": 0.541
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:45:58Z",
+      "votes": 173429,
+      "results": {
+        "bidenj": 76135,
+        "trumpd": 93825,
+        "jorgensenj": 3469
+      },
+      "vote_shares": {
+        "bidenj": 0.439,
+        "trumpd": 0.541
+      }
+    },
+    {
+      "timestamp": "2020-11-04T01:52:02Z",
+      "votes": 173628,
+      "results": {
+        "bidenj": 76049,
+        "trumpd": 93933,
+        "jorgensenj": 3646
+      },
+      "vote_shares": {
+        "bidenj": 0.438,
+        "trumpd": 0.541
+      }
+    },
+    {
+      "timestamp": "2020-11-04T02:01:57Z",
+      "votes": 173840,
+      "results": {
+        "bidenj": 76316,
+        "trumpd": 94047,
+        "jorgensenj": 3477
+      },
+      "vote_shares": {
+        "bidenj": 0.439,
+        "trumpd": 0.541
+      }
+    },
+    {
+      "timestamp": "2020-11-04T02:22:26Z",
+      "votes": 174291,
+      "results": {
+        "bidenj": 76339,
+        "trumpd": 94466,
+        "jorgensenj": 3486
+      },
+      "vote_shares": {
+        "bidenj": 0.438,
+        "trumpd": 0.542
+      }
+    },
+    {
+      "timestamp": "2020-11-04T02:33:01Z",
+      "votes": 174631,
+      "results": {
+        "bidenj": 76488,
+        "trumpd": 94650,
+        "jorgensenj": 3493
+      },
+      "vote_shares": {
+        "bidenj": 0.438,
+        "trumpd": 0.542
+      }
+    },
+    {
+      "timestamp": "2020-11-04T02:33:32Z",
+      "votes": 175315,
+      "results": {
+        "bidenj": 76788,
+        "trumpd": 94845,
+        "jorgensenj": 3682
+      },
+      "vote_shares": {
+        "bidenj": 0.438,
+        "trumpd": 0.541
+      }
+    },
+    {
+      "timestamp": "2020-11-04T02:34:27Z",
+      "votes": 175443,
+      "results": {
+        "bidenj": 76844,
+        "trumpd": 94915,
+        "jorgensenj": 3684
+      },
+      "vote_shares": {
+        "bidenj": 0.438,
+        "trumpd": 0.541
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:11:12Z",
+      "votes": 175493,
+      "results": {
+        "bidenj": 76866,
+        "trumpd": 94942,
+        "jorgensenj": 3685
+      },
+      "vote_shares": {
+        "bidenj": 0.438,
+        "trumpd": 0.541
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:11:48Z",
+      "votes": 181818,
+      "results": {
+        "bidenj": 81454,
+        "trumpd": 96727,
+        "jorgensenj": 3637
+      },
+      "vote_shares": {
+        "bidenj": 0.448,
+        "trumpd": 0.532
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:37:16Z",
+      "votes": 183459,
+      "results": {
+        "bidenj": 82190,
+        "trumpd": 97784,
+        "jorgensenj": 3485
+      },
+      "vote_shares": {
+        "bidenj": 0.448,
+        "trumpd": 0.533
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:37:55Z",
+      "votes": 196730,
+      "results": {
+        "bidenj": 89512,
+        "trumpd": 103480,
+        "jorgensenj": 3738
+      },
+      "vote_shares": {
+        "bidenj": 0.455,
+        "trumpd": 0.526
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:47:58Z",
+      "votes": 205725,
+      "results": {
+        "bidenj": 94222,
+        "trumpd": 107594,
+        "jorgensenj": 3909
+      },
+      "vote_shares": {
+        "bidenj": 0.458,
+        "trumpd": 0.523
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:55:15Z",
+      "votes": 212407,
+      "results": {
+        "bidenj": 100256,
+        "trumpd": 108328,
+        "jorgensenj": 3823
+      },
+      "vote_shares": {
+        "bidenj": 0.472,
+        "trumpd": 0.51
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:56:46Z",
+      "votes": 222983,
+      "results": {
+        "bidenj": 107255,
+        "trumpd": 111714,
+        "jorgensenj": 4014
+      },
+      "vote_shares": {
+        "bidenj": 0.481,
+        "trumpd": 0.501
+      }
+    },
+    {
+      "timestamp": "2020-11-04T03:56:52Z",
+      "votes": 243820,
+      "results": {
+        "bidenj": 118740,
+        "trumpd": 120691,
+        "jorgensenj": 4389
+      },
+      "vote_shares": {
+        "bidenj": 0.487,
+        "trumpd": 0.495
+      }
+    },
+    {
+      "timestamp": "2020-11-04T04:10:20Z",
+      "votes": 263672,
+      "results": {
+        "bidenj": 130254,
+        "trumpd": 128936,
+        "jorgensenj": 4482
+      },
+      "vote_shares": {
+        "bidenj": 0.494,
+        "trumpd": 0.489
+      }
+    },
+    {
+      "timestamp": "2020-11-04T04:24:39Z",
+      "votes": 267432,
+      "results": {
+        "bidenj": 132379,
+        "trumpd": 130507,
+        "jorgensenj": 4546
+      },
+      "vote_shares": {
+        "bidenj": 0.495,
+        "trumpd": 0.488
+      }
+    },
+    {
+      "timestamp": "2020-11-04T04:54:56Z",
+      "votes": 267419,
+      "results": {
+        "bidenj": 132372,
+        "trumpd": 130500,
+        "jorgensenj": 4547
+      },
+      "vote_shares": {
+        "bidenj": 0.495,
+        "trumpd": 0.488
+      }
+    },
+    {
+      "timestamp": "2020-11-04T06:00:04Z",
+      "votes": 327644,
+      "results": {
+        "bidenj": 163167,
+        "trumpd": 159235,
+        "jorgensenj": 5242
+      },
+      "vote_shares": {
+        "bidenj": 0.498,
+        "trumpd": 0.486
+      }
+    },
+    {
+      "timestamp": "2020-11-04T06:08:50Z",
+      "votes": 477068,
+      "results": {
+        "bidenj": 282424,
+        "trumpd": 187488,
+        "jorgensenj": 7156
+      },
+      "vote_shares": {
+        "bidenj": 0.592,
+        "trumpd": 0.393
+      }
+    },
+    {
+      "timestamp": "2020-11-04T06:12:55Z",
+      "votes": 481695,
+      "results": {
+        "bidenj": 285163,
+        "trumpd": 189306,
+        "jorgensenj": 7226
+      },
+      "vote_shares": {
+        "bidenj": 0.592,
+        "trumpd": 0.393
+      }
+    },
+    {
+      "timestamp": "2020-11-04T21:13:02Z",
+      "votes": 500390,
+      "results": {
+        "bidenj": 297232,
+        "trumpd": 196153,
+        "jorgensenj": 7005
+      },
+      "vote_shares": {
+        "bidenj": 0.594,
+        "trumpd": 0.392
+      }
+    },
+    {
+      "timestamp": "2020-11-06T21:48:51Z",
+      "votes": 505201,
+      "results": {
+        "bidenj": 300089,
+        "trumpd": 197534,
+        "jorgensenj": 7578
+      },
+      "vote_shares": {
+        "bidenj": 0.594,
+        "trumpd": 0.391
+      }
+    },
+    {
+      "timestamp": "2020-11-10T13:09:07Z",
+      "votes": 513323,
+      "results": {
+        "bidenj": 305941,
+        "trumpd": 199683,
+        "jorgensenj": 7699
+      },
+      "vote_shares": {
+        "bidenj": 0.596,
+        "trumpd": 0.389
+      }
+    },
+    {
+      "timestamp": "2020-11-10T23:02:51Z",
+      "votes": 513411,
+      "results": {
+        "bidenj": 305993,
+        "trumpd": 199717,
+        "jorgensenj": 7701
+      },
+      "vote_shares": {
+        "bidenj": 0.596,
+        "trumpd": 0.389
+      }
+    },
+    {
+      "timestamp": "2020-11-10T23:02:58Z",
+      "votes": 513503,
+      "results": {
+        "bidenj": 306048,
+        "trumpd": 199753,
+        "jorgensenj": 7702
+      },
+      "vote_shares": {
+        "bidenj": 0.596,
+        "trumpd": 0.389
+      }
+    },
+    {
+      "timestamp": "2020-11-13T21:51:01Z",
+      "votes": 513602,
+      "results": {
+        "bidenj": 306107,
+        "trumpd": 199791,
+        "jorgensenj": 7704
+      },
+      "vote_shares": {
+        "bidenj": 0.596,
+        "trumpd": 0.389
+      }
+    },
+    {
+      "timestamp": "2020-11-24T19:40:55Z",
+      "votes": 513627,
+      "results": {
+        "bidenj": 306122,
+        "trumpd": 199801,
+        "jorgensenj": 7704
+      },
+      "vote_shares": {
+        "bidenj": 0.596,
+        "trumpd": 0.389
+      }
+    },
+    {
+      "timestamp": "2020-11-25T04:38:09Z",
+      "votes": 517757,
+      "results": {
+        "bidenj": 307548,
+        "trumpd": 199854,
+        "jorgensenj": 10355
+      },
+      "vote_shares": {
+        "bidenj": 0.594,
+        "trumpd": 0.386
+      }
+    },
+    {
+      "timestamp": "2020-12-11T16:15:51Z",
+      "votes": 514238,
+      "results": {
+        "bidenj": 305972,
+        "trumpd": 200039,
+        "jorgensenj": 8227
+      },
+      "vote_shares": {
+        "bidenj": 0.595,
+        "trumpd": 0.389
+      }
+    },
+    {
+      "timestamp": "2020-12-11T16:20:36Z",
+      "votes": 516434,
+      "results": {
+        "bidenj": 306245,
+        "trumpd": 199860,
+        "jorgensenj": 10329
+      },
+      "vote_shares": {
+        "bidenj": 0.593,
+        "trumpd": 0.387
+      }
+    },
+    {
+      "timestamp": "2020-12-11T16:23:58Z",
+      "votes": 517757,
+      "results": {
+        "bidenj": 307548,
+        "trumpd": 199854,
+        "jorgensenj": 10355
+      },
+      "vote_shares": {
+        "bidenj": 0.594,
+        "trumpd": 0.386
+      }
+    },
+    {
+      "timestamp": "2020-11-30T19:01:58.897Z",
+      "votes": 514998,
+      "results": {
+        "bidenj": 307454,
+        "trumpd": 199819,
+        "jorgensenj": 7725
+      },
+      "vote_shares": {
+        "bidenj": 0.597,
+        "trumpd": 0.388
+      }
+    },
+    {
+      "timestamp": "2020-12-11T16:23:58Z",
+      "votes": 517757,
+      "results": {
+        "bidenj": 307548,
+        "trumpd": 199854,
+        "jorgensenj": 10355
+      },
+      "vote_shares": {
+        "bidenj": 0.594,
+        "trumpd": 0.386
+      }
+    }
+  ],
+  "county_totals": [
+    {
+      "locality_name": "Bristol",
+      "locality_fips": "44001",
+      "votes": 28415,
+      "absentee_votes": 0,
+      "precincts": 17,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 18050,
+        "trumpd": 9745,
+        "jorgensenj": 326,
+        "write-ins": 176,
+        "de_la_fuenter": 41,
+        "carrollb": 39,
+        "la_rivag": 38
+      },
+      "last_updated": "2020-12-11T16:14:53Z"
+    },
+    {
+      "locality_name": "Kent",
+      "locality_fips": "44003",
+      "votes": 93093,
+      "absentee_votes": 0,
+      "precincts": 70,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 49113,
+        "trumpd": 42001,
+        "jorgensenj": 1065,
+        "write-ins": 519,
+        "de_la_fuenter": 164,
+        "carrollb": 131,
+        "la_rivag": 100
+      },
+      "last_updated": "2020-12-11T16:20:08Z"
+    },
+    {
+      "locality_name": "Newport",
+      "locality_fips": "44005",
+      "votes": 46148,
+      "absentee_votes": 0,
+      "precincts": 31,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 29486,
+        "trumpd": 15722,
+        "jorgensenj": 504,
+        "write-ins": 247,
+        "de_la_fuenter": 71,
+        "carrollb": 61,
+        "la_rivag": 57
+      },
+      "last_updated": "2020-12-11T16:16:44Z"
+    },
+    {
+      "locality_name": "Providence",
+      "locality_fips": "44007",
+      "votes": 272667,
+      "absentee_votes": 0,
+      "precincts": 259,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 165012,
+        "trumpd": 102551,
+        "jorgensenj": 2291,
+        "write-ins": 1341,
+        "la_rivag": 553,
+        "de_la_fuenter": 497,
+        "carrollb": 422
+      },
+      "last_updated": "2020-12-11T16:16:10Z"
+    },
+    {
+      "locality_name": "Washington",
+      "locality_fips": "44009",
+      "votes": 76060,
+      "absentee_votes": 0,
+      "precincts": 44,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 44549,
+        "trumpd": 29818,
+        "jorgensenj": 861,
+        "write-ins": 473,
+        "de_la_fuenter": 150,
+        "carrollb": 114,
+        "la_rivag": 95
+      },
+      "last_updated": "2020-12-11T16:16:16Z"
+    }
+  ],
+  "county_by_vote_type": [
+    {
+      "locality_name": "Bristol",
+      "locality_fips": "44001",
+      "vote_type": "electionday",
+      "votes": 28415,
+      "results": {
+        "carrollb": 39,
+        "trumpd": 9745,
+        "de_la_fuenter": 41,
+        "jorgensenj": 326,
+        "write-ins": 176,
+        "la_rivag": 38,
+        "bidenj": 18050
+      }
+    },
+    {
+      "locality_name": "Kent",
+      "locality_fips": "44003",
+      "vote_type": "electionday",
+      "votes": 93093,
+      "results": {
+        "carrollb": 131,
+        "trumpd": 42001,
+        "de_la_fuenter": 164,
+        "jorgensenj": 1065,
+        "write-ins": 519,
+        "la_rivag": 100,
+        "bidenj": 49113
+      }
+    },
+    {
+      "locality_name": "Newport",
+      "locality_fips": "44005",
+      "vote_type": "electionday",
+      "votes": 46148,
+      "results": {
+        "carrollb": 61,
+        "trumpd": 15722,
+        "de_la_fuenter": 71,
+        "jorgensenj": 504,
+        "write-ins": 247,
+        "la_rivag": 57,
+        "bidenj": 29486
+      }
+    },
+    {
+      "locality_name": "Providence",
+      "locality_fips": "44007",
+      "vote_type": "electionday",
+      "votes": 272667,
+      "results": {
+        "carrollb": 422,
+        "trumpd": 102551,
+        "de_la_fuenter": 497,
+        "jorgensenj": 2291,
+        "write-ins": 1341,
+        "la_rivag": 553,
+        "bidenj": 165012
+      }
+    },
+    {
+      "locality_name": "Washington",
+      "locality_fips": "44009",
+      "vote_type": "electionday",
+      "votes": 76060,
+      "results": {
+        "carrollb": 114,
+        "trumpd": 29818,
+        "de_la_fuenter": 150,
+        "jorgensenj": 861,
+        "write-ins": 473,
+        "la_rivag": 95,
+        "bidenj": 44549
+      }
+    }
+  ],
+  "versioned_snapshots": [
+    {
+      "timestamp": "2020-11-04T01:14:14Z",
+      "total_votes": 2958,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 162,
+          "results": {
+            "carrollb": 0,
+            "trumpd": 56,
+            "de_la_fuenter": 0,
+            "jorgensenj": 2,
+            "write-ins": 1,
+            "la_rivag": 0,
+            "bidenj": 103
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 532,
+          "results": {
+            "carrollb": 1,
+            "trumpd": 240,
+            "de_la_fuenter": 1,
+            "jorgensenj": 6,
+            "write-ins": 3,
+            "la_rivag": 1,
+            "bidenj": 281
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 264,
+          "results": {
+            "carrollb": 0,
+            "trumpd": 90,
+            "de_la_fuenter": 0,
+            "jorgensenj": 3,
+            "write-ins": 1,
+            "la_rivag": 0,
+            "bidenj": 168
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 1558,
+          "results": {
+            "carrollb": 2,
+            "trumpd": 586,
+            "de_la_fuenter": 3,
+            "jorgensenj": 13,
+            "write-ins": 8,
+            "la_rivag": 3,
+            "bidenj": 943
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 435,
+          "results": {
+            "carrollb": 1,
+            "trumpd": 170,
+            "de_la_fuenter": 1,
+            "jorgensenj": 5,
+            "write-ins": 3,
+            "la_rivag": 1,
+            "bidenj": 255
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:16:02Z",
+      "total_votes": 8231,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 452,
+          "results": {
+            "carrollb": 1,
+            "trumpd": 155,
+            "de_la_fuenter": 1,
+            "jorgensenj": 5,
+            "write-ins": 3,
+            "la_rivag": 1,
+            "bidenj": 287
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 1480,
+          "results": {
+            "carrollb": 2,
+            "trumpd": 668,
+            "de_la_fuenter": 3,
+            "jorgensenj": 17,
+            "write-ins": 8,
+            "la_rivag": 2,
+            "bidenj": 781
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 734,
+          "results": {
+            "carrollb": 1,
+            "trumpd": 250,
+            "de_la_fuenter": 1,
+            "jorgensenj": 8,
+            "write-ins": 4,
+            "la_rivag": 1,
+            "bidenj": 469
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 4335,
+          "results": {
+            "carrollb": 7,
+            "trumpd": 1630,
+            "de_la_fuenter": 8,
+            "jorgensenj": 36,
+            "write-ins": 21,
+            "la_rivag": 9,
+            "bidenj": 2623
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 1209,
+          "results": {
+            "carrollb": 2,
+            "trumpd": 474,
+            "de_la_fuenter": 2,
+            "jorgensenj": 14,
+            "write-ins": 8,
+            "la_rivag": 2,
+            "bidenj": 708
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:18:01Z",
+      "total_votes": 20446,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 1122,
+          "results": {
+            "carrollb": 2,
+            "trumpd": 385,
+            "de_la_fuenter": 2,
+            "jorgensenj": 13,
+            "write-ins": 7,
+            "la_rivag": 2,
+            "bidenj": 713
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 3676,
+          "results": {
+            "carrollb": 5,
+            "trumpd": 1659,
+            "de_la_fuenter": 6,
+            "jorgensenj": 42,
+            "write-ins": 20,
+            "la_rivag": 4,
+            "bidenj": 1939
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 1822,
+          "results": {
+            "carrollb": 2,
+            "trumpd": 621,
+            "de_la_fuenter": 3,
+            "jorgensenj": 20,
+            "write-ins": 10,
+            "la_rivag": 2,
+            "bidenj": 1164
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 10768,
+          "results": {
+            "carrollb": 17,
+            "trumpd": 4050,
+            "de_la_fuenter": 20,
+            "jorgensenj": 90,
+            "write-ins": 53,
+            "la_rivag": 22,
+            "bidenj": 6516
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 3004,
+          "results": {
+            "carrollb": 5,
+            "trumpd": 1177,
+            "de_la_fuenter": 6,
+            "jorgensenj": 34,
+            "write-ins": 19,
+            "la_rivag": 4,
+            "bidenj": 1759
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:22:01Z",
+      "total_votes": 42193,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 2316,
+          "results": {
+            "carrollb": 3,
+            "trumpd": 794,
+            "de_la_fuenter": 3,
+            "jorgensenj": 27,
+            "write-ins": 14,
+            "la_rivag": 3,
+            "bidenj": 1471
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 7586,
+          "results": {
+            "carrollb": 11,
+            "trumpd": 3423,
+            "de_la_fuenter": 13,
+            "jorgensenj": 87,
+            "write-ins": 42,
+            "la_rivag": 8,
+            "bidenj": 4002
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 3761,
+          "results": {
+            "carrollb": 5,
+            "trumpd": 1281,
+            "de_la_fuenter": 6,
+            "jorgensenj": 41,
+            "write-ins": 20,
+            "la_rivag": 5,
+            "bidenj": 2403
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 22220,
+          "results": {
+            "carrollb": 34,
+            "trumpd": 8357,
+            "de_la_fuenter": 41,
+            "jorgensenj": 187,
+            "write-ins": 109,
+            "la_rivag": 45,
+            "bidenj": 13447
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 6198,
+          "results": {
+            "carrollb": 9,
+            "trumpd": 2430,
+            "de_la_fuenter": 12,
+            "jorgensenj": 70,
+            "write-ins": 39,
+            "la_rivag": 8,
+            "bidenj": 3630
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:26:02Z",
+      "total_votes": 73105,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 4012,
+          "results": {
+            "carrollb": 6,
+            "trumpd": 1376,
+            "de_la_fuenter": 6,
+            "jorgensenj": 46,
+            "write-ins": 25,
+            "la_rivag": 5,
+            "bidenj": 2549
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 13144,
+          "results": {
+            "carrollb": 18,
+            "trumpd": 5930,
+            "de_la_fuenter": 23,
+            "jorgensenj": 150,
+            "write-ins": 73,
+            "la_rivag": 14,
+            "bidenj": 6935
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 6516,
+          "results": {
+            "carrollb": 9,
+            "trumpd": 2220,
+            "de_la_fuenter": 10,
+            "jorgensenj": 71,
+            "write-ins": 35,
+            "la_rivag": 8,
+            "bidenj": 4163
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 38499,
+          "results": {
+            "carrollb": 60,
+            "trumpd": 14480,
+            "de_la_fuenter": 70,
+            "jorgensenj": 323,
+            "write-ins": 189,
+            "la_rivag": 78,
+            "bidenj": 23299
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 10739,
+          "results": {
+            "carrollb": 16,
+            "trumpd": 4210,
+            "de_la_fuenter": 21,
+            "jorgensenj": 122,
+            "write-ins": 67,
+            "la_rivag": 13,
+            "bidenj": 6290
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:28:01Z",
+      "total_votes": 96102,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 5274,
+          "results": {
+            "carrollb": 7,
+            "trumpd": 1809,
+            "de_la_fuenter": 8,
+            "jorgensenj": 61,
+            "write-ins": 33,
+            "la_rivag": 7,
+            "bidenj": 3350
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 17279,
+          "results": {
+            "carrollb": 24,
+            "trumpd": 7796,
+            "de_la_fuenter": 30,
+            "jorgensenj": 198,
+            "write-ins": 96,
+            "la_rivag": 19,
+            "bidenj": 9116
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 8566,
+          "results": {
+            "carrollb": 11,
+            "trumpd": 2918,
+            "de_la_fuenter": 13,
+            "jorgensenj": 94,
+            "write-ins": 46,
+            "la_rivag": 11,
+            "bidenj": 5473
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 50610,
+          "results": {
+            "carrollb": 78,
+            "trumpd": 19035,
+            "de_la_fuenter": 92,
+            "jorgensenj": 425,
+            "write-ins": 249,
+            "la_rivag": 103,
+            "bidenj": 30628
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 14118,
+          "results": {
+            "carrollb": 21,
+            "trumpd": 5535,
+            "de_la_fuenter": 28,
+            "jorgensenj": 160,
+            "write-ins": 88,
+            "la_rivag": 18,
+            "bidenj": 8269
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:32:02Z",
+      "total_votes": 124809,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 6850,
+          "results": {
+            "carrollb": 9,
+            "trumpd": 2349,
+            "de_la_fuenter": 10,
+            "jorgensenj": 79,
+            "write-ins": 42,
+            "la_rivag": 9,
+            "bidenj": 4351
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 22441,
+          "results": {
+            "carrollb": 32,
+            "trumpd": 10125,
+            "de_la_fuenter": 40,
+            "jorgensenj": 257,
+            "write-ins": 125,
+            "la_rivag": 24,
+            "bidenj": 11839
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 11124,
+          "results": {
+            "carrollb": 15,
+            "trumpd": 3790,
+            "de_la_fuenter": 17,
+            "jorgensenj": 121,
+            "write-ins": 60,
+            "la_rivag": 14,
+            "bidenj": 7108
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 65728,
+          "results": {
+            "carrollb": 102,
+            "trumpd": 24721,
+            "de_la_fuenter": 120,
+            "jorgensenj": 552,
+            "write-ins": 323,
+            "la_rivag": 133,
+            "bidenj": 39777
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 18335,
+          "results": {
+            "carrollb": 27,
+            "trumpd": 7188,
+            "de_la_fuenter": 36,
+            "jorgensenj": 208,
+            "write-ins": 114,
+            "la_rivag": 23,
+            "bidenj": 10739
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:33:56Z",
+      "total_votes": 127594,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 7002,
+          "results": {
+            "carrollb": 10,
+            "trumpd": 2402,
+            "de_la_fuenter": 10,
+            "jorgensenj": 80,
+            "write-ins": 43,
+            "la_rivag": 9,
+            "bidenj": 4448
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 22941,
+          "results": {
+            "carrollb": 32,
+            "trumpd": 10351,
+            "de_la_fuenter": 40,
+            "jorgensenj": 262,
+            "write-ins": 128,
+            "la_rivag": 25,
+            "bidenj": 12103
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 11373,
+          "results": {
+            "carrollb": 15,
+            "trumpd": 3874,
+            "de_la_fuenter": 17,
+            "jorgensenj": 124,
+            "write-ins": 61,
+            "la_rivag": 14,
+            "bidenj": 7266
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 67195,
+          "results": {
+            "carrollb": 104,
+            "trumpd": 25272,
+            "de_la_fuenter": 122,
+            "jorgensenj": 565,
+            "write-ins": 330,
+            "la_rivag": 136,
+            "bidenj": 40665
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 18744,
+          "results": {
+            "carrollb": 28,
+            "trumpd": 7348,
+            "de_la_fuenter": 37,
+            "jorgensenj": 212,
+            "write-ins": 117,
+            "la_rivag": 23,
+            "bidenj": 10978
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:35:06Z",
+      "total_votes": 152904,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 8392,
+          "results": {
+            "carrollb": 12,
+            "trumpd": 2878,
+            "de_la_fuenter": 12,
+            "jorgensenj": 96,
+            "write-ins": 52,
+            "la_rivag": 11,
+            "bidenj": 5331
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 27492,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 12404,
+            "de_la_fuenter": 48,
+            "jorgensenj": 315,
+            "write-ins": 153,
+            "la_rivag": 30,
+            "bidenj": 14504
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 13628,
+          "results": {
+            "carrollb": 18,
+            "trumpd": 4643,
+            "de_la_fuenter": 21,
+            "jorgensenj": 149,
+            "write-ins": 73,
+            "la_rivag": 17,
+            "bidenj": 8708
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 80524,
+          "results": {
+            "carrollb": 125,
+            "trumpd": 30285,
+            "de_la_fuenter": 147,
+            "jorgensenj": 677,
+            "write-ins": 396,
+            "la_rivag": 163,
+            "bidenj": 48731
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 22462,
+          "results": {
+            "carrollb": 34,
+            "trumpd": 8806,
+            "de_la_fuenter": 44,
+            "jorgensenj": 254,
+            "write-ins": 140,
+            "la_rivag": 28,
+            "bidenj": 13156
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:36:00Z",
+      "total_votes": 161933,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 8887,
+          "results": {
+            "carrollb": 12,
+            "trumpd": 3048,
+            "de_la_fuenter": 13,
+            "jorgensenj": 102,
+            "write-ins": 55,
+            "la_rivag": 12,
+            "bidenj": 5645
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 29116,
+          "results": {
+            "carrollb": 41,
+            "trumpd": 13136,
+            "de_la_fuenter": 51,
+            "jorgensenj": 333,
+            "write-ins": 162,
+            "la_rivag": 31,
+            "bidenj": 15361
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 14433,
+          "results": {
+            "carrollb": 19,
+            "trumpd": 4917,
+            "de_la_fuenter": 22,
+            "jorgensenj": 158,
+            "write-ins": 77,
+            "la_rivag": 18,
+            "bidenj": 9222
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 85279,
+          "results": {
+            "carrollb": 132,
+            "trumpd": 32074,
+            "de_la_fuenter": 155,
+            "jorgensenj": 717,
+            "write-ins": 419,
+            "la_rivag": 173,
+            "bidenj": 51609
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 23788,
+          "results": {
+            "carrollb": 36,
+            "trumpd": 9326,
+            "de_la_fuenter": 47,
+            "jorgensenj": 269,
+            "write-ins": 148,
+            "la_rivag": 30,
+            "bidenj": 13933
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:40:57Z",
+      "total_votes": 166726,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9150,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3138,
+            "de_la_fuenter": 13,
+            "jorgensenj": 105,
+            "write-ins": 57,
+            "la_rivag": 12,
+            "bidenj": 5812
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 29977,
+          "results": {
+            "carrollb": 42,
+            "trumpd": 13525,
+            "de_la_fuenter": 53,
+            "jorgensenj": 343,
+            "write-ins": 167,
+            "la_rivag": 32,
+            "bidenj": 15815
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 14860,
+          "results": {
+            "carrollb": 20,
+            "trumpd": 5063,
+            "de_la_fuenter": 23,
+            "jorgensenj": 162,
+            "write-ins": 80,
+            "la_rivag": 18,
+            "bidenj": 9495
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 87803,
+          "results": {
+            "carrollb": 136,
+            "trumpd": 33023,
+            "de_la_fuenter": 160,
+            "jorgensenj": 738,
+            "write-ins": 432,
+            "la_rivag": 178,
+            "bidenj": 53136
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 24493,
+          "results": {
+            "carrollb": 37,
+            "trumpd": 9602,
+            "de_la_fuenter": 48,
+            "jorgensenj": 277,
+            "write-ins": 152,
+            "la_rivag": 31,
+            "bidenj": 14345
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:43:59Z",
+      "total_votes": 171060,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9388,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3220,
+            "de_la_fuenter": 14,
+            "jorgensenj": 108,
+            "write-ins": 58,
+            "la_rivag": 13,
+            "bidenj": 5963
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 30757,
+          "results": {
+            "carrollb": 43,
+            "trumpd": 13877,
+            "de_la_fuenter": 54,
+            "jorgensenj": 352,
+            "write-ins": 171,
+            "la_rivag": 33,
+            "bidenj": 16226
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15247,
+          "results": {
+            "carrollb": 20,
+            "trumpd": 5194,
+            "de_la_fuenter": 23,
+            "jorgensenj": 167,
+            "write-ins": 82,
+            "la_rivag": 19,
+            "bidenj": 9742
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 90086,
+          "results": {
+            "carrollb": 139,
+            "trumpd": 33881,
+            "de_la_fuenter": 164,
+            "jorgensenj": 757,
+            "write-ins": 443,
+            "la_rivag": 183,
+            "bidenj": 54518
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25129,
+          "results": {
+            "carrollb": 38,
+            "trumpd": 9851,
+            "de_la_fuenter": 50,
+            "jorgensenj": 284,
+            "write-ins": 156,
+            "la_rivag": 31,
+            "bidenj": 14718
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:45:58Z",
+      "total_votes": 173429,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9518,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3264,
+            "de_la_fuenter": 14,
+            "jorgensenj": 109,
+            "write-ins": 59,
+            "la_rivag": 13,
+            "bidenj": 6046
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 31183,
+          "results": {
+            "carrollb": 44,
+            "trumpd": 14069,
+            "de_la_fuenter": 55,
+            "jorgensenj": 357,
+            "write-ins": 174,
+            "la_rivag": 33,
+            "bidenj": 16451
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15458,
+          "results": {
+            "carrollb": 20,
+            "trumpd": 5266,
+            "de_la_fuenter": 24,
+            "jorgensenj": 169,
+            "write-ins": 83,
+            "la_rivag": 19,
+            "bidenj": 9877
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 91333,
+          "results": {
+            "carrollb": 141,
+            "trumpd": 34351,
+            "de_la_fuenter": 166,
+            "jorgensenj": 767,
+            "write-ins": 449,
+            "la_rivag": 185,
+            "bidenj": 55273
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25477,
+          "results": {
+            "carrollb": 38,
+            "trumpd": 9988,
+            "de_la_fuenter": 50,
+            "jorgensenj": 288,
+            "write-ins": 158,
+            "la_rivag": 32,
+            "bidenj": 14922
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T01:52:02Z",
+      "total_votes": 173628,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9529,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3268,
+            "de_la_fuenter": 14,
+            "jorgensenj": 109,
+            "write-ins": 59,
+            "la_rivag": 13,
+            "bidenj": 6053
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 31218,
+          "results": {
+            "carrollb": 44,
+            "trumpd": 14085,
+            "de_la_fuenter": 55,
+            "jorgensenj": 357,
+            "write-ins": 174,
+            "la_rivag": 34,
+            "bidenj": 16470
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15476,
+          "results": {
+            "carrollb": 20,
+            "trumpd": 5272,
+            "de_la_fuenter": 24,
+            "jorgensenj": 169,
+            "write-ins": 83,
+            "la_rivag": 19,
+            "bidenj": 9888
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 91438,
+          "results": {
+            "carrollb": 142,
+            "trumpd": 34390,
+            "de_la_fuenter": 167,
+            "jorgensenj": 768,
+            "write-ins": 450,
+            "la_rivag": 185,
+            "bidenj": 55336
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25506,
+          "results": {
+            "carrollb": 38,
+            "trumpd": 9999,
+            "de_la_fuenter": 50,
+            "jorgensenj": 289,
+            "write-ins": 159,
+            "la_rivag": 32,
+            "bidenj": 14939
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T02:01:57Z",
+      "total_votes": 173840,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9541,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3272,
+            "de_la_fuenter": 14,
+            "jorgensenj": 109,
+            "write-ins": 59,
+            "la_rivag": 13,
+            "bidenj": 6060
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 31257,
+          "results": {
+            "carrollb": 44,
+            "trumpd": 14102,
+            "de_la_fuenter": 55,
+            "jorgensenj": 358,
+            "write-ins": 174,
+            "la_rivag": 34,
+            "bidenj": 16490
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15494,
+          "results": {
+            "carrollb": 20,
+            "trumpd": 5279,
+            "de_la_fuenter": 24,
+            "jorgensenj": 169,
+            "write-ins": 83,
+            "la_rivag": 19,
+            "bidenj": 9900
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 91550,
+          "results": {
+            "carrollb": 142,
+            "trumpd": 34432,
+            "de_la_fuenter": 167,
+            "jorgensenj": 769,
+            "write-ins": 450,
+            "la_rivag": 186,
+            "bidenj": 55404
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25538,
+          "results": {
+            "carrollb": 38,
+            "trumpd": 10012,
+            "de_la_fuenter": 50,
+            "jorgensenj": 289,
+            "write-ins": 159,
+            "la_rivag": 32,
+            "bidenj": 14958
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T02:22:26Z",
+      "total_votes": 174291,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9565,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3280,
+            "de_la_fuenter": 14,
+            "jorgensenj": 110,
+            "write-ins": 59,
+            "la_rivag": 13,
+            "bidenj": 6076
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 31338,
+          "results": {
+            "carrollb": 44,
+            "trumpd": 14139,
+            "de_la_fuenter": 55,
+            "jorgensenj": 359,
+            "write-ins": 175,
+            "la_rivag": 34,
+            "bidenj": 16533
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15535,
+          "results": {
+            "carrollb": 21,
+            "trumpd": 5292,
+            "de_la_fuenter": 24,
+            "jorgensenj": 170,
+            "write-ins": 83,
+            "la_rivag": 19,
+            "bidenj": 9926
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 91787,
+          "results": {
+            "carrollb": 142,
+            "trumpd": 34521,
+            "de_la_fuenter": 167,
+            "jorgensenj": 771,
+            "write-ins": 451,
+            "la_rivag": 186,
+            "bidenj": 55547
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25604,
+          "results": {
+            "carrollb": 38,
+            "trumpd": 10038,
+            "de_la_fuenter": 50,
+            "jorgensenj": 290,
+            "write-ins": 159,
+            "la_rivag": 32,
+            "bidenj": 14996
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T02:33:01Z",
+      "total_votes": 174631,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9584,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3287,
+            "de_la_fuenter": 14,
+            "jorgensenj": 110,
+            "write-ins": 59,
+            "la_rivag": 13,
+            "bidenj": 6088
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 31399,
+          "results": {
+            "carrollb": 44,
+            "trumpd": 14166,
+            "de_la_fuenter": 55,
+            "jorgensenj": 359,
+            "write-ins": 175,
+            "la_rivag": 34,
+            "bidenj": 16565
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15565,
+          "results": {
+            "carrollb": 21,
+            "trumpd": 5303,
+            "de_la_fuenter": 24,
+            "jorgensenj": 170,
+            "write-ins": 83,
+            "la_rivag": 19,
+            "bidenj": 9945
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 91966,
+          "results": {
+            "carrollb": 142,
+            "trumpd": 34589,
+            "de_la_fuenter": 168,
+            "jorgensenj": 773,
+            "write-ins": 452,
+            "la_rivag": 187,
+            "bidenj": 55656
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25654,
+          "results": {
+            "carrollb": 38,
+            "trumpd": 10057,
+            "de_la_fuenter": 51,
+            "jorgensenj": 290,
+            "write-ins": 160,
+            "la_rivag": 32,
+            "bidenj": 15026
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T02:33:32Z",
+      "total_votes": 175315,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9621,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3300,
+            "de_la_fuenter": 14,
+            "jorgensenj": 110,
+            "write-ins": 60,
+            "la_rivag": 13,
+            "bidenj": 6112
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 31522,
+          "results": {
+            "carrollb": 44,
+            "trumpd": 14222,
+            "de_la_fuenter": 56,
+            "jorgensenj": 361,
+            "write-ins": 176,
+            "la_rivag": 34,
+            "bidenj": 16630
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15626,
+          "results": {
+            "carrollb": 21,
+            "trumpd": 5324,
+            "de_la_fuenter": 24,
+            "jorgensenj": 171,
+            "write-ins": 84,
+            "la_rivag": 19,
+            "bidenj": 9984
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 92326,
+          "results": {
+            "carrollb": 143,
+            "trumpd": 34724,
+            "de_la_fuenter": 168,
+            "jorgensenj": 776,
+            "write-ins": 454,
+            "la_rivag": 187,
+            "bidenj": 55874
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25754,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 10097,
+            "de_la_fuenter": 51,
+            "jorgensenj": 292,
+            "write-ins": 160,
+            "la_rivag": 32,
+            "bidenj": 15085
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T02:34:27Z",
+      "total_votes": 175443,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9628,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3302,
+            "de_la_fuenter": 14,
+            "jorgensenj": 110,
+            "write-ins": 60,
+            "la_rivag": 13,
+            "bidenj": 6116
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 31545,
+          "results": {
+            "carrollb": 44,
+            "trumpd": 14232,
+            "de_la_fuenter": 56,
+            "jorgensenj": 361,
+            "write-ins": 176,
+            "la_rivag": 34,
+            "bidenj": 16642
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15637,
+          "results": {
+            "carrollb": 21,
+            "trumpd": 5327,
+            "de_la_fuenter": 24,
+            "jorgensenj": 171,
+            "write-ins": 84,
+            "la_rivag": 19,
+            "bidenj": 9991
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 92394,
+          "results": {
+            "carrollb": 143,
+            "trumpd": 34750,
+            "de_la_fuenter": 168,
+            "jorgensenj": 776,
+            "write-ins": 454,
+            "la_rivag": 187,
+            "bidenj": 55915
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25773,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 10104,
+            "de_la_fuenter": 51,
+            "jorgensenj": 292,
+            "write-ins": 160,
+            "la_rivag": 32,
+            "bidenj": 15096
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:11:12Z",
+      "total_votes": 175493,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9631,
+          "results": {
+            "carrollb": 13,
+            "trumpd": 3303,
+            "de_la_fuenter": 14,
+            "jorgensenj": 110,
+            "write-ins": 60,
+            "la_rivag": 13,
+            "bidenj": 6118
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 31554,
+          "results": {
+            "carrollb": 44,
+            "trumpd": 14236,
+            "de_la_fuenter": 56,
+            "jorgensenj": 361,
+            "write-ins": 176,
+            "la_rivag": 34,
+            "bidenj": 16647
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 15642,
+          "results": {
+            "carrollb": 21,
+            "trumpd": 5329,
+            "de_la_fuenter": 24,
+            "jorgensenj": 171,
+            "write-ins": 84,
+            "la_rivag": 19,
+            "bidenj": 9994
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 92420,
+          "results": {
+            "carrollb": 143,
+            "trumpd": 34760,
+            "de_la_fuenter": 168,
+            "jorgensenj": 777,
+            "write-ins": 455,
+            "la_rivag": 187,
+            "bidenj": 55931
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 25780,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 10107,
+            "de_la_fuenter": 51,
+            "jorgensenj": 292,
+            "write-ins": 160,
+            "la_rivag": 32,
+            "bidenj": 15100
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:11:48Z",
+      "total_votes": 181818,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 9978,
+          "results": {
+            "carrollb": 14,
+            "trumpd": 3422,
+            "de_la_fuenter": 14,
+            "jorgensenj": 114,
+            "write-ins": 62,
+            "la_rivag": 13,
+            "bidenj": 6339
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 32691,
+          "results": {
+            "carrollb": 46,
+            "trumpd": 14749,
+            "de_la_fuenter": 58,
+            "jorgensenj": 374,
+            "write-ins": 182,
+            "la_rivag": 35,
+            "bidenj": 17247
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 16206,
+          "results": {
+            "carrollb": 21,
+            "trumpd": 5521,
+            "de_la_fuenter": 25,
+            "jorgensenj": 177,
+            "write-ins": 87,
+            "la_rivag": 20,
+            "bidenj": 10354
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 95751,
+          "results": {
+            "carrollb": 148,
+            "trumpd": 36012,
+            "de_la_fuenter": 175,
+            "jorgensenj": 805,
+            "write-ins": 471,
+            "la_rivag": 194,
+            "bidenj": 57946
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 26710,
+          "results": {
+            "carrollb": 40,
+            "trumpd": 10471,
+            "de_la_fuenter": 53,
+            "jorgensenj": 302,
+            "write-ins": 166,
+            "la_rivag": 33,
+            "bidenj": 15644
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:37:16Z",
+      "total_votes": 183459,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 10068,
+          "results": {
+            "carrollb": 14,
+            "trumpd": 3453,
+            "de_la_fuenter": 15,
+            "jorgensenj": 116,
+            "write-ins": 62,
+            "la_rivag": 13,
+            "bidenj": 6396
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 32986,
+          "results": {
+            "carrollb": 46,
+            "trumpd": 14882,
+            "de_la_fuenter": 58,
+            "jorgensenj": 377,
+            "write-ins": 184,
+            "la_rivag": 35,
+            "bidenj": 17402
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 16352,
+          "results": {
+            "carrollb": 22,
+            "trumpd": 5571,
+            "de_la_fuenter": 25,
+            "jorgensenj": 179,
+            "write-ins": 88,
+            "la_rivag": 20,
+            "bidenj": 10448
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 96615,
+          "results": {
+            "carrollb": 150,
+            "trumpd": 36337,
+            "de_la_fuenter": 176,
+            "jorgensenj": 812,
+            "write-ins": 475,
+            "la_rivag": 196,
+            "bidenj": 58469
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 26951,
+          "results": {
+            "carrollb": 40,
+            "trumpd": 10566,
+            "de_la_fuenter": 53,
+            "jorgensenj": 305,
+            "write-ins": 168,
+            "la_rivag": 34,
+            "bidenj": 15785
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:37:55Z",
+      "total_votes": 196730,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 10797,
+          "results": {
+            "carrollb": 15,
+            "trumpd": 3703,
+            "de_la_fuenter": 16,
+            "jorgensenj": 124,
+            "write-ins": 67,
+            "la_rivag": 14,
+            "bidenj": 6858
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 35372,
+          "results": {
+            "carrollb": 50,
+            "trumpd": 15959,
+            "de_la_fuenter": 62,
+            "jorgensenj": 405,
+            "write-ins": 197,
+            "la_rivag": 38,
+            "bidenj": 18661
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 17535,
+          "results": {
+            "carrollb": 23,
+            "trumpd": 5974,
+            "de_la_fuenter": 27,
+            "jorgensenj": 192,
+            "write-ins": 94,
+            "la_rivag": 22,
+            "bidenj": 11204
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 103604,
+          "results": {
+            "carrollb": 160,
+            "trumpd": 38966,
+            "de_la_fuenter": 189,
+            "jorgensenj": 871,
+            "write-ins": 510,
+            "la_rivag": 210,
+            "bidenj": 62699
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 28900,
+          "results": {
+            "carrollb": 43,
+            "trumpd": 11330,
+            "de_la_fuenter": 57,
+            "jorgensenj": 327,
+            "write-ins": 180,
+            "la_rivag": 36,
+            "bidenj": 16927
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:47:58Z",
+      "total_votes": 205725,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 11290,
+          "results": {
+            "carrollb": 15,
+            "trumpd": 3872,
+            "de_la_fuenter": 16,
+            "jorgensenj": 130,
+            "write-ins": 70,
+            "la_rivag": 15,
+            "bidenj": 7172
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 36989,
+          "results": {
+            "carrollb": 52,
+            "trumpd": 16689,
+            "de_la_fuenter": 65,
+            "jorgensenj": 423,
+            "write-ins": 206,
+            "la_rivag": 40,
+            "bidenj": 19515
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 18336,
+          "results": {
+            "carrollb": 24,
+            "trumpd": 6247,
+            "de_la_fuenter": 28,
+            "jorgensenj": 200,
+            "write-ins": 98,
+            "la_rivag": 23,
+            "bidenj": 11716
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 108341,
+          "results": {
+            "carrollb": 168,
+            "trumpd": 40748,
+            "de_la_fuenter": 197,
+            "jorgensenj": 910,
+            "write-ins": 533,
+            "la_rivag": 220,
+            "bidenj": 65566
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 30222,
+          "results": {
+            "carrollb": 45,
+            "trumpd": 11848,
+            "de_la_fuenter": 60,
+            "jorgensenj": 342,
+            "write-ins": 188,
+            "la_rivag": 38,
+            "bidenj": 17701
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:55:15Z",
+      "total_votes": 212407,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 11657,
+          "results": {
+            "carrollb": 16,
+            "trumpd": 3998,
+            "de_la_fuenter": 17,
+            "jorgensenj": 134,
+            "write-ins": 72,
+            "la_rivag": 16,
+            "bidenj": 7405
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 38191,
+          "results": {
+            "carrollb": 54,
+            "trumpd": 17231,
+            "de_la_fuenter": 67,
+            "jorgensenj": 437,
+            "write-ins": 213,
+            "la_rivag": 41,
+            "bidenj": 20148
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 18932,
+          "results": {
+            "carrollb": 25,
+            "trumpd": 6450,
+            "de_la_fuenter": 29,
+            "jorgensenj": 207,
+            "write-ins": 101,
+            "la_rivag": 23,
+            "bidenj": 12096
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 111860,
+          "results": {
+            "carrollb": 173,
+            "trumpd": 42071,
+            "de_la_fuenter": 204,
+            "jorgensenj": 940,
+            "write-ins": 550,
+            "la_rivag": 227,
+            "bidenj": 67695
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 31203,
+          "results": {
+            "carrollb": 47,
+            "trumpd": 12233,
+            "de_la_fuenter": 62,
+            "jorgensenj": 353,
+            "write-ins": 194,
+            "la_rivag": 39,
+            "bidenj": 18276
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:56:46Z",
+      "total_votes": 222983,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 12238,
+          "results": {
+            "carrollb": 17,
+            "trumpd": 4197,
+            "de_la_fuenter": 18,
+            "jorgensenj": 140,
+            "write-ins": 76,
+            "la_rivag": 16,
+            "bidenj": 7774
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 40092,
+          "results": {
+            "carrollb": 56,
+            "trumpd": 18089,
+            "de_la_fuenter": 71,
+            "jorgensenj": 459,
+            "write-ins": 224,
+            "la_rivag": 43,
+            "bidenj": 21152
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 19875,
+          "results": {
+            "carrollb": 26,
+            "trumpd": 6771,
+            "de_la_fuenter": 31,
+            "jorgensenj": 217,
+            "write-ins": 106,
+            "la_rivag": 25,
+            "bidenj": 12699
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 117430,
+          "results": {
+            "carrollb": 182,
+            "trumpd": 44166,
+            "de_la_fuenter": 214,
+            "jorgensenj": 987,
+            "write-ins": 578,
+            "la_rivag": 238,
+            "bidenj": 71066
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 32757,
+          "results": {
+            "carrollb": 49,
+            "trumpd": 12842,
+            "de_la_fuenter": 65,
+            "jorgensenj": 371,
+            "write-ins": 204,
+            "la_rivag": 41,
+            "bidenj": 19186
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T03:56:52Z",
+      "total_votes": 243820,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 13381,
+          "results": {
+            "carrollb": 18,
+            "trumpd": 4589,
+            "de_la_fuenter": 19,
+            "jorgensenj": 154,
+            "write-ins": 83,
+            "la_rivag": 18,
+            "bidenj": 8500
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 43839,
+          "results": {
+            "carrollb": 62,
+            "trumpd": 19779,
+            "de_la_fuenter": 77,
+            "jorgensenj": 502,
+            "write-ins": 244,
+            "la_rivag": 47,
+            "bidenj": 23128
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 21732,
+          "results": {
+            "carrollb": 29,
+            "trumpd": 7404,
+            "de_la_fuenter": 33,
+            "jorgensenj": 237,
+            "write-ins": 116,
+            "la_rivag": 27,
+            "bidenj": 13885
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 128403,
+          "results": {
+            "carrollb": 199,
+            "trumpd": 48293,
+            "de_la_fuenter": 234,
+            "jorgensenj": 1079,
+            "write-ins": 631,
+            "la_rivag": 260,
+            "bidenj": 77707
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 35818,
+          "results": {
+            "carrollb": 54,
+            "trumpd": 14042,
+            "de_la_fuenter": 71,
+            "jorgensenj": 405,
+            "write-ins": 223,
+            "la_rivag": 45,
+            "bidenj": 20979
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T04:10:20Z",
+      "total_votes": 263672,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 14471,
+          "results": {
+            "carrollb": 20,
+            "trumpd": 4963,
+            "de_la_fuenter": 21,
+            "jorgensenj": 166,
+            "write-ins": 90,
+            "la_rivag": 19,
+            "bidenj": 9192
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 47408,
+          "results": {
+            "carrollb": 67,
+            "trumpd": 21389,
+            "de_la_fuenter": 84,
+            "jorgensenj": 542,
+            "write-ins": 264,
+            "la_rivag": 51,
+            "bidenj": 25011
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 23501,
+          "results": {
+            "carrollb": 31,
+            "trumpd": 8007,
+            "de_la_fuenter": 36,
+            "jorgensenj": 257,
+            "write-ins": 126,
+            "la_rivag": 29,
+            "bidenj": 15016
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 138858,
+          "results": {
+            "carrollb": 215,
+            "trumpd": 52225,
+            "de_la_fuenter": 253,
+            "jorgensenj": 1167,
+            "write-ins": 683,
+            "la_rivag": 282,
+            "bidenj": 84034
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 38734,
+          "results": {
+            "carrollb": 58,
+            "trumpd": 15185,
+            "de_la_fuenter": 76,
+            "jorgensenj": 438,
+            "write-ins": 241,
+            "la_rivag": 48,
+            "bidenj": 22687
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T04:24:39Z",
+      "total_votes": 267432,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 14677,
+          "results": {
+            "carrollb": 20,
+            "trumpd": 5033,
+            "de_la_fuenter": 21,
+            "jorgensenj": 168,
+            "write-ins": 91,
+            "la_rivag": 20,
+            "bidenj": 9323
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 48084,
+          "results": {
+            "carrollb": 68,
+            "trumpd": 21694,
+            "de_la_fuenter": 85,
+            "jorgensenj": 550,
+            "write-ins": 268,
+            "la_rivag": 52,
+            "bidenj": 25368
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 23836,
+          "results": {
+            "carrollb": 32,
+            "trumpd": 8121,
+            "de_la_fuenter": 37,
+            "jorgensenj": 260,
+            "write-ins": 128,
+            "la_rivag": 29,
+            "bidenj": 15230
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 140838,
+          "results": {
+            "carrollb": 218,
+            "trumpd": 52970,
+            "de_la_fuenter": 257,
+            "jorgensenj": 1183,
+            "write-ins": 693,
+            "la_rivag": 286,
+            "bidenj": 85232
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 39287,
+          "results": {
+            "carrollb": 59,
+            "trumpd": 15402,
+            "de_la_fuenter": 77,
+            "jorgensenj": 445,
+            "write-ins": 244,
+            "la_rivag": 49,
+            "bidenj": 23010
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T04:54:56Z",
+      "total_votes": 267419,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 14676,
+          "results": {
+            "carrollb": 20,
+            "trumpd": 5033,
+            "de_la_fuenter": 21,
+            "jorgensenj": 168,
+            "write-ins": 91,
+            "la_rivag": 20,
+            "bidenj": 9323
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 48082,
+          "results": {
+            "carrollb": 68,
+            "trumpd": 21693,
+            "de_la_fuenter": 85,
+            "jorgensenj": 550,
+            "write-ins": 268,
+            "la_rivag": 52,
+            "bidenj": 25367
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 23835,
+          "results": {
+            "carrollb": 32,
+            "trumpd": 8120,
+            "de_la_fuenter": 37,
+            "jorgensenj": 260,
+            "write-ins": 128,
+            "la_rivag": 29,
+            "bidenj": 15229
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 140831,
+          "results": {
+            "carrollb": 218,
+            "trumpd": 52967,
+            "de_la_fuenter": 257,
+            "jorgensenj": 1183,
+            "write-ins": 693,
+            "la_rivag": 286,
+            "bidenj": 85228
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 39285,
+          "results": {
+            "carrollb": 59,
+            "trumpd": 15401,
+            "de_la_fuenter": 77,
+            "jorgensenj": 445,
+            "write-ins": 244,
+            "la_rivag": 49,
+            "bidenj": 23009
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T06:00:04Z",
+      "total_votes": 327644,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 17981,
+          "results": {
+            "carrollb": 25,
+            "trumpd": 6167,
+            "de_la_fuenter": 26,
+            "jorgensenj": 206,
+            "write-ins": 111,
+            "la_rivag": 24,
+            "bidenj": 11422
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 58911,
+          "results": {
+            "carrollb": 83,
+            "trumpd": 26579,
+            "de_la_fuenter": 104,
+            "jorgensenj": 674,
+            "write-ins": 328,
+            "la_rivag": 63,
+            "bidenj": 31079
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 29203,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9949,
+            "de_la_fuenter": 45,
+            "jorgensenj": 319,
+            "write-ins": 156,
+            "la_rivag": 36,
+            "bidenj": 18659
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 172548,
+          "results": {
+            "carrollb": 267,
+            "trumpd": 64896,
+            "de_la_fuenter": 315,
+            "jorgensenj": 1450,
+            "write-ins": 849,
+            "la_rivag": 350,
+            "bidenj": 104422
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 48132,
+          "results": {
+            "carrollb": 72,
+            "trumpd": 18869,
+            "de_la_fuenter": 95,
+            "jorgensenj": 545,
+            "write-ins": 299,
+            "la_rivag": 60,
+            "bidenj": 28191
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T06:08:50Z",
+      "total_votes": 477068,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 26182,
+          "results": {
+            "carrollb": 36,
+            "trumpd": 8979,
+            "de_la_fuenter": 38,
+            "jorgensenj": 300,
+            "write-ins": 162,
+            "la_rivag": 35,
+            "bidenj": 16632
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 85777,
+          "results": {
+            "carrollb": 121,
+            "trumpd": 38700,
+            "de_la_fuenter": 151,
+            "jorgensenj": 981,
+            "write-ins": 478,
+            "la_rivag": 92,
+            "bidenj": 45253
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 42521,
+          "results": {
+            "carrollb": 56,
+            "trumpd": 14486,
+            "de_la_fuenter": 65,
+            "jorgensenj": 464,
+            "write-ins": 228,
+            "la_rivag": 53,
+            "bidenj": 27169
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 251239,
+          "results": {
+            "carrollb": 389,
+            "trumpd": 94492,
+            "de_la_fuenter": 458,
+            "jorgensenj": 2111,
+            "write-ins": 1236,
+            "la_rivag": 510,
+            "bidenj": 152044
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 70083,
+          "results": {
+            "carrollb": 105,
+            "trumpd": 27475,
+            "de_la_fuenter": 138,
+            "jorgensenj": 793,
+            "write-ins": 436,
+            "la_rivag": 88,
+            "bidenj": 41048
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T06:12:55Z",
+      "total_votes": 481695,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 26436,
+          "results": {
+            "carrollb": 36,
+            "trumpd": 9066,
+            "de_la_fuenter": 38,
+            "jorgensenj": 303,
+            "write-ins": 164,
+            "la_rivag": 35,
+            "bidenj": 16793
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 86609,
+          "results": {
+            "carrollb": 122,
+            "trumpd": 39076,
+            "de_la_fuenter": 153,
+            "jorgensenj": 991,
+            "write-ins": 483,
+            "la_rivag": 93,
+            "bidenj": 45692
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 42934,
+          "results": {
+            "carrollb": 57,
+            "trumpd": 14627,
+            "de_la_fuenter": 66,
+            "jorgensenj": 469,
+            "write-ins": 230,
+            "la_rivag": 53,
+            "bidenj": 27432
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 253676,
+          "results": {
+            "carrollb": 393,
+            "trumpd": 95408,
+            "de_la_fuenter": 462,
+            "jorgensenj": 2131,
+            "write-ins": 1248,
+            "la_rivag": 514,
+            "bidenj": 153519
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 70762,
+          "results": {
+            "carrollb": 106,
+            "trumpd": 27741,
+            "de_la_fuenter": 140,
+            "jorgensenj": 801,
+            "write-ins": 440,
+            "la_rivag": 88,
+            "bidenj": 41446
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T21:13:02Z",
+      "total_votes": 500390,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 27462,
+          "results": {
+            "carrollb": 38,
+            "trumpd": 9418,
+            "de_la_fuenter": 40,
+            "jorgensenj": 315,
+            "write-ins": 170,
+            "la_rivag": 37,
+            "bidenj": 17445
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 89970,
+          "results": {
+            "carrollb": 127,
+            "trumpd": 40592,
+            "de_la_fuenter": 158,
+            "jorgensenj": 1029,
+            "write-ins": 502,
+            "la_rivag": 97,
+            "bidenj": 47466
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 44600,
+          "results": {
+            "carrollb": 59,
+            "trumpd": 15195,
+            "de_la_fuenter": 69,
+            "jorgensenj": 487,
+            "write-ins": 239,
+            "la_rivag": 55,
+            "bidenj": 28497
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 263521,
+          "results": {
+            "carrollb": 408,
+            "trumpd": 99111,
+            "de_la_fuenter": 480,
+            "jorgensenj": 2214,
+            "write-ins": 1296,
+            "la_rivag": 534,
+            "bidenj": 159477
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 73509,
+          "results": {
+            "carrollb": 110,
+            "trumpd": 28818,
+            "de_la_fuenter": 145,
+            "jorgensenj": 832,
+            "write-ins": 457,
+            "la_rivag": 92,
+            "bidenj": 43055
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-06T21:48:51Z",
+      "total_votes": 505201,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 27726,
+          "results": {
+            "carrollb": 38,
+            "trumpd": 9509,
+            "de_la_fuenter": 40,
+            "jorgensenj": 318,
+            "write-ins": 172,
+            "la_rivag": 37,
+            "bidenj": 17612
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 90835,
+          "results": {
+            "carrollb": 128,
+            "trumpd": 40982,
+            "de_la_fuenter": 160,
+            "jorgensenj": 1039,
+            "write-ins": 506,
+            "la_rivag": 98,
+            "bidenj": 47922
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 45029,
+          "results": {
+            "carrollb": 60,
+            "trumpd": 15341,
+            "de_la_fuenter": 69,
+            "jorgensenj": 492,
+            "write-ins": 241,
+            "la_rivag": 56,
+            "bidenj": 28771
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 266055,
+          "results": {
+            "carrollb": 412,
+            "trumpd": 100064,
+            "de_la_fuenter": 485,
+            "jorgensenj": 2235,
+            "write-ins": 1308,
+            "la_rivag": 540,
+            "bidenj": 161010
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 74215,
+          "results": {
+            "carrollb": 111,
+            "trumpd": 29095,
+            "de_la_fuenter": 146,
+            "jorgensenj": 840,
+            "write-ins": 462,
+            "la_rivag": 93,
+            "bidenj": 43469
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-10T13:09:07Z",
+      "total_votes": 513323,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28172,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9662,
+            "de_la_fuenter": 41,
+            "jorgensenj": 323,
+            "write-ins": 174,
+            "la_rivag": 38,
+            "bidenj": 17895
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 92296,
+          "results": {
+            "carrollb": 130,
+            "trumpd": 41641,
+            "de_la_fuenter": 163,
+            "jorgensenj": 1056,
+            "write-ins": 515,
+            "la_rivag": 99,
+            "bidenj": 48692
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 45753,
+          "results": {
+            "carrollb": 60,
+            "trumpd": 15587,
+            "de_la_fuenter": 70,
+            "jorgensenj": 500,
+            "write-ins": 245,
+            "la_rivag": 57,
+            "bidenj": 29233
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 270332,
+          "results": {
+            "carrollb": 418,
+            "trumpd": 101673,
+            "de_la_fuenter": 493,
+            "jorgensenj": 2271,
+            "write-ins": 1330,
+            "la_rivag": 548,
+            "bidenj": 163599
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 75409,
+          "results": {
+            "carrollb": 113,
+            "trumpd": 29563,
+            "de_la_fuenter": 149,
+            "jorgensenj": 854,
+            "write-ins": 469,
+            "la_rivag": 94,
+            "bidenj": 44167
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-10T23:02:51Z",
+      "total_votes": 513411,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28176,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9663,
+            "de_la_fuenter": 41,
+            "jorgensenj": 323,
+            "write-ins": 175,
+            "la_rivag": 38,
+            "bidenj": 17898
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 92312,
+          "results": {
+            "carrollb": 130,
+            "trumpd": 41648,
+            "de_la_fuenter": 163,
+            "jorgensenj": 1056,
+            "write-ins": 515,
+            "la_rivag": 99,
+            "bidenj": 48701
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 45761,
+          "results": {
+            "carrollb": 60,
+            "trumpd": 15590,
+            "de_la_fuenter": 70,
+            "jorgensenj": 500,
+            "write-ins": 245,
+            "la_rivag": 57,
+            "bidenj": 29238
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 270378,
+          "results": {
+            "carrollb": 418,
+            "trumpd": 101690,
+            "de_la_fuenter": 493,
+            "jorgensenj": 2272,
+            "write-ins": 1330,
+            "la_rivag": 548,
+            "bidenj": 163627
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 75422,
+          "results": {
+            "carrollb": 113,
+            "trumpd": 29568,
+            "de_la_fuenter": 149,
+            "jorgensenj": 854,
+            "write-ins": 469,
+            "la_rivag": 94,
+            "bidenj": 44175
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-10T23:02:58Z",
+      "total_votes": 513503,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28182,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9665,
+            "de_la_fuenter": 41,
+            "jorgensenj": 323,
+            "write-ins": 175,
+            "la_rivag": 38,
+            "bidenj": 17902
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 92328,
+          "results": {
+            "carrollb": 130,
+            "trumpd": 41656,
+            "de_la_fuenter": 163,
+            "jorgensenj": 1056,
+            "write-ins": 515,
+            "la_rivag": 99,
+            "bidenj": 48709
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 45769,
+          "results": {
+            "carrollb": 60,
+            "trumpd": 15593,
+            "de_la_fuenter": 70,
+            "jorgensenj": 500,
+            "write-ins": 245,
+            "la_rivag": 57,
+            "bidenj": 29244
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 270427,
+          "results": {
+            "carrollb": 419,
+            "trumpd": 101708,
+            "de_la_fuenter": 493,
+            "jorgensenj": 2272,
+            "write-ins": 1330,
+            "la_rivag": 548,
+            "bidenj": 163656
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 75435,
+          "results": {
+            "carrollb": 113,
+            "trumpd": 29573,
+            "de_la_fuenter": 149,
+            "jorgensenj": 854,
+            "write-ins": 469,
+            "la_rivag": 94,
+            "bidenj": 44183
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-13T21:51:01Z",
+      "total_votes": 513602,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28187,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9667,
+            "de_la_fuenter": 41,
+            "jorgensenj": 323,
+            "write-ins": 175,
+            "la_rivag": 38,
+            "bidenj": 17905
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 92346,
+          "results": {
+            "carrollb": 130,
+            "trumpd": 41664,
+            "de_la_fuenter": 163,
+            "jorgensenj": 1056,
+            "write-ins": 515,
+            "la_rivag": 99,
+            "bidenj": 48719
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 45778,
+          "results": {
+            "carrollb": 61,
+            "trumpd": 15596,
+            "de_la_fuenter": 70,
+            "jorgensenj": 500,
+            "write-ins": 245,
+            "la_rivag": 57,
+            "bidenj": 29249
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 270479,
+          "results": {
+            "carrollb": 419,
+            "trumpd": 101728,
+            "de_la_fuenter": 493,
+            "jorgensenj": 2273,
+            "write-ins": 1330,
+            "la_rivag": 549,
+            "bidenj": 163688
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 75450,
+          "results": {
+            "carrollb": 113,
+            "trumpd": 29579,
+            "de_la_fuenter": 149,
+            "jorgensenj": 854,
+            "write-ins": 469,
+            "la_rivag": 94,
+            "bidenj": 44191
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-24T19:40:55Z",
+      "total_votes": 513627,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28188,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9667,
+            "de_la_fuenter": 41,
+            "jorgensenj": 323,
+            "write-ins": 175,
+            "la_rivag": 38,
+            "bidenj": 17906
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 92350,
+          "results": {
+            "carrollb": 130,
+            "trumpd": 41666,
+            "de_la_fuenter": 163,
+            "jorgensenj": 1057,
+            "write-ins": 515,
+            "la_rivag": 99,
+            "bidenj": 48721
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 45780,
+          "results": {
+            "carrollb": 61,
+            "trumpd": 15597,
+            "de_la_fuenter": 70,
+            "jorgensenj": 500,
+            "write-ins": 245,
+            "la_rivag": 57,
+            "bidenj": 29251
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 270492,
+          "results": {
+            "carrollb": 419,
+            "trumpd": 101733,
+            "de_la_fuenter": 493,
+            "jorgensenj": 2273,
+            "write-ins": 1330,
+            "la_rivag": 549,
+            "bidenj": 163696
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 75453,
+          "results": {
+            "carrollb": 113,
+            "trumpd": 29580,
+            "de_la_fuenter": 149,
+            "jorgensenj": 854,
+            "write-ins": 469,
+            "la_rivag": 94,
+            "bidenj": 44194
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-25T04:38:09Z",
+      "total_votes": 517757,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28415,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9745,
+            "de_la_fuenter": 41,
+            "jorgensenj": 326,
+            "write-ins": 176,
+            "la_rivag": 38,
+            "bidenj": 18050
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 93093,
+          "results": {
+            "carrollb": 131,
+            "trumpd": 42001,
+            "de_la_fuenter": 164,
+            "jorgensenj": 1065,
+            "write-ins": 519,
+            "la_rivag": 100,
+            "bidenj": 49113
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 46148,
+          "results": {
+            "carrollb": 61,
+            "trumpd": 15722,
+            "de_la_fuenter": 71,
+            "jorgensenj": 504,
+            "write-ins": 247,
+            "la_rivag": 57,
+            "bidenj": 29486
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 272667,
+          "results": {
+            "carrollb": 422,
+            "trumpd": 102551,
+            "de_la_fuenter": 497,
+            "jorgensenj": 2291,
+            "write-ins": 1341,
+            "la_rivag": 553,
+            "bidenj": 165012
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 76060,
+          "results": {
+            "carrollb": 114,
+            "trumpd": 29818,
+            "de_la_fuenter": 150,
+            "jorgensenj": 861,
+            "write-ins": 473,
+            "la_rivag": 95,
+            "bidenj": 44549
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-30T19:01:58.897Z",
+      "total_votes": 514998,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28264,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9693,
+            "de_la_fuenter": 41,
+            "jorgensenj": 324,
+            "write-ins": 175,
+            "la_rivag": 38,
+            "bidenj": 17954
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 92597,
+          "results": {
+            "carrollb": 130,
+            "trumpd": 41777,
+            "de_la_fuenter": 163,
+            "jorgensenj": 1059,
+            "write-ins": 516,
+            "la_rivag": 99,
+            "bidenj": 48851
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 45902,
+          "results": {
+            "carrollb": 61,
+            "trumpd": 15638,
+            "de_la_fuenter": 71,
+            "jorgensenj": 501,
+            "write-ins": 246,
+            "la_rivag": 57,
+            "bidenj": 29329
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 271214,
+          "results": {
+            "carrollb": 420,
+            "trumpd": 102005,
+            "de_la_fuenter": 494,
+            "jorgensenj": 2279,
+            "write-ins": 1334,
+            "la_rivag": 550,
+            "bidenj": 164133
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 75655,
+          "results": {
+            "carrollb": 113,
+            "trumpd": 29659,
+            "de_la_fuenter": 149,
+            "jorgensenj": 856,
+            "write-ins": 470,
+            "la_rivag": 94,
+            "bidenj": 44312
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-12-11T16:15:51Z",
+      "total_votes": 514238,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28222,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9679,
+            "de_la_fuenter": 41,
+            "jorgensenj": 324,
+            "write-ins": 175,
+            "la_rivag": 38,
+            "bidenj": 17927
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 92460,
+          "results": {
+            "carrollb": 130,
+            "trumpd": 41716,
+            "de_la_fuenter": 163,
+            "jorgensenj": 1058,
+            "write-ins": 515,
+            "la_rivag": 99,
+            "bidenj": 48779
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 45834,
+          "results": {
+            "carrollb": 61,
+            "trumpd": 15615,
+            "de_la_fuenter": 71,
+            "jorgensenj": 501,
+            "write-ins": 245,
+            "la_rivag": 57,
+            "bidenj": 29286
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 270814,
+          "results": {
+            "carrollb": 419,
+            "trumpd": 101854,
+            "de_la_fuenter": 494,
+            "jorgensenj": 2275,
+            "write-ins": 1332,
+            "la_rivag": 549,
+            "bidenj": 163890
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 75543,
+          "results": {
+            "carrollb": 113,
+            "trumpd": 29615,
+            "de_la_fuenter": 149,
+            "jorgensenj": 855,
+            "write-ins": 470,
+            "la_rivag": 94,
+            "bidenj": 44246
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-12-11T16:20:36Z",
+      "total_votes": 516434,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28342,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9720,
+            "de_la_fuenter": 41,
+            "jorgensenj": 325,
+            "write-ins": 176,
+            "la_rivag": 38,
+            "bidenj": 18004
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 92855,
+          "results": {
+            "carrollb": 131,
+            "trumpd": 41894,
+            "de_la_fuenter": 164,
+            "jorgensenj": 1062,
+            "write-ins": 518,
+            "la_rivag": 100,
+            "bidenj": 48988
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 46030,
+          "results": {
+            "carrollb": 61,
+            "trumpd": 15682,
+            "de_la_fuenter": 71,
+            "jorgensenj": 503,
+            "write-ins": 246,
+            "la_rivag": 57,
+            "bidenj": 29411
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 271970,
+          "results": {
+            "carrollb": 421,
+            "trumpd": 102289,
+            "de_la_fuenter": 496,
+            "jorgensenj": 2285,
+            "write-ins": 1338,
+            "la_rivag": 552,
+            "bidenj": 164590
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 75866,
+          "results": {
+            "carrollb": 114,
+            "trumpd": 29742,
+            "de_la_fuenter": 150,
+            "jorgensenj": 859,
+            "write-ins": 472,
+            "la_rivag": 95,
+            "bidenj": 44435
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-12-11T16:23:58Z",
+      "total_votes": 517757,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Bristol",
+          "locality_fips": "44001",
+          "vote_type": "electionday",
+          "votes": 28415,
+          "results": {
+            "carrollb": 39,
+            "trumpd": 9745,
+            "de_la_fuenter": 41,
+            "jorgensenj": 326,
+            "write-ins": 176,
+            "la_rivag": 38,
+            "bidenj": 18050
+          }
+        },
+        {
+          "locality_name": "Kent",
+          "locality_fips": "44003",
+          "vote_type": "electionday",
+          "votes": 93093,
+          "results": {
+            "carrollb": 131,
+            "trumpd": 42001,
+            "de_la_fuenter": 164,
+            "jorgensenj": 1065,
+            "write-ins": 519,
+            "la_rivag": 100,
+            "bidenj": 49113
+          }
+        },
+        {
+          "locality_name": "Newport",
+          "locality_fips": "44005",
+          "vote_type": "electionday",
+          "votes": 46148,
+          "results": {
+            "carrollb": 61,
+            "trumpd": 15722,
+            "de_la_fuenter": 71,
+            "jorgensenj": 504,
+            "write-ins": 247,
+            "la_rivag": 57,
+            "bidenj": 29486
+          }
+        },
+        {
+          "locality_name": "Providence",
+          "locality_fips": "44007",
+          "vote_type": "electionday",
+          "votes": 272667,
+          "results": {
+            "carrollb": 422,
+            "trumpd": 102551,
+            "de_la_fuenter": 497,
+            "jorgensenj": 2291,
+            "write-ins": 1341,
+            "la_rivag": 553,
+            "bidenj": 165012
+          }
+        },
+        {
+          "locality_name": "Washington",
+          "locality_fips": "44009",
+          "vote_type": "electionday",
+          "votes": 76060,
+          "results": {
+            "carrollb": 114,
+            "trumpd": 29818,
+            "de_la_fuenter": 150,
+            "jorgensenj": 861,
+            "write-ins": 473,
+            "la_rivag": 95,
+            "bidenj": 44549
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    }
+  ]
+}

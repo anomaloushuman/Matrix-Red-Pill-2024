@@ -1,0 +1,311 @@
+{
+  "states": [
+    {
+      "code": "AK",
+      "file": "ak_timeline.json",
+      "name": "Alaska",
+      "label": "Alaska (AK)"
+    },
+    {
+      "code": "AL",
+      "file": "al_timeline.json",
+      "name": "Alabama",
+      "label": "Alabama (AL)"
+    },
+    {
+      "code": "AR",
+      "file": "ar_timeline.json",
+      "name": "Arkansas",
+      "label": "Arkansas (AR)"
+    },
+    {
+      "code": "AZ",
+      "file": "az_timeline.json",
+      "name": "Arizona",
+      "label": "Arizona (AZ)"
+    },
+    {
+      "code": "CA",
+      "file": "ca_timeline.json",
+      "name": "California",
+      "label": "California (CA)"
+    },
+    {
+      "code": "CO",
+      "file": "co_timeline.json",
+      "name": "Colorado",
+      "label": "Colorado (CO)"
+    },
+    {
+      "code": "CT",
+      "file": "ct_timeline.json",
+      "name": "Connecticut",
+      "label": "Connecticut (CT)"
+    },
+    {
+      "code": "DC",
+      "file": "dc_timeline.json",
+      "name": "District of Columbia",
+      "label": "District of Columbia (DC)"
+    },
+    {
+      "code": "DE",
+      "file": "de_timeline.json",
+      "name": "Delaware",
+      "label": "Delaware (DE)"
+    },
+    {
+      "code": "FL",
+      "file": "fl_timeline.json",
+      "name": "Florida",
+      "label": "Florida (FL)"
+    },
+    {
+      "code": "GA",
+      "file": "ga_timeline.json",
+      "name": "Georgia",
+      "label": "Georgia (GA)"
+    },
+    {
+      "code": "HI",
+      "file": "hi_timeline.json",
+      "name": "Hawaii",
+      "label": "Hawaii (HI)"
+    },
+    {
+      "code": "IA",
+      "file": "ia_timeline.json",
+      "name": "Iowa",
+      "label": "Iowa (IA)"
+    },
+    {
+      "code": "ID",
+      "file": "id_timeline.json",
+      "name": "Idaho",
+      "label": "Idaho (ID)"
+    },
+    {
+      "code": "IL",
+      "file": "il_timeline.json",
+      "name": "Illinois",
+      "label": "Illinois (IL)"
+    },
+    {
+      "code": "IN",
+      "file": "in_timeline.json",
+      "name": "Indiana",
+      "label": "Indiana (IN)"
+    },
+    {
+      "code": "KS",
+      "file": "ks_timeline.json",
+      "name": "Kansas",
+      "label": "Kansas (KS)"
+    },
+    {
+      "code": "KY",
+      "file": "ky_timeline.json",
+      "name": "Kentucky",
+      "label": "Kentucky (KY)"
+    },
+    {
+      "code": "LA",
+      "file": "la_timeline.json",
+      "name": "Louisiana",
+      "label": "Louisiana (LA)"
+    },
+    {
+      "code": "MA",
+      "file": "ma_timeline.json",
+      "name": "Massachusetts",
+      "label": "Massachusetts (MA)"
+    },
+    {
+      "code": "MD",
+      "file": "md_timeline.json",
+      "name": "Maryland",
+      "label": "Maryland (MD)"
+    },
+    {
+      "code": "ME",
+      "file": "me_timeline.json",
+      "name": "Maine",
+      "label": "Maine (ME)"
+    },
+    {
+      "code": "MI",
+      "file": "mi_timeline.json",
+      "name": "Michigan",
+      "label": "Michigan (MI)"
+    },
+    {
+      "code": "MN",
+      "file": "mn_timeline.json",
+      "name": "Minnesota",
+      "label": "Minnesota (MN)"
+    },
+    {
+      "code": "MO",
+      "file": "mo_timeline.json",
+      "name": "Missouri",
+      "label": "Missouri (MO)"
+    },
+    {
+      "code": "MS",
+      "file": "ms_timeline.json",
+      "name": "Mississippi",
+      "label": "Mississippi (MS)"
+    },
+    {
+      "code": "MT",
+      "file": "mt_timeline.json",
+      "name": "Montana",
+      "label": "Montana (MT)"
+    },
+    {
+      "code": "NC",
+      "file": "nc_timeline.json",
+      "name": "North Carolina",
+      "label": "North Carolina (NC)"
+    },
+    {
+      "code": "ND",
+      "file": "nd_timeline.json",
+      "name": "North Dakota",
+      "label": "North Dakota (ND)"
+    },
+    {
+      "code": "NE",
+      "file": "ne_timeline.json",
+      "name": "Nebraska",
+      "label": "Nebraska (NE)"
+    },
+    {
+      "code": "NH",
+      "file": "nh_timeline.json",
+      "name": "New Hampshire",
+      "label": "New Hampshire (NH)"
+    },
+    {
+      "code": "NJ",
+      "file": "nj_timeline.json",
+      "name": "New Jersey",
+      "label": "New Jersey (NJ)"
+    },
+    {
+      "code": "NM",
+      "file": "nm_timeline.json",
+      "name": "New Mexico",
+      "label": "New Mexico (NM)"
+    },
+    {
+      "code": "NV",
+      "file": "nv_timeline.json",
+      "name": "Nevada",
+      "label": "Nevada (NV)"
+    },
+    {
+      "code": "NY",
+      "file": "ny_timeline.json",
+      "name": "New York",
+      "label": "New York (NY)"
+    },
+    {
+      "code": "OH",
+      "file": "oh_timeline.json",
+      "name": "Ohio",
+      "label": "Ohio (OH)"
+    },
+    {
+      "code": "OK",
+      "file": "ok_timeline.json",
+      "name": "Oklahoma",
+      "label": "Oklahoma (OK)"
+    },
+    {
+      "code": "OR",
+      "file": "or_timeline.json",
+      "name": "Oregon",
+      "label": "Oregon (OR)"
+    },
+    {
+      "code": "PA",
+      "file": "pa_timeline.json",
+      "name": "Pennsylvania",
+      "label": "Pennsylvania (PA)"
+    },
+    {
+      "code": "RI",
+      "file": "ri_timeline.json",
+      "name": "Rhode Island",
+      "label": "Rhode Island (RI)"
+    },
+    {
+      "code": "SC",
+      "file": "sc_timeline.json",
+      "name": "South Carolina",
+      "label": "South Carolina (SC)"
+    },
+    {
+      "code": "SD",
+      "file": "sd_timeline.json",
+      "name": "South Dakota",
+      "label": "South Dakota (SD)"
+    },
+    {
+      "code": "TN",
+      "file": "tn_timeline.json",
+      "name": "Tennessee",
+      "label": "Tennessee (TN)"
+    },
+    {
+      "code": "TX",
+      "file": "tx_timeline.json",
+      "name": "Texas",
+      "label": "Texas (TX)"
+    },
+    {
+      "code": "UT",
+      "file": "ut_timeline.json",
+      "name": "Utah",
+      "label": "Utah (UT)"
+    },
+    {
+      "code": "VA",
+      "file": "va_timeline.json",
+      "name": "Virginia",
+      "label": "Virginia (VA)"
+    },
+    {
+      "code": "VT",
+      "file": "vt_timeline.json",
+      "name": "Vermont",
+      "label": "Vermont (VT)"
+    },
+    {
+      "code": "WA",
+      "file": "wa_timeline.json",
+      "name": "Washington",
+      "label": "Washington (WA)"
+    },
+    {
+      "code": "WI",
+      "file": "wi_timeline.json",
+      "name": "Wisconsin",
+      "label": "Wisconsin (WI)"
+    },
+    {
+      "code": "WV",
+      "file": "wv_timeline.json",
+      "name": "West Virginia",
+      "label": "West Virginia (WV)"
+    },
+    {
+      "code": "WY",
+      "file": "wy_timeline.json",
+      "name": "Wyoming",
+      "label": "Wyoming (WY)"
+    }
+  ],
+  "generated_from": "/Users/iamgroot/Documents/GitHub/Matrix-Red-Pill-2024/src/voting_data"
+}

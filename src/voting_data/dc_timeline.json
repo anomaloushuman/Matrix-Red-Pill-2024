@@ -1,0 +1,6609 @@
+{
+  "source": "nyt-race-page",
+  "state": "DC",
+  "slug": "district-of-columbia",
+  "url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/district-of-columbia/president.json",
+  "county_totals_source": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/district-of-columbia/president.json",
+  "county_by_vote_type_source": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/district-of-columbia/president.json",
+  "county_by_vote_type_method": "derived_county_absentee_split",
+  "versioned_snapshots_method": "derived_county_absentee_split_timeseries",
+  "fetched_at_unix": 1780400069,
+  "timeseries": [
+    {
+      "timestamp": "2020-11-04T10:01:44Z",
+      "votes": 0,
+      "results": {
+        "bidenj": 0,
+        "trumpd": 0,
+        "jorgensenj": 0
+      },
+      "vote_shares": {
+        "bidenj": 0.0,
+        "trumpd": 0.0
+      }
+    },
+    {
+      "timestamp": "2020-11-04T02:24:57Z",
+      "votes": 15919,
+      "results": {
+        "bidenj": 15028,
+        "trumpd": 573,
+        "jorgensenj": 318
+      },
+      "vote_shares": {
+        "bidenj": 0.944,
+        "trumpd": 0.036
+      }
+    },
+    {
+      "timestamp": "2020-11-04T02:26:04Z",
+      "votes": 31190,
+      "results": {
+        "bidenj": 28664,
+        "trumpd": 1840,
+        "jorgensenj": 686
+      },
+      "vote_shares": {
+        "bidenj": 0.919,
+        "trumpd": 0.059
+      }
+    },
+    {
+      "timestamp": "2020-11-04T10:29:33Z",
+      "votes": 41790,
+      "results": {
+        "bidenj": 38572,
+        "trumpd": 2298,
+        "jorgensenj": 920
+      },
+      "vote_shares": {
+        "bidenj": 0.923,
+        "trumpd": 0.055
+      }
+    },
+    {
+      "timestamp": "2020-11-04T10:31:14Z",
+      "votes": 50027,
+      "results": {
+        "bidenj": 45775,
+        "trumpd": 3202,
+        "jorgensenj": 1050
+      },
+      "vote_shares": {
+        "bidenj": 0.915,
+        "trumpd": 0.064
+      }
+    },
+    {
+      "timestamp": "2020-11-04T10:32:33Z",
+      "votes": 81889,
+      "results": {
+        "bidenj": 74191,
+        "trumpd": 5896,
+        "jorgensenj": 1802
+      },
+      "vote_shares": {
+        "bidenj": 0.906,
+        "trumpd": 0.072
+      }
+    },
+    {
+      "timestamp": "2020-11-04T10:34:09Z",
+      "votes": 112261,
+      "results": {
+        "bidenj": 102719,
+        "trumpd": 7185,
+        "jorgensenj": 2357
+      },
+      "vote_shares": {
+        "bidenj": 0.915,
+        "trumpd": 0.064
+      }
+    },
+    {
+      "timestamp": "2020-11-04T10:35:57Z",
+      "votes": 142252,
+      "results": {
+        "bidenj": 131014,
+        "trumpd": 8393,
+        "jorgensenj": 2845
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.059
+      }
+    },
+    {
+      "timestamp": "2020-11-04T10:39:18Z",
+      "votes": 181744,
+      "results": {
+        "bidenj": 166478,
+        "trumpd": 11268,
+        "jorgensenj": 3998
+      },
+      "vote_shares": {
+        "bidenj": 0.916,
+        "trumpd": 0.062
+      }
+    },
+    {
+      "timestamp": "2020-11-04T10:40:16Z",
+      "votes": 207574,
+      "results": {
+        "bidenj": 190968,
+        "trumpd": 12039,
+        "jorgensenj": 4567
+      },
+      "vote_shares": {
+        "bidenj": 0.92,
+        "trumpd": 0.058
+      }
+    },
+    {
+      "timestamp": "2020-11-04T10:43:18Z",
+      "votes": 230538,
+      "results": {
+        "bidenj": 212556,
+        "trumpd": 12910,
+        "jorgensenj": 5072
+      },
+      "vote_shares": {
+        "bidenj": 0.922,
+        "trumpd": 0.056
+      }
+    },
+    {
+      "timestamp": "2020-11-05T13:24:46Z",
+      "votes": 235279,
+      "results": {
+        "bidenj": 217163,
+        "trumpd": 12940,
+        "jorgensenj": 5176
+      },
+      "vote_shares": {
+        "bidenj": 0.923,
+        "trumpd": 0.055
+      }
+    },
+    {
+      "timestamp": "2020-11-05T13:26:08Z",
+      "votes": 239030,
+      "results": {
+        "bidenj": 220625,
+        "trumpd": 13147,
+        "jorgensenj": 5258
+      },
+      "vote_shares": {
+        "bidenj": 0.923,
+        "trumpd": 0.055
+      }
+    },
+    {
+      "timestamp": "2020-11-05T13:28:07Z",
+      "votes": 244545,
+      "results": {
+        "bidenj": 225715,
+        "trumpd": 13450,
+        "jorgensenj": 5380
+      },
+      "vote_shares": {
+        "bidenj": 0.923,
+        "trumpd": 0.055
+      }
+    },
+    {
+      "timestamp": "2020-11-05T13:29:00Z",
+      "votes": 251396,
+      "results": {
+        "bidenj": 232290,
+        "trumpd": 13575,
+        "jorgensenj": 5531
+      },
+      "vote_shares": {
+        "bidenj": 0.924,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-11-05T13:29:57Z",
+      "votes": 260183,
+      "results": {
+        "bidenj": 240669,
+        "trumpd": 13790,
+        "jorgensenj": 5724
+      },
+      "vote_shares": {
+        "bidenj": 0.925,
+        "trumpd": 0.053
+      }
+    },
+    {
+      "timestamp": "2020-11-05T13:31:20Z",
+      "votes": 270085,
+      "results": {
+        "bidenj": 249829,
+        "trumpd": 14315,
+        "jorgensenj": 5941
+      },
+      "vote_shares": {
+        "bidenj": 0.925,
+        "trumpd": 0.053
+      }
+    },
+    {
+      "timestamp": "2020-11-05T13:32:09Z",
+      "votes": 276078,
+      "results": {
+        "bidenj": 255648,
+        "trumpd": 14356,
+        "jorgensenj": 6074
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-05T13:34:07Z",
+      "votes": 279152,
+      "results": {
+        "bidenj": 258495,
+        "trumpd": 14516,
+        "jorgensenj": 6141
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-09T18:18:23Z",
+      "votes": 281504,
+      "results": {
+        "bidenj": 260673,
+        "trumpd": 14638,
+        "jorgensenj": 6193
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-09T18:19:10Z",
+      "votes": 282631,
+      "results": {
+        "bidenj": 261716,
+        "trumpd": 14697,
+        "jorgensenj": 6218
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-09T18:19:58Z",
+      "votes": 284646,
+      "results": {
+        "bidenj": 263582,
+        "trumpd": 14802,
+        "jorgensenj": 6262
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-09T18:21:20Z",
+      "votes": 286680,
+      "results": {
+        "bidenj": 265466,
+        "trumpd": 14907,
+        "jorgensenj": 6307
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-09T18:22:17Z",
+      "votes": 287534,
+      "results": {
+        "bidenj": 266256,
+        "trumpd": 14952,
+        "jorgensenj": 6326
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-09T18:23:18Z",
+      "votes": 288636,
+      "results": {
+        "bidenj": 267277,
+        "trumpd": 15009,
+        "jorgensenj": 6350
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-09T18:24:04Z",
+      "votes": 289409,
+      "results": {
+        "bidenj": 267993,
+        "trumpd": 15049,
+        "jorgensenj": 6367
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-09T18:24:46Z",
+      "votes": 290171,
+      "results": {
+        "bidenj": 268698,
+        "trumpd": 15089,
+        "jorgensenj": 6384
+      },
+      "vote_shares": {
+        "bidenj": 0.926,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-11T03:13:34Z",
+      "votes": 294321,
+      "results": {
+        "bidenj": 272247,
+        "trumpd": 15305,
+        "jorgensenj": 6769
+      },
+      "vote_shares": {
+        "bidenj": 0.925,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-11T03:17:16Z",
+      "votes": 295317,
+      "results": {
+        "bidenj": 273168,
+        "trumpd": 15356,
+        "jorgensenj": 6793
+      },
+      "vote_shares": {
+        "bidenj": 0.925,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-11T03:18:41Z",
+      "votes": 295981,
+      "results": {
+        "bidenj": 273782,
+        "trumpd": 15391,
+        "jorgensenj": 6808
+      },
+      "vote_shares": {
+        "bidenj": 0.925,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-11T03:19:36Z",
+      "votes": 296926,
+      "results": {
+        "bidenj": 274657,
+        "trumpd": 15440,
+        "jorgensenj": 6829
+      },
+      "vote_shares": {
+        "bidenj": 0.925,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-11T03:20:18Z",
+      "votes": 299119,
+      "results": {
+        "bidenj": 276685,
+        "trumpd": 15554,
+        "jorgensenj": 6880
+      },
+      "vote_shares": {
+        "bidenj": 0.925,
+        "trumpd": 0.052
+      }
+    },
+    {
+      "timestamp": "2020-11-11T03:22:26Z",
+      "votes": 303573,
+      "results": {
+        "bidenj": 280501,
+        "trumpd": 16089,
+        "jorgensenj": 6983
+      },
+      "vote_shares": {
+        "bidenj": 0.924,
+        "trumpd": 0.053
+      }
+    },
+    {
+      "timestamp": "2020-11-11T03:23:11Z",
+      "votes": 305922,
+      "results": {
+        "bidenj": 282672,
+        "trumpd": 16214,
+        "jorgensenj": 7036
+      },
+      "vote_shares": {
+        "bidenj": 0.924,
+        "trumpd": 0.053
+      }
+    },
+    {
+      "timestamp": "2020-11-11T03:24:24Z",
+      "votes": 309190,
+      "results": {
+        "bidenj": 285692,
+        "trumpd": 16387,
+        "jorgensenj": 7111
+      },
+      "vote_shares": {
+        "bidenj": 0.924,
+        "trumpd": 0.053
+      }
+    },
+    {
+      "timestamp": "2020-11-14T16:33:58Z",
+      "votes": 317738,
+      "results": {
+        "bidenj": 292954,
+        "trumpd": 17158,
+        "jorgensenj": 7626
+      },
+      "vote_shares": {
+        "bidenj": 0.922,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-11-14T16:35:19Z",
+      "votes": 325248,
+      "results": {
+        "bidenj": 299879,
+        "trumpd": 17563,
+        "jorgensenj": 7806
+      },
+      "vote_shares": {
+        "bidenj": 0.922,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-11-14T16:37:52Z",
+      "votes": 333682,
+      "results": {
+        "bidenj": 307321,
+        "trumpd": 18019,
+        "jorgensenj": 8342
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-11-17T01:02:21.217Z",
+      "votes": 330599,
+      "results": {
+        "bidenj": 307126,
+        "trumpd": 18183,
+        "jorgensenj": 5290
+      },
+      "vote_shares": {
+        "bidenj": 0.929,
+        "trumpd": 0.055
+      }
+    },
+    {
+      "timestamp": "2020-11-18T17:17:14Z",
+      "votes": 333682,
+      "results": {
+        "bidenj": 307321,
+        "trumpd": 18019,
+        "jorgensenj": 8342
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-11-24T13:16:06Z",
+      "votes": 334732,
+      "results": {
+        "bidenj": 308288,
+        "trumpd": 18076,
+        "jorgensenj": 8368
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-11-24T13:18:17Z",
+      "votes": 337662,
+      "results": {
+        "bidenj": 310987,
+        "trumpd": 18234,
+        "jorgensenj": 8441
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-11-24T13:20:20Z",
+      "votes": 343744,
+      "results": {
+        "bidenj": 316588,
+        "trumpd": 18562,
+        "jorgensenj": 8594
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-11-24T13:21:03Z",
+      "votes": 344356,
+      "results": {
+        "bidenj": 317152,
+        "trumpd": 18595,
+        "jorgensenj": 8609
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-12-03T03:00:53Z",
+      "votes": 344356,
+      "results": {
+        "bidenj": 317152,
+        "trumpd": 18595,
+        "jorgensenj": 8609
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-12-02T18:22:37.703Z",
+      "votes": 341219,
+      "results": {
+        "bidenj": 317334,
+        "trumpd": 18426,
+        "jorgensenj": 5459
+      },
+      "vote_shares": {
+        "bidenj": 0.93,
+        "trumpd": 0.054
+      }
+    },
+    {
+      "timestamp": "2020-12-03T03:00:53Z",
+      "votes": 344356,
+      "results": {
+        "bidenj": 317152,
+        "trumpd": 18595,
+        "jorgensenj": 8609
+      },
+      "vote_shares": {
+        "bidenj": 0.921,
+        "trumpd": 0.054
+      }
+    }
+  ],
+  "county_totals": [
+    {
+      "locality_name": "Ward 1",
+      "locality_fips": "11001",
+      "votes": 41681,
+      "absentee_votes": 0,
+      "precincts": 15,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 39041,
+        "trumpd": 1725,
+        "write-ins": 298,
+        "hawkinsh": 259,
+        "jorgensenj": 204,
+        "la_rivag": 108,
+        "pierceb": 46
+      },
+      "last_updated": "2020-11-24T13:22:16Z"
+    },
+    {
+      "locality_name": "Ward 2",
+      "locality_fips": "11002",
+      "votes": 32881,
+      "absentee_votes": 0,
+      "precincts": 13,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 29078,
+        "trumpd": 2918,
+        "write-ins": 370,
+        "jorgensenj": 302,
+        "hawkinsh": 124,
+        "la_rivag": 50,
+        "pierceb": 39
+      },
+      "last_updated": "2020-11-24T13:22:17Z"
+    },
+    {
+      "locality_name": "Ward 3",
+      "locality_fips": "11003",
+      "votes": 44231,
+      "absentee_votes": 0,
+      "precincts": 18,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 39397,
+        "trumpd": 3705,
+        "write-ins": 491,
+        "jorgensenj": 344,
+        "hawkinsh": 159,
+        "la_rivag": 74,
+        "pierceb": 61
+      },
+      "last_updated": "2020-11-24T13:22:20Z"
+    },
+    {
+      "locality_name": "Ward 4",
+      "locality_fips": "11004",
+      "votes": 45296,
+      "absentee_votes": 0,
+      "precincts": 20,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 42489,
+        "trumpd": 1913,
+        "write-ins": 308,
+        "hawkinsh": 234,
+        "jorgensenj": 161,
+        "la_rivag": 125,
+        "pierceb": 66
+      },
+      "last_updated": "2020-11-24T13:22:21Z"
+    },
+    {
+      "locality_name": "Ward 5",
+      "locality_fips": "11005",
+      "votes": 46107,
+      "absentee_votes": 0,
+      "precincts": 18,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 43320,
+        "trumpd": 1769,
+        "write-ins": 323,
+        "hawkinsh": 271,
+        "jorgensenj": 212,
+        "la_rivag": 115,
+        "pierceb": 97
+      },
+      "last_updated": "2020-11-24T13:22:22Z"
+    },
+    {
+      "locality_name": "Ward 6",
+      "locality_fips": "11006",
+      "votes": 62918,
+      "absentee_votes": 0,
+      "precincts": 20,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 56719,
+        "trumpd": 4337,
+        "write-ins": 857,
+        "jorgensenj": 561,
+        "hawkinsh": 253,
+        "la_rivag": 104,
+        "pierceb": 87
+      },
+      "last_updated": "2020-11-24T13:22:22Z"
+    },
+    {
+      "locality_name": "Ward 7",
+      "locality_fips": "11007",
+      "votes": 38384,
+      "absentee_votes": 0,
+      "precincts": 23,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 36382,
+        "trumpd": 1134,
+        "write-ins": 270,
+        "hawkinsh": 232,
+        "pierceb": 132,
+        "jorgensenj": 118,
+        "la_rivag": 116
+      },
+      "last_updated": "2020-11-24T13:20:16Z"
+    },
+    {
+      "locality_name": "Ward 8",
+      "locality_fips": "11008",
+      "votes": 32858,
+      "absentee_votes": 0,
+      "precincts": 17,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 30897,
+        "trumpd": 1085,
+        "write-ins": 220,
+        "hawkinsh": 194,
+        "pierceb": 165,
+        "la_rivag": 163,
+        "jorgensenj": 134
+      },
+      "last_updated": "2020-11-24T13:20:57Z"
+    }
+  ],
+  "county_by_vote_type": [
+    {
+      "locality_name": "Ward 1",
+      "locality_fips": "11001",
+      "vote_type": "electionday",
+      "votes": 41681,
+      "results": {
+        "hawkinsh": 259,
+        "bidenj": 39041,
+        "trumpd": 1725,
+        "jorgensenj": 204,
+        "write-ins": 298,
+        "la_rivag": 108,
+        "pierceb": 46
+      }
+    },
+    {
+      "locality_name": "Ward 2",
+      "locality_fips": "11002",
+      "vote_type": "electionday",
+      "votes": 32881,
+      "results": {
+        "hawkinsh": 124,
+        "bidenj": 29078,
+        "trumpd": 2918,
+        "jorgensenj": 302,
+        "write-ins": 370,
+        "la_rivag": 50,
+        "pierceb": 39
+      }
+    },
+    {
+      "locality_name": "Ward 3",
+      "locality_fips": "11003",
+      "vote_type": "electionday",
+      "votes": 44231,
+      "results": {
+        "hawkinsh": 159,
+        "bidenj": 39397,
+        "trumpd": 3705,
+        "jorgensenj": 344,
+        "write-ins": 491,
+        "la_rivag": 74,
+        "pierceb": 61
+      }
+    },
+    {
+      "locality_name": "Ward 4",
+      "locality_fips": "11004",
+      "vote_type": "electionday",
+      "votes": 45296,
+      "results": {
+        "hawkinsh": 234,
+        "bidenj": 42489,
+        "trumpd": 1913,
+        "jorgensenj": 161,
+        "write-ins": 308,
+        "la_rivag": 125,
+        "pierceb": 66
+      }
+    },
+    {
+      "locality_name": "Ward 5",
+      "locality_fips": "11005",
+      "vote_type": "electionday",
+      "votes": 46107,
+      "results": {
+        "hawkinsh": 271,
+        "bidenj": 43320,
+        "trumpd": 1769,
+        "jorgensenj": 212,
+        "write-ins": 323,
+        "la_rivag": 115,
+        "pierceb": 97
+      }
+    },
+    {
+      "locality_name": "Ward 6",
+      "locality_fips": "11006",
+      "vote_type": "electionday",
+      "votes": 62918,
+      "results": {
+        "hawkinsh": 253,
+        "bidenj": 56719,
+        "trumpd": 4337,
+        "jorgensenj": 561,
+        "write-ins": 857,
+        "la_rivag": 104,
+        "pierceb": 87
+      }
+    },
+    {
+      "locality_name": "Ward 7",
+      "locality_fips": "11007",
+      "vote_type": "electionday",
+      "votes": 38384,
+      "results": {
+        "hawkinsh": 232,
+        "bidenj": 36382,
+        "trumpd": 1134,
+        "jorgensenj": 118,
+        "write-ins": 270,
+        "la_rivag": 116,
+        "pierceb": 132
+      }
+    },
+    {
+      "locality_name": "Ward 8",
+      "locality_fips": "11008",
+      "vote_type": "electionday",
+      "votes": 32858,
+      "results": {
+        "hawkinsh": 194,
+        "bidenj": 30897,
+        "trumpd": 1085,
+        "jorgensenj": 134,
+        "write-ins": 220,
+        "la_rivag": 163,
+        "pierceb": 165
+      }
+    }
+  ],
+  "versioned_snapshots": [
+    {
+      "timestamp": "2020-11-04T02:24:57Z",
+      "total_votes": 15919,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 1927,
+          "results": {
+            "hawkinsh": 12,
+            "bidenj": 1805,
+            "trumpd": 80,
+            "jorgensenj": 9,
+            "write-ins": 14,
+            "la_rivag": 5,
+            "pierceb": 2
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 1520,
+          "results": {
+            "hawkinsh": 6,
+            "bidenj": 1344,
+            "trumpd": 135,
+            "jorgensenj": 14,
+            "write-ins": 17,
+            "la_rivag": 2,
+            "pierceb": 2
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 2045,
+          "results": {
+            "hawkinsh": 7,
+            "bidenj": 1821,
+            "trumpd": 171,
+            "jorgensenj": 16,
+            "write-ins": 23,
+            "la_rivag": 3,
+            "pierceb": 3
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 2094,
+          "results": {
+            "hawkinsh": 11,
+            "bidenj": 1964,
+            "trumpd": 88,
+            "jorgensenj": 7,
+            "write-ins": 14,
+            "la_rivag": 6,
+            "pierceb": 3
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 2131,
+          "results": {
+            "hawkinsh": 13,
+            "bidenj": 2003,
+            "trumpd": 82,
+            "jorgensenj": 10,
+            "write-ins": 15,
+            "la_rivag": 5,
+            "pierceb": 4
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 2909,
+          "results": {
+            "hawkinsh": 12,
+            "bidenj": 2622,
+            "trumpd": 200,
+            "jorgensenj": 26,
+            "write-ins": 40,
+            "la_rivag": 5,
+            "pierceb": 4
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 1774,
+          "results": {
+            "hawkinsh": 11,
+            "bidenj": 1682,
+            "trumpd": 52,
+            "jorgensenj": 5,
+            "write-ins": 12,
+            "la_rivag": 5,
+            "pierceb": 6
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 1519,
+          "results": {
+            "hawkinsh": 9,
+            "bidenj": 1428,
+            "trumpd": 50,
+            "jorgensenj": 6,
+            "write-ins": 10,
+            "la_rivag": 8,
+            "pierceb": 8
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T02:26:04Z",
+      "total_votes": 31190,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 3775,
+          "results": {
+            "hawkinsh": 23,
+            "bidenj": 3536,
+            "trumpd": 156,
+            "jorgensenj": 18,
+            "write-ins": 27,
+            "la_rivag": 10,
+            "pierceb": 4
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 2978,
+          "results": {
+            "hawkinsh": 11,
+            "bidenj": 2634,
+            "trumpd": 264,
+            "jorgensenj": 27,
+            "write-ins": 34,
+            "la_rivag": 5,
+            "pierceb": 4
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 4006,
+          "results": {
+            "hawkinsh": 14,
+            "bidenj": 3568,
+            "trumpd": 336,
+            "jorgensenj": 31,
+            "write-ins": 44,
+            "la_rivag": 7,
+            "pierceb": 6
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 4103,
+          "results": {
+            "hawkinsh": 21,
+            "bidenj": 3848,
+            "trumpd": 173,
+            "jorgensenj": 15,
+            "write-ins": 28,
+            "la_rivag": 11,
+            "pierceb": 6
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 4176,
+          "results": {
+            "hawkinsh": 25,
+            "bidenj": 3924,
+            "trumpd": 160,
+            "jorgensenj": 19,
+            "write-ins": 29,
+            "la_rivag": 10,
+            "pierceb": 9
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 5699,
+          "results": {
+            "hawkinsh": 23,
+            "bidenj": 5137,
+            "trumpd": 393,
+            "jorgensenj": 51,
+            "write-ins": 78,
+            "la_rivag": 9,
+            "pierceb": 8
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 3477,
+          "results": {
+            "hawkinsh": 21,
+            "bidenj": 3295,
+            "trumpd": 103,
+            "jorgensenj": 11,
+            "write-ins": 24,
+            "la_rivag": 11,
+            "pierceb": 12
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 2976,
+          "results": {
+            "hawkinsh": 18,
+            "bidenj": 2798,
+            "trumpd": 98,
+            "jorgensenj": 12,
+            "write-ins": 20,
+            "la_rivag": 15,
+            "pierceb": 15
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T10:29:33Z",
+      "total_votes": 41790,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 5058,
+          "results": {
+            "hawkinsh": 31,
+            "bidenj": 4738,
+            "trumpd": 209,
+            "jorgensenj": 25,
+            "write-ins": 36,
+            "la_rivag": 13,
+            "pierceb": 6
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 3990,
+          "results": {
+            "hawkinsh": 15,
+            "bidenj": 3529,
+            "trumpd": 354,
+            "jorgensenj": 37,
+            "write-ins": 45,
+            "la_rivag": 6,
+            "pierceb": 5
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 5368,
+          "results": {
+            "hawkinsh": 19,
+            "bidenj": 4781,
+            "trumpd": 450,
+            "jorgensenj": 42,
+            "write-ins": 60,
+            "la_rivag": 9,
+            "pierceb": 7
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 5497,
+          "results": {
+            "hawkinsh": 28,
+            "bidenj": 5156,
+            "trumpd": 232,
+            "jorgensenj": 20,
+            "write-ins": 37,
+            "la_rivag": 15,
+            "pierceb": 8
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 5595,
+          "results": {
+            "hawkinsh": 33,
+            "bidenj": 5257,
+            "trumpd": 215,
+            "jorgensenj": 26,
+            "write-ins": 39,
+            "la_rivag": 14,
+            "pierceb": 12
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 7636,
+          "results": {
+            "hawkinsh": 31,
+            "bidenj": 6883,
+            "trumpd": 526,
+            "jorgensenj": 68,
+            "write-ins": 104,
+            "la_rivag": 13,
+            "pierceb": 11
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 4658,
+          "results": {
+            "hawkinsh": 28,
+            "bidenj": 4415,
+            "trumpd": 138,
+            "jorgensenj": 14,
+            "write-ins": 33,
+            "la_rivag": 14,
+            "pierceb": 16
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 3988,
+          "results": {
+            "hawkinsh": 24,
+            "bidenj": 3750,
+            "trumpd": 132,
+            "jorgensenj": 16,
+            "write-ins": 27,
+            "la_rivag": 20,
+            "pierceb": 20
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T10:31:14Z",
+      "total_votes": 50027,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 6055,
+          "results": {
+            "hawkinsh": 38,
+            "bidenj": 5672,
+            "trumpd": 251,
+            "jorgensenj": 30,
+            "write-ins": 43,
+            "la_rivag": 16,
+            "pierceb": 7
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 4777,
+          "results": {
+            "hawkinsh": 18,
+            "bidenj": 4224,
+            "trumpd": 424,
+            "jorgensenj": 44,
+            "write-ins": 54,
+            "la_rivag": 7,
+            "pierceb": 6
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 6426,
+          "results": {
+            "hawkinsh": 23,
+            "bidenj": 5723,
+            "trumpd": 538,
+            "jorgensenj": 50,
+            "write-ins": 71,
+            "la_rivag": 11,
+            "pierceb": 9
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 6580,
+          "results": {
+            "hawkinsh": 34,
+            "bidenj": 6173,
+            "trumpd": 278,
+            "jorgensenj": 23,
+            "write-ins": 45,
+            "la_rivag": 18,
+            "pierceb": 10
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 6698,
+          "results": {
+            "hawkinsh": 39,
+            "bidenj": 6293,
+            "trumpd": 257,
+            "jorgensenj": 31,
+            "write-ins": 47,
+            "la_rivag": 17,
+            "pierceb": 14
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 9141,
+          "results": {
+            "hawkinsh": 37,
+            "bidenj": 8240,
+            "trumpd": 630,
+            "jorgensenj": 82,
+            "write-ins": 125,
+            "la_rivag": 15,
+            "pierceb": 13
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 5576,
+          "results": {
+            "hawkinsh": 34,
+            "bidenj": 5285,
+            "trumpd": 165,
+            "jorgensenj": 17,
+            "write-ins": 39,
+            "la_rivag": 17,
+            "pierceb": 19
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 4774,
+          "results": {
+            "hawkinsh": 28,
+            "bidenj": 4489,
+            "trumpd": 158,
+            "jorgensenj": 19,
+            "write-ins": 32,
+            "la_rivag": 24,
+            "pierceb": 24
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T10:32:33Z",
+      "total_votes": 81889,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 9912,
+          "results": {
+            "hawkinsh": 62,
+            "bidenj": 9284,
+            "trumpd": 410,
+            "jorgensenj": 49,
+            "write-ins": 71,
+            "la_rivag": 26,
+            "pierceb": 11
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 7819,
+          "results": {
+            "hawkinsh": 29,
+            "bidenj": 6915,
+            "trumpd": 694,
+            "jorgensenj": 72,
+            "write-ins": 88,
+            "la_rivag": 12,
+            "pierceb": 9
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 10518,
+          "results": {
+            "hawkinsh": 38,
+            "bidenj": 9369,
+            "trumpd": 881,
+            "jorgensenj": 82,
+            "write-ins": 117,
+            "la_rivag": 18,
+            "pierceb": 15
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 10772,
+          "results": {
+            "hawkinsh": 56,
+            "bidenj": 10104,
+            "trumpd": 455,
+            "jorgensenj": 38,
+            "write-ins": 73,
+            "la_rivag": 30,
+            "pierceb": 16
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 10964,
+          "results": {
+            "hawkinsh": 64,
+            "bidenj": 10302,
+            "trumpd": 421,
+            "jorgensenj": 50,
+            "write-ins": 77,
+            "la_rivag": 27,
+            "pierceb": 23
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 14962,
+          "results": {
+            "hawkinsh": 60,
+            "bidenj": 13488,
+            "trumpd": 1031,
+            "jorgensenj": 133,
+            "write-ins": 204,
+            "la_rivag": 25,
+            "pierceb": 21
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 9128,
+          "results": {
+            "hawkinsh": 55,
+            "bidenj": 8652,
+            "trumpd": 270,
+            "jorgensenj": 28,
+            "write-ins": 64,
+            "la_rivag": 28,
+            "pierceb": 31
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 7814,
+          "results": {
+            "hawkinsh": 46,
+            "bidenj": 7347,
+            "trumpd": 258,
+            "jorgensenj": 32,
+            "write-ins": 52,
+            "la_rivag": 39,
+            "pierceb": 39
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T10:34:09Z",
+      "total_votes": 112261,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 13588,
+          "results": {
+            "hawkinsh": 84,
+            "bidenj": 12727,
+            "trumpd": 562,
+            "jorgensenj": 67,
+            "write-ins": 97,
+            "la_rivag": 35,
+            "pierceb": 15
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 10719,
+          "results": {
+            "hawkinsh": 40,
+            "bidenj": 9480,
+            "trumpd": 951,
+            "jorgensenj": 98,
+            "write-ins": 121,
+            "la_rivag": 16,
+            "pierceb": 13
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 14419,
+          "results": {
+            "hawkinsh": 52,
+            "bidenj": 12844,
+            "trumpd": 1208,
+            "jorgensenj": 112,
+            "write-ins": 160,
+            "la_rivag": 24,
+            "pierceb": 20
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 14767,
+          "results": {
+            "hawkinsh": 76,
+            "bidenj": 13852,
+            "trumpd": 624,
+            "jorgensenj": 52,
+            "write-ins": 100,
+            "la_rivag": 41,
+            "pierceb": 22
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 15031,
+          "results": {
+            "hawkinsh": 88,
+            "bidenj": 14122,
+            "trumpd": 577,
+            "jorgensenj": 69,
+            "write-ins": 105,
+            "la_rivag": 37,
+            "pierceb": 32
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 20511,
+          "results": {
+            "hawkinsh": 82,
+            "bidenj": 18491,
+            "trumpd": 1414,
+            "jorgensenj": 183,
+            "write-ins": 279,
+            "la_rivag": 34,
+            "pierceb": 28
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 12513,
+          "results": {
+            "hawkinsh": 76,
+            "bidenj": 11861,
+            "trumpd": 370,
+            "jorgensenj": 38,
+            "write-ins": 88,
+            "la_rivag": 38,
+            "pierceb": 43
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 10712,
+          "results": {
+            "hawkinsh": 63,
+            "bidenj": 10073,
+            "trumpd": 354,
+            "jorgensenj": 44,
+            "write-ins": 72,
+            "la_rivag": 53,
+            "pierceb": 54
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T10:35:57Z",
+      "total_votes": 142252,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 17218,
+          "results": {
+            "hawkinsh": 107,
+            "bidenj": 16128,
+            "trumpd": 713,
+            "jorgensenj": 84,
+            "write-ins": 123,
+            "la_rivag": 45,
+            "pierceb": 19
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 13583,
+          "results": {
+            "hawkinsh": 51,
+            "bidenj": 12012,
+            "trumpd": 1205,
+            "jorgensenj": 125,
+            "write-ins": 153,
+            "la_rivag": 21,
+            "pierceb": 16
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 18272,
+          "results": {
+            "hawkinsh": 66,
+            "bidenj": 16275,
+            "trumpd": 1531,
+            "jorgensenj": 142,
+            "write-ins": 203,
+            "la_rivag": 31,
+            "pierceb": 25
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 18712,
+          "results": {
+            "hawkinsh": 97,
+            "bidenj": 17552,
+            "trumpd": 790,
+            "jorgensenj": 67,
+            "write-ins": 127,
+            "la_rivag": 52,
+            "pierceb": 27
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 19047,
+          "results": {
+            "hawkinsh": 112,
+            "bidenj": 17895,
+            "trumpd": 731,
+            "jorgensenj": 88,
+            "write-ins": 133,
+            "la_rivag": 48,
+            "pierceb": 40
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 25991,
+          "results": {
+            "hawkinsh": 105,
+            "bidenj": 23430,
+            "trumpd": 1792,
+            "jorgensenj": 232,
+            "write-ins": 354,
+            "la_rivag": 43,
+            "pierceb": 36
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 15856,
+          "results": {
+            "hawkinsh": 96,
+            "bidenj": 15029,
+            "trumpd": 468,
+            "jorgensenj": 49,
+            "write-ins": 112,
+            "la_rivag": 48,
+            "pierceb": 55
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 13574,
+          "results": {
+            "hawkinsh": 80,
+            "bidenj": 12763,
+            "trumpd": 448,
+            "jorgensenj": 55,
+            "write-ins": 91,
+            "la_rivag": 67,
+            "pierceb": 68
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T10:39:18Z",
+      "total_votes": 181744,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 21998,
+          "results": {
+            "hawkinsh": 137,
+            "bidenj": 20605,
+            "trumpd": 910,
+            "jorgensenj": 108,
+            "write-ins": 157,
+            "la_rivag": 57,
+            "pierceb": 24
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 17354,
+          "results": {
+            "hawkinsh": 65,
+            "bidenj": 15347,
+            "trumpd": 1540,
+            "jorgensenj": 159,
+            "write-ins": 195,
+            "la_rivag": 26,
+            "pierceb": 21
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 23344,
+          "results": {
+            "hawkinsh": 84,
+            "bidenj": 20793,
+            "trumpd": 1955,
+            "jorgensenj": 182,
+            "write-ins": 259,
+            "la_rivag": 39,
+            "pierceb": 32
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 23906,
+          "results": {
+            "hawkinsh": 124,
+            "bidenj": 22425,
+            "trumpd": 1010,
+            "jorgensenj": 85,
+            "write-ins": 163,
+            "la_rivag": 66,
+            "pierceb": 35
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 24334,
+          "results": {
+            "hawkinsh": 143,
+            "bidenj": 22863,
+            "trumpd": 934,
+            "jorgensenj": 112,
+            "write-ins": 170,
+            "la_rivag": 61,
+            "pierceb": 51
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 33207,
+          "results": {
+            "hawkinsh": 134,
+            "bidenj": 29935,
+            "trumpd": 2289,
+            "jorgensenj": 296,
+            "write-ins": 452,
+            "la_rivag": 55,
+            "pierceb": 46
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 20258,
+          "results": {
+            "hawkinsh": 122,
+            "bidenj": 19202,
+            "trumpd": 599,
+            "jorgensenj": 62,
+            "write-ins": 143,
+            "la_rivag": 61,
+            "pierceb": 70
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 17342,
+          "results": {
+            "hawkinsh": 102,
+            "bidenj": 16307,
+            "trumpd": 573,
+            "jorgensenj": 71,
+            "write-ins": 116,
+            "la_rivag": 86,
+            "pierceb": 87
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T10:40:16Z",
+      "total_votes": 207574,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 25125,
+          "results": {
+            "hawkinsh": 156,
+            "bidenj": 23533,
+            "trumpd": 1040,
+            "jorgensenj": 123,
+            "write-ins": 180,
+            "la_rivag": 65,
+            "pierceb": 28
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 19820,
+          "results": {
+            "hawkinsh": 75,
+            "bidenj": 17528,
+            "trumpd": 1759,
+            "jorgensenj": 182,
+            "write-ins": 223,
+            "la_rivag": 30,
+            "pierceb": 24
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 26662,
+          "results": {
+            "hawkinsh": 96,
+            "bidenj": 23748,
+            "trumpd": 2233,
+            "jorgensenj": 207,
+            "write-ins": 296,
+            "la_rivag": 45,
+            "pierceb": 37
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 27304,
+          "results": {
+            "hawkinsh": 141,
+            "bidenj": 25612,
+            "trumpd": 1153,
+            "jorgensenj": 97,
+            "write-ins": 186,
+            "la_rivag": 75,
+            "pierceb": 40
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 27793,
+          "results": {
+            "hawkinsh": 163,
+            "bidenj": 26113,
+            "trumpd": 1066,
+            "jorgensenj": 128,
+            "write-ins": 195,
+            "la_rivag": 69,
+            "pierceb": 58
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 37926,
+          "results": {
+            "hawkinsh": 153,
+            "bidenj": 34190,
+            "trumpd": 2614,
+            "jorgensenj": 338,
+            "write-ins": 517,
+            "la_rivag": 63,
+            "pierceb": 52
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 23137,
+          "results": {
+            "hawkinsh": 140,
+            "bidenj": 21931,
+            "trumpd": 684,
+            "jorgensenj": 71,
+            "write-ins": 163,
+            "la_rivag": 70,
+            "pierceb": 80
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 19806,
+          "results": {
+            "hawkinsh": 117,
+            "bidenj": 18624,
+            "trumpd": 654,
+            "jorgensenj": 81,
+            "write-ins": 133,
+            "la_rivag": 98,
+            "pierceb": 99
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T10:43:18Z",
+      "total_votes": 230538,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 27904,
+          "results": {
+            "hawkinsh": 173,
+            "bidenj": 26137,
+            "trumpd": 1155,
+            "jorgensenj": 137,
+            "write-ins": 200,
+            "la_rivag": 72,
+            "pierceb": 31
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 22013,
+          "results": {
+            "hawkinsh": 83,
+            "bidenj": 19467,
+            "trumpd": 1954,
+            "jorgensenj": 202,
+            "write-ins": 248,
+            "la_rivag": 33,
+            "pierceb": 26
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 29612,
+          "results": {
+            "hawkinsh": 106,
+            "bidenj": 26375,
+            "trumpd": 2480,
+            "jorgensenj": 230,
+            "write-ins": 329,
+            "la_rivag": 50,
+            "pierceb": 41
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 30325,
+          "results": {
+            "hawkinsh": 157,
+            "bidenj": 28445,
+            "trumpd": 1281,
+            "jorgensenj": 108,
+            "write-ins": 206,
+            "la_rivag": 84,
+            "pierceb": 44
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 30868,
+          "results": {
+            "hawkinsh": 181,
+            "bidenj": 29002,
+            "trumpd": 1184,
+            "jorgensenj": 142,
+            "write-ins": 216,
+            "la_rivag": 77,
+            "pierceb": 65
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 42122,
+          "results": {
+            "hawkinsh": 169,
+            "bidenj": 37972,
+            "trumpd": 2904,
+            "jorgensenj": 376,
+            "write-ins": 574,
+            "la_rivag": 70,
+            "pierceb": 58
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 25697,
+          "results": {
+            "hawkinsh": 155,
+            "bidenj": 24357,
+            "trumpd": 759,
+            "jorgensenj": 79,
+            "write-ins": 181,
+            "la_rivag": 78,
+            "pierceb": 88
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 21998,
+          "results": {
+            "hawkinsh": 130,
+            "bidenj": 20685,
+            "trumpd": 726,
+            "jorgensenj": 90,
+            "write-ins": 147,
+            "la_rivag": 109,
+            "pierceb": 110
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-05T13:24:46Z",
+      "total_votes": 235279,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 28478,
+          "results": {
+            "hawkinsh": 177,
+            "bidenj": 26675,
+            "trumpd": 1179,
+            "jorgensenj": 139,
+            "write-ins": 204,
+            "la_rivag": 74,
+            "pierceb": 31
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 22466,
+          "results": {
+            "hawkinsh": 85,
+            "bidenj": 19867,
+            "trumpd": 1994,
+            "jorgensenj": 206,
+            "write-ins": 253,
+            "la_rivag": 34,
+            "pierceb": 27
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 30221,
+          "results": {
+            "hawkinsh": 109,
+            "bidenj": 26918,
+            "trumpd": 2531,
+            "jorgensenj": 235,
+            "write-ins": 335,
+            "la_rivag": 51,
+            "pierceb": 42
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 30948,
+          "results": {
+            "hawkinsh": 160,
+            "bidenj": 29030,
+            "trumpd": 1307,
+            "jorgensenj": 110,
+            "write-ins": 210,
+            "la_rivag": 85,
+            "pierceb": 45
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 31502,
+          "results": {
+            "hawkinsh": 185,
+            "bidenj": 29598,
+            "trumpd": 1209,
+            "jorgensenj": 145,
+            "write-ins": 221,
+            "la_rivag": 79,
+            "pierceb": 66
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 42988,
+          "results": {
+            "hawkinsh": 173,
+            "bidenj": 38753,
+            "trumpd": 2963,
+            "jorgensenj": 383,
+            "write-ins": 586,
+            "la_rivag": 71,
+            "pierceb": 59
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 26226,
+          "results": {
+            "hawkinsh": 159,
+            "bidenj": 24858,
+            "trumpd": 775,
+            "jorgensenj": 81,
+            "write-ins": 184,
+            "la_rivag": 79,
+            "pierceb": 90
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 22450,
+          "results": {
+            "hawkinsh": 133,
+            "bidenj": 21110,
+            "trumpd": 741,
+            "jorgensenj": 92,
+            "write-ins": 150,
+            "la_rivag": 111,
+            "pierceb": 113
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-05T13:26:08Z",
+      "total_votes": 239030,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 28932,
+          "results": {
+            "hawkinsh": 180,
+            "bidenj": 27100,
+            "trumpd": 1197,
+            "jorgensenj": 142,
+            "write-ins": 207,
+            "la_rivag": 75,
+            "pierceb": 32
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 22824,
+          "results": {
+            "hawkinsh": 86,
+            "bidenj": 20184,
+            "trumpd": 2025,
+            "jorgensenj": 210,
+            "write-ins": 257,
+            "la_rivag": 35,
+            "pierceb": 27
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 30702,
+          "results": {
+            "hawkinsh": 110,
+            "bidenj": 27347,
+            "trumpd": 2572,
+            "jorgensenj": 239,
+            "write-ins": 341,
+            "la_rivag": 51,
+            "pierceb": 42
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 31442,
+          "results": {
+            "hawkinsh": 162,
+            "bidenj": 29493,
+            "trumpd": 1328,
+            "jorgensenj": 112,
+            "write-ins": 214,
+            "la_rivag": 87,
+            "pierceb": 46
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 32005,
+          "results": {
+            "hawkinsh": 188,
+            "bidenj": 30070,
+            "trumpd": 1228,
+            "jorgensenj": 147,
+            "write-ins": 224,
+            "la_rivag": 80,
+            "pierceb": 67
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 43674,
+          "results": {
+            "hawkinsh": 176,
+            "bidenj": 39371,
+            "trumpd": 3010,
+            "jorgensenj": 389,
+            "write-ins": 595,
+            "la_rivag": 72,
+            "pierceb": 60
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 26644,
+          "results": {
+            "hawkinsh": 161,
+            "bidenj": 25254,
+            "trumpd": 787,
+            "jorgensenj": 82,
+            "write-ins": 187,
+            "la_rivag": 81,
+            "pierceb": 92
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 22808,
+          "results": {
+            "hawkinsh": 135,
+            "bidenj": 21447,
+            "trumpd": 753,
+            "jorgensenj": 93,
+            "write-ins": 153,
+            "la_rivag": 113,
+            "pierceb": 115
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-05T13:28:07Z",
+      "total_votes": 244545,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 29600,
+          "results": {
+            "hawkinsh": 184,
+            "bidenj": 27725,
+            "trumpd": 1225,
+            "jorgensenj": 145,
+            "write-ins": 212,
+            "la_rivag": 77,
+            "pierceb": 33
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 23350,
+          "results": {
+            "hawkinsh": 88,
+            "bidenj": 20650,
+            "trumpd": 2072,
+            "jorgensenj": 214,
+            "write-ins": 263,
+            "la_rivag": 36,
+            "pierceb": 28
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 31411,
+          "results": {
+            "hawkinsh": 113,
+            "bidenj": 27978,
+            "trumpd": 2631,
+            "jorgensenj": 244,
+            "write-ins": 349,
+            "la_rivag": 53,
+            "pierceb": 43
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 32167,
+          "results": {
+            "hawkinsh": 166,
+            "bidenj": 30174,
+            "trumpd": 1359,
+            "jorgensenj": 114,
+            "write-ins": 219,
+            "la_rivag": 89,
+            "pierceb": 47
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 32743,
+          "results": {
+            "hawkinsh": 192,
+            "bidenj": 30764,
+            "trumpd": 1256,
+            "jorgensenj": 151,
+            "write-ins": 229,
+            "la_rivag": 82,
+            "pierceb": 69
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 44681,
+          "results": {
+            "hawkinsh": 180,
+            "bidenj": 40279,
+            "trumpd": 3080,
+            "jorgensenj": 398,
+            "write-ins": 609,
+            "la_rivag": 74,
+            "pierceb": 62
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 27258,
+          "results": {
+            "hawkinsh": 165,
+            "bidenj": 25837,
+            "trumpd": 805,
+            "jorgensenj": 84,
+            "write-ins": 192,
+            "la_rivag": 82,
+            "pierceb": 94
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 23334,
+          "results": {
+            "hawkinsh": 138,
+            "bidenj": 21942,
+            "trumpd": 771,
+            "jorgensenj": 95,
+            "write-ins": 156,
+            "la_rivag": 116,
+            "pierceb": 117
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-05T13:29:00Z",
+      "total_votes": 251396,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 30429,
+          "results": {
+            "hawkinsh": 189,
+            "bidenj": 28502,
+            "trumpd": 1259,
+            "jorgensenj": 149,
+            "write-ins": 218,
+            "la_rivag": 79,
+            "pierceb": 34
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 24005,
+          "results": {
+            "hawkinsh": 91,
+            "bidenj": 21228,
+            "trumpd": 2130,
+            "jorgensenj": 220,
+            "write-ins": 270,
+            "la_rivag": 37,
+            "pierceb": 28
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 32291,
+          "results": {
+            "hawkinsh": 116,
+            "bidenj": 28762,
+            "trumpd": 2705,
+            "jorgensenj": 251,
+            "write-ins": 358,
+            "la_rivag": 54,
+            "pierceb": 45
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 33068,
+          "results": {
+            "hawkinsh": 171,
+            "bidenj": 31019,
+            "trumpd": 1397,
+            "jorgensenj": 118,
+            "write-ins": 225,
+            "la_rivag": 91,
+            "pierceb": 48
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 33660,
+          "results": {
+            "hawkinsh": 198,
+            "bidenj": 31626,
+            "trumpd": 1291,
+            "jorgensenj": 155,
+            "write-ins": 236,
+            "la_rivag": 84,
+            "pierceb": 71
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 45933,
+          "results": {
+            "hawkinsh": 185,
+            "bidenj": 41408,
+            "trumpd": 3166,
+            "jorgensenj": 410,
+            "write-ins": 626,
+            "la_rivag": 76,
+            "pierceb": 64
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 28022,
+          "results": {
+            "hawkinsh": 169,
+            "bidenj": 26561,
+            "trumpd": 828,
+            "jorgensenj": 86,
+            "write-ins": 197,
+            "la_rivag": 85,
+            "pierceb": 96
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 23988,
+          "results": {
+            "hawkinsh": 142,
+            "bidenj": 22556,
+            "trumpd": 792,
+            "jorgensenj": 98,
+            "write-ins": 161,
+            "la_rivag": 119,
+            "pierceb": 120
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-05T13:29:57Z",
+      "total_votes": 260183,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 31493,
+          "results": {
+            "hawkinsh": 196,
+            "bidenj": 29498,
+            "trumpd": 1303,
+            "jorgensenj": 154,
+            "write-ins": 225,
+            "la_rivag": 82,
+            "pierceb": 35
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 24844,
+          "results": {
+            "hawkinsh": 94,
+            "bidenj": 21970,
+            "trumpd": 2205,
+            "jorgensenj": 228,
+            "write-ins": 280,
+            "la_rivag": 38,
+            "pierceb": 29
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 33419,
+          "results": {
+            "hawkinsh": 120,
+            "bidenj": 29767,
+            "trumpd": 2799,
+            "jorgensenj": 260,
+            "write-ins": 371,
+            "la_rivag": 56,
+            "pierceb": 46
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 34224,
+          "results": {
+            "hawkinsh": 177,
+            "bidenj": 32103,
+            "trumpd": 1445,
+            "jorgensenj": 122,
+            "write-ins": 233,
+            "la_rivag": 94,
+            "pierceb": 50
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 34837,
+          "results": {
+            "hawkinsh": 205,
+            "bidenj": 32731,
+            "trumpd": 1337,
+            "jorgensenj": 160,
+            "write-ins": 244,
+            "la_rivag": 87,
+            "pierceb": 73
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 47539,
+          "results": {
+            "hawkinsh": 191,
+            "bidenj": 42855,
+            "trumpd": 3277,
+            "jorgensenj": 424,
+            "write-ins": 648,
+            "la_rivag": 79,
+            "pierceb": 66
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 29002,
+          "results": {
+            "hawkinsh": 175,
+            "bidenj": 27489,
+            "trumpd": 857,
+            "jorgensenj": 89,
+            "write-ins": 204,
+            "la_rivag": 88,
+            "pierceb": 100
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 24826,
+          "results": {
+            "hawkinsh": 147,
+            "bidenj": 23345,
+            "trumpd": 820,
+            "jorgensenj": 101,
+            "write-ins": 166,
+            "la_rivag": 123,
+            "pierceb": 125
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-05T13:31:20Z",
+      "total_votes": 270085,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 32691,
+          "results": {
+            "hawkinsh": 203,
+            "bidenj": 30621,
+            "trumpd": 1353,
+            "jorgensenj": 160,
+            "write-ins": 234,
+            "la_rivag": 85,
+            "pierceb": 36
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 25789,
+          "results": {
+            "hawkinsh": 97,
+            "bidenj": 22806,
+            "trumpd": 2289,
+            "jorgensenj": 237,
+            "write-ins": 290,
+            "la_rivag": 39,
+            "pierceb": 31
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 34691,
+          "results": {
+            "hawkinsh": 125,
+            "bidenj": 30900,
+            "trumpd": 2906,
+            "jorgensenj": 270,
+            "write-ins": 385,
+            "la_rivag": 58,
+            "pierceb": 48
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 35527,
+          "results": {
+            "hawkinsh": 184,
+            "bidenj": 33325,
+            "trumpd": 1500,
+            "jorgensenj": 126,
+            "write-ins": 242,
+            "la_rivag": 98,
+            "pierceb": 52
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 36163,
+          "results": {
+            "hawkinsh": 213,
+            "bidenj": 33977,
+            "trumpd": 1387,
+            "jorgensenj": 166,
+            "write-ins": 253,
+            "la_rivag": 90,
+            "pierceb": 76
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 49348,
+          "results": {
+            "hawkinsh": 198,
+            "bidenj": 44486,
+            "trumpd": 3402,
+            "jorgensenj": 440,
+            "write-ins": 672,
+            "la_rivag": 82,
+            "pierceb": 68
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 30105,
+          "results": {
+            "hawkinsh": 182,
+            "bidenj": 28535,
+            "trumpd": 889,
+            "jorgensenj": 93,
+            "write-ins": 212,
+            "la_rivag": 91,
+            "pierceb": 104
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 25771,
+          "results": {
+            "hawkinsh": 152,
+            "bidenj": 24233,
+            "trumpd": 851,
+            "jorgensenj": 105,
+            "write-ins": 173,
+            "la_rivag": 128,
+            "pierceb": 129
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-05T13:32:09Z",
+      "total_votes": 276078,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 33417,
+          "results": {
+            "hawkinsh": 208,
+            "bidenj": 31300,
+            "trumpd": 1383,
+            "jorgensenj": 164,
+            "write-ins": 239,
+            "la_rivag": 87,
+            "pierceb": 37
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 26361,
+          "results": {
+            "hawkinsh": 99,
+            "bidenj": 23312,
+            "trumpd": 2339,
+            "jorgensenj": 242,
+            "write-ins": 297,
+            "la_rivag": 40,
+            "pierceb": 31
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 35461,
+          "results": {
+            "hawkinsh": 127,
+            "bidenj": 31585,
+            "trumpd": 2970,
+            "jorgensenj": 276,
+            "write-ins": 394,
+            "la_rivag": 59,
+            "pierceb": 49
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 36315,
+          "results": {
+            "hawkinsh": 188,
+            "bidenj": 34064,
+            "trumpd": 1534,
+            "jorgensenj": 129,
+            "write-ins": 247,
+            "la_rivag": 100,
+            "pierceb": 53
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 36965,
+          "results": {
+            "hawkinsh": 217,
+            "bidenj": 34731,
+            "trumpd": 1418,
+            "jorgensenj": 170,
+            "write-ins": 259,
+            "la_rivag": 92,
+            "pierceb": 78
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 50443,
+          "results": {
+            "hawkinsh": 203,
+            "bidenj": 45473,
+            "trumpd": 3477,
+            "jorgensenj": 450,
+            "write-ins": 687,
+            "la_rivag": 83,
+            "pierceb": 70
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 30773,
+          "results": {
+            "hawkinsh": 186,
+            "bidenj": 29168,
+            "trumpd": 909,
+            "jorgensenj": 95,
+            "write-ins": 216,
+            "la_rivag": 93,
+            "pierceb": 106
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 26343,
+          "results": {
+            "hawkinsh": 156,
+            "bidenj": 24771,
+            "trumpd": 870,
+            "jorgensenj": 107,
+            "write-ins": 176,
+            "la_rivag": 131,
+            "pierceb": 132
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-05T13:34:07Z",
+      "total_votes": 279152,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 33789,
+          "results": {
+            "hawkinsh": 210,
+            "bidenj": 31649,
+            "trumpd": 1398,
+            "jorgensenj": 165,
+            "write-ins": 242,
+            "la_rivag": 88,
+            "pierceb": 37
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 26655,
+          "results": {
+            "hawkinsh": 101,
+            "bidenj": 23572,
+            "trumpd": 2365,
+            "jorgensenj": 245,
+            "write-ins": 300,
+            "la_rivag": 41,
+            "pierceb": 32
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 35856,
+          "results": {
+            "hawkinsh": 129,
+            "bidenj": 31937,
+            "trumpd": 3003,
+            "jorgensenj": 279,
+            "write-ins": 398,
+            "la_rivag": 60,
+            "pierceb": 49
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 36719,
+          "results": {
+            "hawkinsh": 190,
+            "bidenj": 34444,
+            "trumpd": 1551,
+            "jorgensenj": 131,
+            "write-ins": 250,
+            "la_rivag": 101,
+            "pierceb": 54
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 37377,
+          "results": {
+            "hawkinsh": 220,
+            "bidenj": 35117,
+            "trumpd": 1434,
+            "jorgensenj": 172,
+            "write-ins": 262,
+            "la_rivag": 93,
+            "pierceb": 79
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 51004,
+          "results": {
+            "hawkinsh": 205,
+            "bidenj": 45979,
+            "trumpd": 3516,
+            "jorgensenj": 455,
+            "write-ins": 695,
+            "la_rivag": 84,
+            "pierceb": 71
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 31116,
+          "results": {
+            "hawkinsh": 188,
+            "bidenj": 29493,
+            "trumpd": 919,
+            "jorgensenj": 96,
+            "write-ins": 219,
+            "la_rivag": 94,
+            "pierceb": 107
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 26636,
+          "results": {
+            "hawkinsh": 157,
+            "bidenj": 25047,
+            "trumpd": 880,
+            "jorgensenj": 109,
+            "write-ins": 178,
+            "la_rivag": 132,
+            "pierceb": 134
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T18:18:23Z",
+      "total_votes": 281504,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 34073,
+          "results": {
+            "hawkinsh": 212,
+            "bidenj": 31915,
+            "trumpd": 1410,
+            "jorgensenj": 167,
+            "write-ins": 244,
+            "la_rivag": 88,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 26880,
+          "results": {
+            "hawkinsh": 101,
+            "bidenj": 23771,
+            "trumpd": 2385,
+            "jorgensenj": 247,
+            "write-ins": 302,
+            "la_rivag": 41,
+            "pierceb": 32
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 36158,
+          "results": {
+            "hawkinsh": 130,
+            "bidenj": 32206,
+            "trumpd": 3029,
+            "jorgensenj": 281,
+            "write-ins": 401,
+            "la_rivag": 60,
+            "pierceb": 50
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 37029,
+          "results": {
+            "hawkinsh": 191,
+            "bidenj": 34734,
+            "trumpd": 1564,
+            "jorgensenj": 132,
+            "write-ins": 252,
+            "la_rivag": 102,
+            "pierceb": 54
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 37692,
+          "results": {
+            "hawkinsh": 222,
+            "bidenj": 35413,
+            "trumpd": 1446,
+            "jorgensenj": 173,
+            "write-ins": 264,
+            "la_rivag": 94,
+            "pierceb": 79
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 51434,
+          "results": {
+            "hawkinsh": 207,
+            "bidenj": 46367,
+            "trumpd": 3545,
+            "jorgensenj": 459,
+            "write-ins": 701,
+            "la_rivag": 85,
+            "pierceb": 71
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 31378,
+          "results": {
+            "hawkinsh": 190,
+            "bidenj": 29742,
+            "trumpd": 927,
+            "jorgensenj": 96,
+            "write-ins": 221,
+            "la_rivag": 95,
+            "pierceb": 108
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 26861,
+          "results": {
+            "hawkinsh": 159,
+            "bidenj": 25258,
+            "trumpd": 887,
+            "jorgensenj": 110,
+            "write-ins": 180,
+            "la_rivag": 133,
+            "pierceb": 135
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T18:19:10Z",
+      "total_votes": 282631,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 34210,
+          "results": {
+            "hawkinsh": 213,
+            "bidenj": 32043,
+            "trumpd": 1416,
+            "jorgensenj": 167,
+            "write-ins": 245,
+            "la_rivag": 89,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 26987,
+          "results": {
+            "hawkinsh": 102,
+            "bidenj": 23866,
+            "trumpd": 2395,
+            "jorgensenj": 248,
+            "write-ins": 304,
+            "la_rivag": 41,
+            "pierceb": 32
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 36303,
+          "results": {
+            "hawkinsh": 130,
+            "bidenj": 32335,
+            "trumpd": 3041,
+            "jorgensenj": 282,
+            "write-ins": 403,
+            "la_rivag": 61,
+            "pierceb": 50
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 37177,
+          "results": {
+            "hawkinsh": 192,
+            "bidenj": 34873,
+            "trumpd": 1570,
+            "jorgensenj": 132,
+            "write-ins": 253,
+            "la_rivag": 103,
+            "pierceb": 54
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 37842,
+          "results": {
+            "hawkinsh": 222,
+            "bidenj": 35555,
+            "trumpd": 1452,
+            "jorgensenj": 174,
+            "write-ins": 265,
+            "la_rivag": 94,
+            "pierceb": 80
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 51640,
+          "results": {
+            "hawkinsh": 208,
+            "bidenj": 46552,
+            "trumpd": 3560,
+            "jorgensenj": 460,
+            "write-ins": 703,
+            "la_rivag": 85,
+            "pierceb": 71
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 31504,
+          "results": {
+            "hawkinsh": 190,
+            "bidenj": 29861,
+            "trumpd": 931,
+            "jorgensenj": 97,
+            "write-ins": 222,
+            "la_rivag": 95,
+            "pierceb": 108
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 26968,
+          "results": {
+            "hawkinsh": 159,
+            "bidenj": 25359,
+            "trumpd": 891,
+            "jorgensenj": 110,
+            "write-ins": 181,
+            "la_rivag": 134,
+            "pierceb": 135
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T18:19:58Z",
+      "total_votes": 284646,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 34454,
+          "results": {
+            "hawkinsh": 214,
+            "bidenj": 32271,
+            "trumpd": 1426,
+            "jorgensenj": 169,
+            "write-ins": 246,
+            "la_rivag": 89,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 27180,
+          "results": {
+            "hawkinsh": 102,
+            "bidenj": 24036,
+            "trumpd": 2412,
+            "jorgensenj": 250,
+            "write-ins": 306,
+            "la_rivag": 41,
+            "pierceb": 32
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 36562,
+          "results": {
+            "hawkinsh": 131,
+            "bidenj": 32566,
+            "trumpd": 3063,
+            "jorgensenj": 284,
+            "write-ins": 406,
+            "la_rivag": 61,
+            "pierceb": 50
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 37442,
+          "results": {
+            "hawkinsh": 193,
+            "bidenj": 35122,
+            "trumpd": 1581,
+            "jorgensenj": 133,
+            "write-ins": 255,
+            "la_rivag": 103,
+            "pierceb": 55
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 38112,
+          "results": {
+            "hawkinsh": 224,
+            "bidenj": 35808,
+            "trumpd": 1462,
+            "jorgensenj": 175,
+            "write-ins": 267,
+            "la_rivag": 95,
+            "pierceb": 80
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 52008,
+          "results": {
+            "hawkinsh": 209,
+            "bidenj": 46884,
+            "trumpd": 3585,
+            "jorgensenj": 464,
+            "write-ins": 708,
+            "la_rivag": 86,
+            "pierceb": 72
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 31728,
+          "results": {
+            "hawkinsh": 192,
+            "bidenj": 30074,
+            "trumpd": 937,
+            "jorgensenj": 98,
+            "write-ins": 223,
+            "la_rivag": 96,
+            "pierceb": 109
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 27161,
+          "results": {
+            "hawkinsh": 160,
+            "bidenj": 25540,
+            "trumpd": 897,
+            "jorgensenj": 111,
+            "write-ins": 182,
+            "la_rivag": 135,
+            "pierceb": 136
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T18:21:20Z",
+      "total_votes": 286680,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 34700,
+          "results": {
+            "hawkinsh": 216,
+            "bidenj": 32502,
+            "trumpd": 1436,
+            "jorgensenj": 170,
+            "write-ins": 248,
+            "la_rivag": 90,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 27374,
+          "results": {
+            "hawkinsh": 103,
+            "bidenj": 24208,
+            "trumpd": 2429,
+            "jorgensenj": 251,
+            "write-ins": 308,
+            "la_rivag": 42,
+            "pierceb": 32
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 36823,
+          "results": {
+            "hawkinsh": 132,
+            "bidenj": 32798,
+            "trumpd": 3084,
+            "jorgensenj": 286,
+            "write-ins": 409,
+            "la_rivag": 62,
+            "pierceb": 51
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 37709,
+          "results": {
+            "hawkinsh": 195,
+            "bidenj": 35373,
+            "trumpd": 1593,
+            "jorgensenj": 134,
+            "write-ins": 256,
+            "la_rivag": 104,
+            "pierceb": 55
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 38385,
+          "results": {
+            "hawkinsh": 226,
+            "bidenj": 36064,
+            "trumpd": 1473,
+            "jorgensenj": 176,
+            "write-ins": 269,
+            "la_rivag": 96,
+            "pierceb": 81
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 52380,
+          "results": {
+            "hawkinsh": 211,
+            "bidenj": 47219,
+            "trumpd": 3611,
+            "jorgensenj": 467,
+            "write-ins": 713,
+            "la_rivag": 87,
+            "pierceb": 72
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 31955,
+          "results": {
+            "hawkinsh": 193,
+            "bidenj": 30288,
+            "trumpd": 944,
+            "jorgensenj": 98,
+            "write-ins": 225,
+            "la_rivag": 97,
+            "pierceb": 110
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 27355,
+          "results": {
+            "hawkinsh": 162,
+            "bidenj": 25722,
+            "trumpd": 903,
+            "jorgensenj": 112,
+            "write-ins": 183,
+            "la_rivag": 136,
+            "pierceb": 137
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T18:22:17Z",
+      "total_votes": 287534,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 34803,
+          "results": {
+            "hawkinsh": 216,
+            "bidenj": 32599,
+            "trumpd": 1440,
+            "jorgensenj": 170,
+            "write-ins": 249,
+            "la_rivag": 90,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 27455,
+          "results": {
+            "hawkinsh": 104,
+            "bidenj": 24280,
+            "trumpd": 2437,
+            "jorgensenj": 252,
+            "write-ins": 309,
+            "la_rivag": 42,
+            "pierceb": 33
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 36932,
+          "results": {
+            "hawkinsh": 133,
+            "bidenj": 32896,
+            "trumpd": 3094,
+            "jorgensenj": 287,
+            "write-ins": 410,
+            "la_rivag": 62,
+            "pierceb": 51
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 37822,
+          "results": {
+            "hawkinsh": 195,
+            "bidenj": 35478,
+            "trumpd": 1597,
+            "jorgensenj": 134,
+            "write-ins": 257,
+            "la_rivag": 104,
+            "pierceb": 55
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 38499,
+          "results": {
+            "hawkinsh": 226,
+            "bidenj": 36172,
+            "trumpd": 1477,
+            "jorgensenj": 177,
+            "write-ins": 270,
+            "la_rivag": 96,
+            "pierceb": 81
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 52536,
+          "results": {
+            "hawkinsh": 211,
+            "bidenj": 47360,
+            "trumpd": 3621,
+            "jorgensenj": 468,
+            "write-ins": 716,
+            "la_rivag": 87,
+            "pierceb": 73
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 32050,
+          "results": {
+            "hawkinsh": 194,
+            "bidenj": 30379,
+            "trumpd": 947,
+            "jorgensenj": 99,
+            "write-ins": 225,
+            "la_rivag": 97,
+            "pierceb": 110
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 27436,
+          "results": {
+            "hawkinsh": 162,
+            "bidenj": 25799,
+            "trumpd": 906,
+            "jorgensenj": 112,
+            "write-ins": 184,
+            "la_rivag": 136,
+            "pierceb": 138
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T18:23:18Z",
+      "total_votes": 288636,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 34937,
+          "results": {
+            "hawkinsh": 217,
+            "bidenj": 32724,
+            "trumpd": 1446,
+            "jorgensenj": 171,
+            "write-ins": 250,
+            "la_rivag": 91,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 27561,
+          "results": {
+            "hawkinsh": 104,
+            "bidenj": 24373,
+            "trumpd": 2446,
+            "jorgensenj": 253,
+            "write-ins": 310,
+            "la_rivag": 42,
+            "pierceb": 33
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 37074,
+          "results": {
+            "hawkinsh": 133,
+            "bidenj": 33022,
+            "trumpd": 3105,
+            "jorgensenj": 288,
+            "write-ins": 412,
+            "la_rivag": 62,
+            "pierceb": 51
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 37967,
+          "results": {
+            "hawkinsh": 196,
+            "bidenj": 35614,
+            "trumpd": 1603,
+            "jorgensenj": 135,
+            "write-ins": 258,
+            "la_rivag": 105,
+            "pierceb": 55
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 38646,
+          "results": {
+            "hawkinsh": 227,
+            "bidenj": 36310,
+            "trumpd": 1483,
+            "jorgensenj": 178,
+            "write-ins": 271,
+            "la_rivag": 96,
+            "pierceb": 81
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 52737,
+          "results": {
+            "hawkinsh": 212,
+            "bidenj": 47541,
+            "trumpd": 3635,
+            "jorgensenj": 470,
+            "write-ins": 718,
+            "la_rivag": 87,
+            "pierceb": 73
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 32173,
+          "results": {
+            "hawkinsh": 194,
+            "bidenj": 30495,
+            "trumpd": 951,
+            "jorgensenj": 99,
+            "write-ins": 226,
+            "la_rivag": 97,
+            "pierceb": 111
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 27541,
+          "results": {
+            "hawkinsh": 163,
+            "bidenj": 25898,
+            "trumpd": 909,
+            "jorgensenj": 112,
+            "write-ins": 184,
+            "la_rivag": 137,
+            "pierceb": 138
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T18:24:04Z",
+      "total_votes": 289409,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 35030,
+          "results": {
+            "hawkinsh": 218,
+            "bidenj": 32811,
+            "trumpd": 1450,
+            "jorgensenj": 171,
+            "write-ins": 250,
+            "la_rivag": 91,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 27634,
+          "results": {
+            "hawkinsh": 104,
+            "bidenj": 24438,
+            "trumpd": 2452,
+            "jorgensenj": 254,
+            "write-ins": 311,
+            "la_rivag": 42,
+            "pierceb": 33
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 37173,
+          "results": {
+            "hawkinsh": 134,
+            "bidenj": 33111,
+            "trumpd": 3114,
+            "jorgensenj": 289,
+            "write-ins": 413,
+            "la_rivag": 62,
+            "pierceb": 51
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 38068,
+          "results": {
+            "hawkinsh": 197,
+            "bidenj": 35709,
+            "trumpd": 1608,
+            "jorgensenj": 135,
+            "write-ins": 259,
+            "la_rivag": 105,
+            "pierceb": 55
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 38750,
+          "results": {
+            "hawkinsh": 228,
+            "bidenj": 36408,
+            "trumpd": 1487,
+            "jorgensenj": 178,
+            "write-ins": 271,
+            "la_rivag": 97,
+            "pierceb": 82
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 52879,
+          "results": {
+            "hawkinsh": 213,
+            "bidenj": 47669,
+            "trumpd": 3645,
+            "jorgensenj": 471,
+            "write-ins": 720,
+            "la_rivag": 87,
+            "pierceb": 73
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 32259,
+          "results": {
+            "hawkinsh": 195,
+            "bidenj": 30577,
+            "trumpd": 953,
+            "jorgensenj": 99,
+            "write-ins": 227,
+            "la_rivag": 97,
+            "pierceb": 111
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 27615,
+          "results": {
+            "hawkinsh": 163,
+            "bidenj": 25967,
+            "trumpd": 912,
+            "jorgensenj": 113,
+            "write-ins": 185,
+            "la_rivag": 137,
+            "pierceb": 139
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-09T18:24:46Z",
+      "total_votes": 290171,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 35122,
+          "results": {
+            "hawkinsh": 218,
+            "bidenj": 32898,
+            "trumpd": 1454,
+            "jorgensenj": 172,
+            "write-ins": 251,
+            "la_rivag": 91,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 27707,
+          "results": {
+            "hawkinsh": 104,
+            "bidenj": 24503,
+            "trumpd": 2459,
+            "jorgensenj": 254,
+            "write-ins": 312,
+            "la_rivag": 42,
+            "pierceb": 33
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 37271,
+          "results": {
+            "hawkinsh": 134,
+            "bidenj": 33198,
+            "trumpd": 3122,
+            "jorgensenj": 290,
+            "write-ins": 414,
+            "la_rivag": 62,
+            "pierceb": 51
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 38169,
+          "results": {
+            "hawkinsh": 197,
+            "bidenj": 35803,
+            "trumpd": 1612,
+            "jorgensenj": 136,
+            "write-ins": 260,
+            "la_rivag": 105,
+            "pierceb": 56
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 38852,
+          "results": {
+            "hawkinsh": 228,
+            "bidenj": 36504,
+            "trumpd": 1491,
+            "jorgensenj": 179,
+            "write-ins": 272,
+            "la_rivag": 97,
+            "pierceb": 82
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 53018,
+          "results": {
+            "hawkinsh": 213,
+            "bidenj": 47794,
+            "trumpd": 3655,
+            "jorgensenj": 473,
+            "write-ins": 722,
+            "la_rivag": 88,
+            "pierceb": 73
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 32344,
+          "results": {
+            "hawkinsh": 195,
+            "bidenj": 30657,
+            "trumpd": 956,
+            "jorgensenj": 99,
+            "write-ins": 228,
+            "la_rivag": 98,
+            "pierceb": 111
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 27688,
+          "results": {
+            "hawkinsh": 163,
+            "bidenj": 26035,
+            "trumpd": 914,
+            "jorgensenj": 113,
+            "write-ins": 185,
+            "la_rivag": 137,
+            "pierceb": 139
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-11T03:13:34Z",
+      "total_votes": 294321,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 35625,
+          "results": {
+            "hawkinsh": 221,
+            "bidenj": 33368,
+            "trumpd": 1474,
+            "jorgensenj": 174,
+            "write-ins": 255,
+            "la_rivag": 92,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 28103,
+          "results": {
+            "hawkinsh": 106,
+            "bidenj": 24853,
+            "trumpd": 2494,
+            "jorgensenj": 258,
+            "write-ins": 316,
+            "la_rivag": 43,
+            "pierceb": 33
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 37804,
+          "results": {
+            "hawkinsh": 136,
+            "bidenj": 33673,
+            "trumpd": 3167,
+            "jorgensenj": 294,
+            "write-ins": 420,
+            "la_rivag": 63,
+            "pierceb": 52
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 38714,
+          "results": {
+            "hawkinsh": 200,
+            "bidenj": 36315,
+            "trumpd": 1635,
+            "jorgensenj": 138,
+            "write-ins": 263,
+            "la_rivag": 107,
+            "pierceb": 56
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 39408,
+          "results": {
+            "hawkinsh": 232,
+            "bidenj": 37026,
+            "trumpd": 1512,
+            "jorgensenj": 181,
+            "write-ins": 276,
+            "la_rivag": 98,
+            "pierceb": 83
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 53776,
+          "results": {
+            "hawkinsh": 216,
+            "bidenj": 48478,
+            "trumpd": 3707,
+            "jorgensenj": 479,
+            "write-ins": 732,
+            "la_rivag": 89,
+            "pierceb": 74
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 32807,
+          "results": {
+            "hawkinsh": 198,
+            "bidenj": 31096,
+            "trumpd": 969,
+            "jorgensenj": 101,
+            "write-ins": 231,
+            "la_rivag": 99,
+            "pierceb": 113
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 28084,
+          "results": {
+            "hawkinsh": 166,
+            "bidenj": 26408,
+            "trumpd": 927,
+            "jorgensenj": 115,
+            "write-ins": 188,
+            "la_rivag": 139,
+            "pierceb": 141
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-11T03:17:16Z",
+      "total_votes": 295317,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 35745,
+          "results": {
+            "hawkinsh": 222,
+            "bidenj": 33481,
+            "trumpd": 1479,
+            "jorgensenj": 175,
+            "write-ins": 256,
+            "la_rivag": 93,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 28198,
+          "results": {
+            "hawkinsh": 106,
+            "bidenj": 24937,
+            "trumpd": 2502,
+            "jorgensenj": 259,
+            "write-ins": 317,
+            "la_rivag": 43,
+            "pierceb": 33
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 37932,
+          "results": {
+            "hawkinsh": 136,
+            "bidenj": 33787,
+            "trumpd": 3177,
+            "jorgensenj": 295,
+            "write-ins": 421,
+            "la_rivag": 63,
+            "pierceb": 52
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 38845,
+          "results": {
+            "hawkinsh": 201,
+            "bidenj": 36438,
+            "trumpd": 1641,
+            "jorgensenj": 138,
+            "write-ins": 264,
+            "la_rivag": 107,
+            "pierceb": 57
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 39541,
+          "results": {
+            "hawkinsh": 232,
+            "bidenj": 37151,
+            "trumpd": 1517,
+            "jorgensenj": 182,
+            "write-ins": 277,
+            "la_rivag": 99,
+            "pierceb": 83
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 53958,
+          "results": {
+            "hawkinsh": 217,
+            "bidenj": 48642,
+            "trumpd": 3719,
+            "jorgensenj": 481,
+            "write-ins": 735,
+            "la_rivag": 89,
+            "pierceb": 75
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 32918,
+          "results": {
+            "hawkinsh": 199,
+            "bidenj": 31201,
+            "trumpd": 973,
+            "jorgensenj": 101,
+            "write-ins": 232,
+            "la_rivag": 99,
+            "pierceb": 113
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 28179,
+          "results": {
+            "hawkinsh": 166,
+            "bidenj": 26497,
+            "trumpd": 930,
+            "jorgensenj": 115,
+            "write-ins": 189,
+            "la_rivag": 140,
+            "pierceb": 142
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-11T03:18:41Z",
+      "total_votes": 295981,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 35826,
+          "results": {
+            "hawkinsh": 223,
+            "bidenj": 33557,
+            "trumpd": 1483,
+            "jorgensenj": 175,
+            "write-ins": 256,
+            "la_rivag": 93,
+            "pierceb": 40
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 28262,
+          "results": {
+            "hawkinsh": 107,
+            "bidenj": 24993,
+            "trumpd": 2508,
+            "jorgensenj": 260,
+            "write-ins": 318,
+            "la_rivag": 43,
+            "pierceb": 34
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 38017,
+          "results": {
+            "hawkinsh": 137,
+            "bidenj": 33863,
+            "trumpd": 3185,
+            "jorgensenj": 296,
+            "write-ins": 422,
+            "la_rivag": 64,
+            "pierceb": 52
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 38933,
+          "results": {
+            "hawkinsh": 201,
+            "bidenj": 36520,
+            "trumpd": 1644,
+            "jorgensenj": 138,
+            "write-ins": 265,
+            "la_rivag": 107,
+            "pierceb": 57
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 39630,
+          "results": {
+            "hawkinsh": 233,
+            "bidenj": 37234,
+            "trumpd": 1520,
+            "jorgensenj": 182,
+            "write-ins": 278,
+            "la_rivag": 99,
+            "pierceb": 83
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 54079,
+          "results": {
+            "hawkinsh": 217,
+            "bidenj": 48751,
+            "trumpd": 3728,
+            "jorgensenj": 482,
+            "write-ins": 737,
+            "la_rivag": 89,
+            "pierceb": 75
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 32992,
+          "results": {
+            "hawkinsh": 199,
+            "bidenj": 31271,
+            "trumpd": 975,
+            "jorgensenj": 101,
+            "write-ins": 232,
+            "la_rivag": 100,
+            "pierceb": 113
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 28242,
+          "results": {
+            "hawkinsh": 167,
+            "bidenj": 26557,
+            "trumpd": 933,
+            "jorgensenj": 115,
+            "write-ins": 189,
+            "la_rivag": 140,
+            "pierceb": 142
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-11T03:19:36Z",
+      "total_votes": 296926,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 35940,
+          "results": {
+            "hawkinsh": 223,
+            "bidenj": 33664,
+            "trumpd": 1487,
+            "jorgensenj": 176,
+            "write-ins": 257,
+            "la_rivag": 93,
+            "pierceb": 40
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 28352,
+          "results": {
+            "hawkinsh": 107,
+            "bidenj": 25073,
+            "trumpd": 2516,
+            "jorgensenj": 260,
+            "write-ins": 319,
+            "la_rivag": 43,
+            "pierceb": 34
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 38139,
+          "results": {
+            "hawkinsh": 137,
+            "bidenj": 33971,
+            "trumpd": 3195,
+            "jorgensenj": 297,
+            "write-ins": 423,
+            "la_rivag": 64,
+            "pierceb": 53
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 39057,
+          "results": {
+            "hawkinsh": 202,
+            "bidenj": 36637,
+            "trumpd": 1650,
+            "jorgensenj": 139,
+            "write-ins": 266,
+            "la_rivag": 108,
+            "pierceb": 57
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 39756,
+          "results": {
+            "hawkinsh": 234,
+            "bidenj": 37353,
+            "trumpd": 1525,
+            "jorgensenj": 183,
+            "write-ins": 279,
+            "la_rivag": 99,
+            "pierceb": 84
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 54252,
+          "results": {
+            "hawkinsh": 218,
+            "bidenj": 48907,
+            "trumpd": 3740,
+            "jorgensenj": 484,
+            "write-ins": 739,
+            "la_rivag": 90,
+            "pierceb": 75
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 33097,
+          "results": {
+            "hawkinsh": 200,
+            "bidenj": 31371,
+            "trumpd": 978,
+            "jorgensenj": 102,
+            "write-ins": 233,
+            "la_rivag": 100,
+            "pierceb": 114
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 28332,
+          "results": {
+            "hawkinsh": 167,
+            "bidenj": 26641,
+            "trumpd": 936,
+            "jorgensenj": 116,
+            "write-ins": 190,
+            "la_rivag": 141,
+            "pierceb": 142
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-11T03:20:18Z",
+      "total_votes": 299119,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 36205,
+          "results": {
+            "hawkinsh": 225,
+            "bidenj": 33912,
+            "trumpd": 1498,
+            "jorgensenj": 177,
+            "write-ins": 259,
+            "la_rivag": 94,
+            "pierceb": 40
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 28562,
+          "results": {
+            "hawkinsh": 108,
+            "bidenj": 25258,
+            "trumpd": 2535,
+            "jorgensenj": 262,
+            "write-ins": 321,
+            "la_rivag": 43,
+            "pierceb": 34
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 38421,
+          "results": {
+            "hawkinsh": 138,
+            "bidenj": 34222,
+            "trumpd": 3218,
+            "jorgensenj": 299,
+            "write-ins": 426,
+            "la_rivag": 64,
+            "pierceb": 53
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 39346,
+          "results": {
+            "hawkinsh": 203,
+            "bidenj": 36907,
+            "trumpd": 1662,
+            "jorgensenj": 140,
+            "write-ins": 268,
+            "la_rivag": 109,
+            "pierceb": 57
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 40050,
+          "results": {
+            "hawkinsh": 235,
+            "bidenj": 37629,
+            "trumpd": 1537,
+            "jorgensenj": 184,
+            "write-ins": 281,
+            "la_rivag": 100,
+            "pierceb": 84
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 54653,
+          "results": {
+            "hawkinsh": 220,
+            "bidenj": 49268,
+            "trumpd": 3767,
+            "jorgensenj": 487,
+            "write-ins": 744,
+            "la_rivag": 90,
+            "pierceb": 76
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 33342,
+          "results": {
+            "hawkinsh": 202,
+            "bidenj": 31603,
+            "trumpd": 985,
+            "jorgensenj": 102,
+            "write-ins": 235,
+            "la_rivag": 101,
+            "pierceb": 115
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 28542,
+          "results": {
+            "hawkinsh": 169,
+            "bidenj": 26838,
+            "trumpd": 942,
+            "jorgensenj": 116,
+            "write-ins": 191,
+            "la_rivag": 142,
+            "pierceb": 143
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-11T03:22:26Z",
+      "total_votes": 303573,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 36745,
+          "results": {
+            "hawkinsh": 228,
+            "bidenj": 34417,
+            "trumpd": 1521,
+            "jorgensenj": 180,
+            "write-ins": 263,
+            "la_rivag": 95,
+            "pierceb": 41
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 28987,
+          "results": {
+            "hawkinsh": 109,
+            "bidenj": 25634,
+            "trumpd": 2572,
+            "jorgensenj": 266,
+            "write-ins": 326,
+            "la_rivag": 44,
+            "pierceb": 34
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 38993,
+          "results": {
+            "hawkinsh": 140,
+            "bidenj": 34731,
+            "trumpd": 3266,
+            "jorgensenj": 303,
+            "write-ins": 433,
+            "la_rivag": 65,
+            "pierceb": 54
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 39931,
+          "results": {
+            "hawkinsh": 206,
+            "bidenj": 37457,
+            "trumpd": 1686,
+            "jorgensenj": 142,
+            "write-ins": 272,
+            "la_rivag": 110,
+            "pierceb": 58
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 40646,
+          "results": {
+            "hawkinsh": 239,
+            "bidenj": 38189,
+            "trumpd": 1559,
+            "jorgensenj": 187,
+            "write-ins": 285,
+            "la_rivag": 101,
+            "pierceb": 86
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 55466,
+          "results": {
+            "hawkinsh": 223,
+            "bidenj": 50002,
+            "trumpd": 3823,
+            "jorgensenj": 495,
+            "write-ins": 756,
+            "la_rivag": 92,
+            "pierceb": 77
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 33838,
+          "results": {
+            "hawkinsh": 205,
+            "bidenj": 32073,
+            "trumpd": 1000,
+            "jorgensenj": 104,
+            "write-ins": 238,
+            "la_rivag": 102,
+            "pierceb": 116
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 28967,
+          "results": {
+            "hawkinsh": 171,
+            "bidenj": 27238,
+            "trumpd": 957,
+            "jorgensenj": 118,
+            "write-ins": 194,
+            "la_rivag": 144,
+            "pierceb": 145
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-11T03:23:11Z",
+      "total_votes": 305922,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 37029,
+          "results": {
+            "hawkinsh": 230,
+            "bidenj": 34684,
+            "trumpd": 1532,
+            "jorgensenj": 181,
+            "write-ins": 265,
+            "la_rivag": 96,
+            "pierceb": 41
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 29211,
+          "results": {
+            "hawkinsh": 110,
+            "bidenj": 25833,
+            "trumpd": 2592,
+            "jorgensenj": 268,
+            "write-ins": 329,
+            "la_rivag": 44,
+            "pierceb": 35
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 39294,
+          "results": {
+            "hawkinsh": 141,
+            "bidenj": 35000,
+            "trumpd": 3291,
+            "jorgensenj": 306,
+            "write-ins": 436,
+            "la_rivag": 66,
+            "pierceb": 54
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 40240,
+          "results": {
+            "hawkinsh": 208,
+            "bidenj": 37747,
+            "trumpd": 1699,
+            "jorgensenj": 143,
+            "write-ins": 274,
+            "la_rivag": 111,
+            "pierceb": 59
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 40961,
+          "results": {
+            "hawkinsh": 241,
+            "bidenj": 38485,
+            "trumpd": 1572,
+            "jorgensenj": 188,
+            "write-ins": 287,
+            "la_rivag": 102,
+            "pierceb": 86
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 55896,
+          "results": {
+            "hawkinsh": 225,
+            "bidenj": 50389,
+            "trumpd": 3853,
+            "jorgensenj": 498,
+            "write-ins": 761,
+            "la_rivag": 92,
+            "pierceb": 77
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 34100,
+          "results": {
+            "hawkinsh": 206,
+            "bidenj": 32321,
+            "trumpd": 1007,
+            "jorgensenj": 105,
+            "write-ins": 240,
+            "la_rivag": 103,
+            "pierceb": 117
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 29191,
+          "results": {
+            "hawkinsh": 172,
+            "bidenj": 27449,
+            "trumpd": 964,
+            "jorgensenj": 119,
+            "write-ins": 195,
+            "la_rivag": 145,
+            "pierceb": 147
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-11T03:24:24Z",
+      "total_votes": 309190,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 37424,
+          "results": {
+            "hawkinsh": 233,
+            "bidenj": 35054,
+            "trumpd": 1549,
+            "jorgensenj": 183,
+            "write-ins": 268,
+            "la_rivag": 97,
+            "pierceb": 41
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 29523,
+          "results": {
+            "hawkinsh": 111,
+            "bidenj": 26109,
+            "trumpd": 2620,
+            "jorgensenj": 271,
+            "write-ins": 332,
+            "la_rivag": 45,
+            "pierceb": 35
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 39714,
+          "results": {
+            "hawkinsh": 143,
+            "bidenj": 35374,
+            "trumpd": 3327,
+            "jorgensenj": 309,
+            "write-ins": 441,
+            "la_rivag": 66,
+            "pierceb": 55
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 40670,
+          "results": {
+            "hawkinsh": 210,
+            "bidenj": 38150,
+            "trumpd": 1718,
+            "jorgensenj": 145,
+            "write-ins": 277,
+            "la_rivag": 112,
+            "pierceb": 59
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 41399,
+          "results": {
+            "hawkinsh": 243,
+            "bidenj": 38896,
+            "trumpd": 1588,
+            "jorgensenj": 190,
+            "write-ins": 290,
+            "la_rivag": 103,
+            "pierceb": 87
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 56493,
+          "results": {
+            "hawkinsh": 227,
+            "bidenj": 50927,
+            "trumpd": 3894,
+            "jorgensenj": 504,
+            "write-ins": 769,
+            "la_rivag": 93,
+            "pierceb": 78
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 34464,
+          "results": {
+            "hawkinsh": 208,
+            "bidenj": 32667,
+            "trumpd": 1018,
+            "jorgensenj": 106,
+            "write-ins": 242,
+            "la_rivag": 104,
+            "pierceb": 119
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 29503,
+          "results": {
+            "hawkinsh": 174,
+            "bidenj": 27742,
+            "trumpd": 974,
+            "jorgensenj": 120,
+            "write-ins": 198,
+            "la_rivag": 146,
+            "pierceb": 148
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-14T16:33:58Z",
+      "total_votes": 317738,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 38459,
+          "results": {
+            "hawkinsh": 239,
+            "bidenj": 36023,
+            "trumpd": 1592,
+            "jorgensenj": 188,
+            "write-ins": 275,
+            "la_rivag": 100,
+            "pierceb": 42
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 30339,
+          "results": {
+            "hawkinsh": 114,
+            "bidenj": 26830,
+            "trumpd": 2692,
+            "jorgensenj": 279,
+            "write-ins": 341,
+            "la_rivag": 46,
+            "pierceb": 36
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 40812,
+          "results": {
+            "hawkinsh": 147,
+            "bidenj": 36352,
+            "trumpd": 3419,
+            "jorgensenj": 317,
+            "write-ins": 453,
+            "la_rivag": 68,
+            "pierceb": 56
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 41795,
+          "results": {
+            "hawkinsh": 216,
+            "bidenj": 39205,
+            "trumpd": 1765,
+            "jorgensenj": 149,
+            "write-ins": 284,
+            "la_rivag": 115,
+            "pierceb": 61
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 42543,
+          "results": {
+            "hawkinsh": 250,
+            "bidenj": 39971,
+            "trumpd": 1632,
+            "jorgensenj": 196,
+            "write-ins": 298,
+            "la_rivag": 106,
+            "pierceb": 90
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 58055,
+          "results": {
+            "hawkinsh": 233,
+            "bidenj": 52335,
+            "trumpd": 4002,
+            "jorgensenj": 518,
+            "write-ins": 791,
+            "la_rivag": 96,
+            "pierceb": 80
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 35417,
+          "results": {
+            "hawkinsh": 214,
+            "bidenj": 33570,
+            "trumpd": 1046,
+            "jorgensenj": 109,
+            "write-ins": 249,
+            "la_rivag": 107,
+            "pierceb": 122
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 30318,
+          "results": {
+            "hawkinsh": 179,
+            "bidenj": 28509,
+            "trumpd": 1001,
+            "jorgensenj": 124,
+            "write-ins": 203,
+            "la_rivag": 150,
+            "pierceb": 152
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-14T16:35:19Z",
+      "total_votes": 325248,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 39368,
+          "results": {
+            "hawkinsh": 245,
+            "bidenj": 36875,
+            "trumpd": 1629,
+            "jorgensenj": 193,
+            "write-ins": 281,
+            "la_rivag": 102,
+            "pierceb": 43
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 31056,
+          "results": {
+            "hawkinsh": 117,
+            "bidenj": 27464,
+            "trumpd": 2756,
+            "jorgensenj": 285,
+            "write-ins": 349,
+            "la_rivag": 47,
+            "pierceb": 37
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 41777,
+          "results": {
+            "hawkinsh": 150,
+            "bidenj": 37211,
+            "trumpd": 3499,
+            "jorgensenj": 325,
+            "write-ins": 464,
+            "la_rivag": 70,
+            "pierceb": 58
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 42783,
+          "results": {
+            "hawkinsh": 221,
+            "bidenj": 40131,
+            "trumpd": 1807,
+            "jorgensenj": 152,
+            "write-ins": 291,
+            "la_rivag": 118,
+            "pierceb": 62
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 43549,
+          "results": {
+            "hawkinsh": 256,
+            "bidenj": 40916,
+            "trumpd": 1671,
+            "jorgensenj": 200,
+            "write-ins": 305,
+            "la_rivag": 109,
+            "pierceb": 92
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 59427,
+          "results": {
+            "hawkinsh": 239,
+            "bidenj": 53572,
+            "trumpd": 4096,
+            "jorgensenj": 530,
+            "write-ins": 809,
+            "la_rivag": 98,
+            "pierceb": 82
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 36254,
+          "results": {
+            "hawkinsh": 219,
+            "bidenj": 34363,
+            "trumpd": 1071,
+            "jorgensenj": 111,
+            "write-ins": 255,
+            "la_rivag": 110,
+            "pierceb": 125
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 31035,
+          "results": {
+            "hawkinsh": 183,
+            "bidenj": 29183,
+            "trumpd": 1025,
+            "jorgensenj": 127,
+            "write-ins": 208,
+            "la_rivag": 154,
+            "pierceb": 156
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-14T16:37:52Z",
+      "total_votes": 333682,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 40389,
+          "results": {
+            "hawkinsh": 251,
+            "bidenj": 37831,
+            "trumpd": 1672,
+            "jorgensenj": 198,
+            "write-ins": 289,
+            "la_rivag": 105,
+            "pierceb": 45
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 31862,
+          "results": {
+            "hawkinsh": 120,
+            "bidenj": 28177,
+            "trumpd": 2828,
+            "jorgensenj": 293,
+            "write-ins": 359,
+            "la_rivag": 48,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 42860,
+          "results": {
+            "hawkinsh": 154,
+            "bidenj": 38176,
+            "trumpd": 3590,
+            "jorgensenj": 333,
+            "write-ins": 476,
+            "la_rivag": 72,
+            "pierceb": 59
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 43892,
+          "results": {
+            "hawkinsh": 227,
+            "bidenj": 41172,
+            "trumpd": 1854,
+            "jorgensenj": 156,
+            "write-ins": 298,
+            "la_rivag": 121,
+            "pierceb": 64
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 44678,
+          "results": {
+            "hawkinsh": 263,
+            "bidenj": 41977,
+            "trumpd": 1714,
+            "jorgensenj": 205,
+            "write-ins": 313,
+            "la_rivag": 111,
+            "pierceb": 94
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 60968,
+          "results": {
+            "hawkinsh": 245,
+            "bidenj": 54961,
+            "trumpd": 4203,
+            "jorgensenj": 544,
+            "write-ins": 830,
+            "la_rivag": 101,
+            "pierceb": 84
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 37194,
+          "results": {
+            "hawkinsh": 225,
+            "bidenj": 35254,
+            "trumpd": 1099,
+            "jorgensenj": 114,
+            "write-ins": 262,
+            "la_rivag": 112,
+            "pierceb": 128
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 31840,
+          "results": {
+            "hawkinsh": 188,
+            "bidenj": 29939,
+            "trumpd": 1051,
+            "jorgensenj": 130,
+            "write-ins": 213,
+            "la_rivag": 158,
+            "pierceb": 160
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-17T01:02:21.217Z",
+      "total_votes": 330599,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 40016,
+          "results": {
+            "hawkinsh": 249,
+            "bidenj": 37481,
+            "trumpd": 1656,
+            "jorgensenj": 196,
+            "write-ins": 286,
+            "la_rivag": 104,
+            "pierceb": 44
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 31567,
+          "results": {
+            "hawkinsh": 119,
+            "bidenj": 27916,
+            "trumpd": 2801,
+            "jorgensenj": 290,
+            "write-ins": 355,
+            "la_rivag": 48,
+            "pierceb": 37
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 42464,
+          "results": {
+            "hawkinsh": 153,
+            "bidenj": 37823,
+            "trumpd": 3557,
+            "jorgensenj": 330,
+            "write-ins": 471,
+            "la_rivag": 71,
+            "pierceb": 59
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 43486,
+          "results": {
+            "hawkinsh": 225,
+            "bidenj": 40792,
+            "trumpd": 1837,
+            "jorgensenj": 155,
+            "write-ins": 296,
+            "la_rivag": 120,
+            "pierceb": 63
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 44265,
+          "results": {
+            "hawkinsh": 260,
+            "bidenj": 41589,
+            "trumpd": 1698,
+            "jorgensenj": 204,
+            "write-ins": 310,
+            "la_rivag": 110,
+            "pierceb": 93
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 60404,
+          "results": {
+            "hawkinsh": 243,
+            "bidenj": 54453,
+            "trumpd": 4164,
+            "jorgensenj": 539,
+            "write-ins": 823,
+            "la_rivag": 100,
+            "pierceb": 84
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 36851,
+          "results": {
+            "hawkinsh": 223,
+            "bidenj": 34929,
+            "trumpd": 1089,
+            "jorgensenj": 113,
+            "write-ins": 259,
+            "la_rivag": 111,
+            "pierceb": 127
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 31545,
+          "results": {
+            "hawkinsh": 186,
+            "bidenj": 29663,
+            "trumpd": 1042,
+            "jorgensenj": 129,
+            "write-ins": 211,
+            "la_rivag": 156,
+            "pierceb": 158
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-18T17:17:14Z",
+      "total_votes": 333682,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 40389,
+          "results": {
+            "hawkinsh": 251,
+            "bidenj": 37831,
+            "trumpd": 1672,
+            "jorgensenj": 198,
+            "write-ins": 289,
+            "la_rivag": 105,
+            "pierceb": 45
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 31862,
+          "results": {
+            "hawkinsh": 120,
+            "bidenj": 28177,
+            "trumpd": 2828,
+            "jorgensenj": 293,
+            "write-ins": 359,
+            "la_rivag": 48,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 42860,
+          "results": {
+            "hawkinsh": 154,
+            "bidenj": 38176,
+            "trumpd": 3590,
+            "jorgensenj": 333,
+            "write-ins": 476,
+            "la_rivag": 72,
+            "pierceb": 59
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 43892,
+          "results": {
+            "hawkinsh": 227,
+            "bidenj": 41172,
+            "trumpd": 1854,
+            "jorgensenj": 156,
+            "write-ins": 298,
+            "la_rivag": 121,
+            "pierceb": 64
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 44678,
+          "results": {
+            "hawkinsh": 263,
+            "bidenj": 41977,
+            "trumpd": 1714,
+            "jorgensenj": 205,
+            "write-ins": 313,
+            "la_rivag": 111,
+            "pierceb": 94
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 60968,
+          "results": {
+            "hawkinsh": 245,
+            "bidenj": 54961,
+            "trumpd": 4203,
+            "jorgensenj": 544,
+            "write-ins": 830,
+            "la_rivag": 101,
+            "pierceb": 84
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 37194,
+          "results": {
+            "hawkinsh": 225,
+            "bidenj": 35254,
+            "trumpd": 1099,
+            "jorgensenj": 114,
+            "write-ins": 262,
+            "la_rivag": 112,
+            "pierceb": 128
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 31840,
+          "results": {
+            "hawkinsh": 188,
+            "bidenj": 29939,
+            "trumpd": 1051,
+            "jorgensenj": 130,
+            "write-ins": 213,
+            "la_rivag": 158,
+            "pierceb": 160
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-24T13:16:06Z",
+      "total_votes": 334732,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 40516,
+          "results": {
+            "hawkinsh": 252,
+            "bidenj": 37950,
+            "trumpd": 1677,
+            "jorgensenj": 198,
+            "write-ins": 290,
+            "la_rivag": 105,
+            "pierceb": 45
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 31962,
+          "results": {
+            "hawkinsh": 121,
+            "bidenj": 28265,
+            "trumpd": 2836,
+            "jorgensenj": 294,
+            "write-ins": 360,
+            "la_rivag": 49,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 42995,
+          "results": {
+            "hawkinsh": 155,
+            "bidenj": 38296,
+            "trumpd": 3601,
+            "jorgensenj": 334,
+            "write-ins": 477,
+            "la_rivag": 72,
+            "pierceb": 59
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 44030,
+          "results": {
+            "hawkinsh": 227,
+            "bidenj": 41302,
+            "trumpd": 1860,
+            "jorgensenj": 157,
+            "write-ins": 299,
+            "la_rivag": 122,
+            "pierceb": 64
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 44818,
+          "results": {
+            "hawkinsh": 263,
+            "bidenj": 42109,
+            "trumpd": 1720,
+            "jorgensenj": 206,
+            "write-ins": 314,
+            "la_rivag": 112,
+            "pierceb": 94
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 61160,
+          "results": {
+            "hawkinsh": 246,
+            "bidenj": 55134,
+            "trumpd": 4216,
+            "jorgensenj": 545,
+            "write-ins": 833,
+            "la_rivag": 101,
+            "pierceb": 85
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 37311,
+          "results": {
+            "hawkinsh": 226,
+            "bidenj": 35365,
+            "trumpd": 1102,
+            "jorgensenj": 115,
+            "write-ins": 262,
+            "la_rivag": 113,
+            "pierceb": 128
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 31940,
+          "results": {
+            "hawkinsh": 189,
+            "bidenj": 30033,
+            "trumpd": 1055,
+            "jorgensenj": 130,
+            "write-ins": 214,
+            "la_rivag": 158,
+            "pierceb": 160
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-24T13:18:17Z",
+      "total_votes": 337662,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 40871,
+          "results": {
+            "hawkinsh": 254,
+            "bidenj": 38282,
+            "trumpd": 1691,
+            "jorgensenj": 200,
+            "write-ins": 292,
+            "la_rivag": 106,
+            "pierceb": 45
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 32242,
+          "results": {
+            "hawkinsh": 122,
+            "bidenj": 28513,
+            "trumpd": 2861,
+            "jorgensenj": 296,
+            "write-ins": 363,
+            "la_rivag": 49,
+            "pierceb": 38
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 43371,
+          "results": {
+            "hawkinsh": 156,
+            "bidenj": 38631,
+            "trumpd": 3633,
+            "jorgensenj": 337,
+            "write-ins": 481,
+            "la_rivag": 73,
+            "pierceb": 60
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 44415,
+          "results": {
+            "hawkinsh": 229,
+            "bidenj": 41663,
+            "trumpd": 1876,
+            "jorgensenj": 158,
+            "write-ins": 302,
+            "la_rivag": 123,
+            "pierceb": 65
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 45211,
+          "results": {
+            "hawkinsh": 266,
+            "bidenj": 42478,
+            "trumpd": 1735,
+            "jorgensenj": 208,
+            "write-ins": 317,
+            "la_rivag": 113,
+            "pierceb": 95
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 61695,
+          "results": {
+            "hawkinsh": 248,
+            "bidenj": 55616,
+            "trumpd": 4253,
+            "jorgensenj": 550,
+            "write-ins": 840,
+            "la_rivag": 102,
+            "pierceb": 85
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 37638,
+          "results": {
+            "hawkinsh": 227,
+            "bidenj": 35675,
+            "trumpd": 1112,
+            "jorgensenj": 116,
+            "write-ins": 265,
+            "la_rivag": 114,
+            "pierceb": 129
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 32219,
+          "results": {
+            "hawkinsh": 190,
+            "bidenj": 30296,
+            "trumpd": 1064,
+            "jorgensenj": 131,
+            "write-ins": 216,
+            "la_rivag": 160,
+            "pierceb": 162
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-24T13:20:20Z",
+      "total_votes": 343744,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 41607,
+          "results": {
+            "hawkinsh": 259,
+            "bidenj": 38972,
+            "trumpd": 1722,
+            "jorgensenj": 204,
+            "write-ins": 297,
+            "la_rivag": 108,
+            "pierceb": 46
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 32823,
+          "results": {
+            "hawkinsh": 124,
+            "bidenj": 29026,
+            "trumpd": 2913,
+            "jorgensenj": 301,
+            "write-ins": 369,
+            "la_rivag": 50,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 44152,
+          "results": {
+            "hawkinsh": 159,
+            "bidenj": 39327,
+            "trumpd": 3698,
+            "jorgensenj": 343,
+            "write-ins": 490,
+            "la_rivag": 74,
+            "pierceb": 61
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 45215,
+          "results": {
+            "hawkinsh": 234,
+            "bidenj": 42413,
+            "trumpd": 1910,
+            "jorgensenj": 161,
+            "write-ins": 307,
+            "la_rivag": 125,
+            "pierceb": 66
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 46025,
+          "results": {
+            "hawkinsh": 271,
+            "bidenj": 43243,
+            "trumpd": 1766,
+            "jorgensenj": 212,
+            "write-ins": 322,
+            "la_rivag": 115,
+            "pierceb": 97
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 62806,
+          "results": {
+            "hawkinsh": 253,
+            "bidenj": 56618,
+            "trumpd": 4329,
+            "jorgensenj": 560,
+            "write-ins": 855,
+            "la_rivag": 104,
+            "pierceb": 87
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 38316,
+          "results": {
+            "hawkinsh": 232,
+            "bidenj": 36317,
+            "trumpd": 1132,
+            "jorgensenj": 118,
+            "write-ins": 270,
+            "la_rivag": 116,
+            "pierceb": 132
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 32800,
+          "results": {
+            "hawkinsh": 194,
+            "bidenj": 30842,
+            "trumpd": 1083,
+            "jorgensenj": 134,
+            "write-ins": 220,
+            "la_rivag": 163,
+            "pierceb": 165
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-24T13:21:03Z",
+      "total_votes": 344356,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 41681,
+          "results": {
+            "hawkinsh": 259,
+            "bidenj": 39041,
+            "trumpd": 1725,
+            "jorgensenj": 204,
+            "write-ins": 298,
+            "la_rivag": 108,
+            "pierceb": 46
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 32881,
+          "results": {
+            "hawkinsh": 124,
+            "bidenj": 29078,
+            "trumpd": 2918,
+            "jorgensenj": 302,
+            "write-ins": 370,
+            "la_rivag": 50,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 44231,
+          "results": {
+            "hawkinsh": 159,
+            "bidenj": 39397,
+            "trumpd": 3705,
+            "jorgensenj": 344,
+            "write-ins": 491,
+            "la_rivag": 74,
+            "pierceb": 61
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 45296,
+          "results": {
+            "hawkinsh": 234,
+            "bidenj": 42489,
+            "trumpd": 1913,
+            "jorgensenj": 161,
+            "write-ins": 308,
+            "la_rivag": 125,
+            "pierceb": 66
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 46107,
+          "results": {
+            "hawkinsh": 271,
+            "bidenj": 43320,
+            "trumpd": 1769,
+            "jorgensenj": 212,
+            "write-ins": 323,
+            "la_rivag": 115,
+            "pierceb": 97
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 62918,
+          "results": {
+            "hawkinsh": 253,
+            "bidenj": 56719,
+            "trumpd": 4337,
+            "jorgensenj": 561,
+            "write-ins": 857,
+            "la_rivag": 104,
+            "pierceb": 87
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 38384,
+          "results": {
+            "hawkinsh": 232,
+            "bidenj": 36382,
+            "trumpd": 1134,
+            "jorgensenj": 118,
+            "write-ins": 270,
+            "la_rivag": 116,
+            "pierceb": 132
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 32858,
+          "results": {
+            "hawkinsh": 194,
+            "bidenj": 30897,
+            "trumpd": 1085,
+            "jorgensenj": 134,
+            "write-ins": 220,
+            "la_rivag": 163,
+            "pierceb": 165
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-12-02T18:22:37.703Z",
+      "total_votes": 341219,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 41301,
+          "results": {
+            "hawkinsh": 257,
+            "bidenj": 38685,
+            "trumpd": 1709,
+            "jorgensenj": 202,
+            "write-ins": 295,
+            "la_rivag": 107,
+            "pierceb": 46
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 32581,
+          "results": {
+            "hawkinsh": 123,
+            "bidenj": 28813,
+            "trumpd": 2891,
+            "jorgensenj": 299,
+            "write-ins": 367,
+            "la_rivag": 50,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 43828,
+          "results": {
+            "hawkinsh": 158,
+            "bidenj": 39038,
+            "trumpd": 3671,
+            "jorgensenj": 341,
+            "write-ins": 487,
+            "la_rivag": 73,
+            "pierceb": 60
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 44883,
+          "results": {
+            "hawkinsh": 232,
+            "bidenj": 42102,
+            "trumpd": 1896,
+            "jorgensenj": 160,
+            "write-ins": 305,
+            "la_rivag": 124,
+            "pierceb": 65
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 45687,
+          "results": {
+            "hawkinsh": 269,
+            "bidenj": 42925,
+            "trumpd": 1753,
+            "jorgensenj": 210,
+            "write-ins": 320,
+            "la_rivag": 114,
+            "pierceb": 96
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 62345,
+          "results": {
+            "hawkinsh": 251,
+            "bidenj": 56202,
+            "trumpd": 4297,
+            "jorgensenj": 556,
+            "write-ins": 849,
+            "la_rivag": 103,
+            "pierceb": 86
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 38034,
+          "results": {
+            "hawkinsh": 230,
+            "bidenj": 36051,
+            "trumpd": 1124,
+            "jorgensenj": 117,
+            "write-ins": 268,
+            "la_rivag": 115,
+            "pierceb": 131
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 32559,
+          "results": {
+            "hawkinsh": 192,
+            "bidenj": 30616,
+            "trumpd": 1075,
+            "jorgensenj": 133,
+            "write-ins": 218,
+            "la_rivag": 162,
+            "pierceb": 163
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-12-03T03:00:53Z",
+      "total_votes": 344356,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Ward 1",
+          "locality_fips": "11001",
+          "vote_type": "electionday",
+          "votes": 41681,
+          "results": {
+            "hawkinsh": 259,
+            "bidenj": 39041,
+            "trumpd": 1725,
+            "jorgensenj": 204,
+            "write-ins": 298,
+            "la_rivag": 108,
+            "pierceb": 46
+          }
+        },
+        {
+          "locality_name": "Ward 2",
+          "locality_fips": "11002",
+          "vote_type": "electionday",
+          "votes": 32881,
+          "results": {
+            "hawkinsh": 124,
+            "bidenj": 29078,
+            "trumpd": 2918,
+            "jorgensenj": 302,
+            "write-ins": 370,
+            "la_rivag": 50,
+            "pierceb": 39
+          }
+        },
+        {
+          "locality_name": "Ward 3",
+          "locality_fips": "11003",
+          "vote_type": "electionday",
+          "votes": 44231,
+          "results": {
+            "hawkinsh": 159,
+            "bidenj": 39397,
+            "trumpd": 3705,
+            "jorgensenj": 344,
+            "write-ins": 491,
+            "la_rivag": 74,
+            "pierceb": 61
+          }
+        },
+        {
+          "locality_name": "Ward 4",
+          "locality_fips": "11004",
+          "vote_type": "electionday",
+          "votes": 45296,
+          "results": {
+            "hawkinsh": 234,
+            "bidenj": 42489,
+            "trumpd": 1913,
+            "jorgensenj": 161,
+            "write-ins": 308,
+            "la_rivag": 125,
+            "pierceb": 66
+          }
+        },
+        {
+          "locality_name": "Ward 5",
+          "locality_fips": "11005",
+          "vote_type": "electionday",
+          "votes": 46107,
+          "results": {
+            "hawkinsh": 271,
+            "bidenj": 43320,
+            "trumpd": 1769,
+            "jorgensenj": 212,
+            "write-ins": 323,
+            "la_rivag": 115,
+            "pierceb": 97
+          }
+        },
+        {
+          "locality_name": "Ward 6",
+          "locality_fips": "11006",
+          "vote_type": "electionday",
+          "votes": 62918,
+          "results": {
+            "hawkinsh": 253,
+            "bidenj": 56719,
+            "trumpd": 4337,
+            "jorgensenj": 561,
+            "write-ins": 857,
+            "la_rivag": 104,
+            "pierceb": 87
+          }
+        },
+        {
+          "locality_name": "Ward 7",
+          "locality_fips": "11007",
+          "vote_type": "electionday",
+          "votes": 38384,
+          "results": {
+            "hawkinsh": 232,
+            "bidenj": 36382,
+            "trumpd": 1134,
+            "jorgensenj": 118,
+            "write-ins": 270,
+            "la_rivag": 116,
+            "pierceb": 132
+          }
+        },
+        {
+          "locality_name": "Ward 8",
+          "locality_fips": "11008",
+          "vote_type": "electionday",
+          "votes": 32858,
+          "results": {
+            "hawkinsh": 194,
+            "bidenj": 30897,
+            "trumpd": 1085,
+            "jorgensenj": 134,
+            "write-ins": 220,
+            "la_rivag": 163,
+            "pierceb": 165
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    }
+  ]
+}

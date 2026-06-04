@@ -1,0 +1,885 @@
+{
+  "source": "nyt-race-page",
+  "state": "HI",
+  "slug": "hawaii",
+  "url": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/hawaii/president.json",
+  "county_totals_source": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/hawaii/president.json",
+  "county_by_vote_type_source": "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/hawaii/president.json",
+  "county_by_vote_type_method": "derived_county_absentee_split",
+  "versioned_snapshots_method": "derived_county_absentee_split_timeseries",
+  "fetched_at_unix": 1780400008,
+  "timeseries": [
+    {
+      "timestamp": "2020-11-04T10:01:44Z",
+      "votes": 0,
+      "results": {
+        "bidenj": 0,
+        "trumpd": 0,
+        "jorgensenj": 0
+      },
+      "vote_shares": {
+        "bidenj": 0.0,
+        "trumpd": 0.0
+      }
+    },
+    {
+      "timestamp": "2020-11-04T09:30:36Z",
+      "votes": 541879,
+      "results": {
+        "bidenj": 352763,
+        "trumpd": 178820,
+        "jorgensenj": 10296
+      },
+      "vote_shares": {
+        "bidenj": 0.651,
+        "trumpd": 0.33
+      }
+    },
+    {
+      "timestamp": "2020-11-04T11:29:48Z",
+      "votes": 552216,
+      "results": {
+        "bidenj": 355075,
+        "trumpd": 186649,
+        "jorgensenj": 10492
+      },
+      "vote_shares": {
+        "bidenj": 0.643,
+        "trumpd": 0.338
+      }
+    },
+    {
+      "timestamp": "2020-11-04T17:32:48Z",
+      "votes": 573854,
+      "results": {
+        "bidenj": 365545,
+        "trumpd": 196832,
+        "jorgensenj": 11477
+      },
+      "vote_shares": {
+        "bidenj": 0.637,
+        "trumpd": 0.343
+      }
+    },
+    {
+      "timestamp": "2020-11-13T01:45:53Z",
+      "votes": 574341,
+      "results": {
+        "bidenj": 365855,
+        "trumpd": 196999,
+        "jorgensenj": 11487
+      },
+      "vote_shares": {
+        "bidenj": 0.637,
+        "trumpd": 0.343
+      }
+    },
+    {
+      "timestamp": "2020-11-19T20:30:55Z",
+      "votes": 574469,
+      "results": {
+        "bidenj": 365937,
+        "trumpd": 197043,
+        "jorgensenj": 11489
+      },
+      "vote_shares": {
+        "bidenj": 0.637,
+        "trumpd": 0.343
+      }
+    },
+    {
+      "timestamp": "2020-11-24T12:32:19Z",
+      "votes": 574469,
+      "results": {
+        "bidenj": 365937,
+        "trumpd": 197043,
+        "jorgensenj": 11489
+      },
+      "vote_shares": {
+        "bidenj": 0.637,
+        "trumpd": 0.343
+      }
+    }
+  ],
+  "county_totals": [
+    {
+      "locality_name": "Hawaii",
+      "locality_fips": "15001",
+      "votes": 87814,
+      "absentee_votes": 4600,
+      "precincts": 43,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 58731,
+        "trumpd": 26897,
+        "jorgensenj": 1027,
+        "hawkinsh": 805,
+        "pierceb": 220,
+        "blankenshipd": 134
+      },
+      "last_updated": "2020-11-24T13:25:49Z"
+    },
+    {
+      "locality_name": "Honolulu",
+      "locality_fips": "15003",
+      "votes": 382114,
+      "absentee_votes": 17145,
+      "precincts": 156,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 238869,
+        "trumpd": 136259,
+        "jorgensenj": 3437,
+        "hawkinsh": 2178,
+        "pierceb": 741,
+        "blankenshipd": 630
+      },
+      "last_updated": "2020-11-24T13:25:49Z"
+    },
+    {
+      "locality_name": "Kauai",
+      "locality_fips": "15007",
+      "votes": 33497,
+      "absentee_votes": 2337,
+      "precincts": 16,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 21225,
+        "trumpd": 11582,
+        "jorgensenj": 303,
+        "hawkinsh": 254,
+        "pierceb": 77,
+        "blankenshipd": 56
+      },
+      "last_updated": "2020-11-24T13:25:50Z"
+    },
+    {
+      "locality_name": "Maui",
+      "locality_fips": "15009",
+      "votes": 71044,
+      "absentee_votes": 4528,
+      "precincts": 35,
+      "is_reporting": true,
+      "results": {
+        "bidenj": 47305,
+        "trumpd": 22126,
+        "jorgensenj": 772,
+        "hawkinsh": 585,
+        "pierceb": 145,
+        "blankenshipd": 111
+      },
+      "last_updated": "2020-11-24T13:25:50Z"
+    }
+  ],
+  "county_by_vote_type": [
+    {
+      "locality_name": "Hawaii",
+      "locality_fips": "15001",
+      "vote_type": "absentee",
+      "votes": 4600,
+      "results": {
+        "bidenj": 1426,
+        "trumpd": 3077,
+        "jorgensenj": 51,
+        "hawkinsh": 34,
+        "pierceb": 7,
+        "blankenshipd": 5
+      }
+    },
+    {
+      "locality_name": "Hawaii",
+      "locality_fips": "15001",
+      "vote_type": "electionday",
+      "votes": 83214,
+      "results": {
+        "hawkinsh": 771,
+        "blankenshipd": 129,
+        "trumpd": 23820,
+        "jorgensenj": 976,
+        "bidenj": 57305,
+        "pierceb": 213
+      }
+    },
+    {
+      "locality_name": "Honolulu",
+      "locality_fips": "15003",
+      "vote_type": "absentee",
+      "votes": 17145,
+      "results": {
+        "bidenj": 4397,
+        "trumpd": 12498,
+        "jorgensenj": 140,
+        "hawkinsh": 67,
+        "pierceb": 19,
+        "blankenshipd": 24
+      }
+    },
+    {
+      "locality_name": "Honolulu",
+      "locality_fips": "15003",
+      "vote_type": "electionday",
+      "votes": 364969,
+      "results": {
+        "hawkinsh": 2111,
+        "blankenshipd": 606,
+        "trumpd": 123761,
+        "jorgensenj": 3297,
+        "bidenj": 234472,
+        "pierceb": 722
+      }
+    },
+    {
+      "locality_name": "Kauai",
+      "locality_fips": "15007",
+      "vote_type": "absentee",
+      "votes": 2337,
+      "results": {
+        "bidenj": 714,
+        "trumpd": 1581,
+        "jorgensenj": 18,
+        "hawkinsh": 15,
+        "pierceb": 3,
+        "blankenshipd": 6
+      }
+    },
+    {
+      "locality_name": "Kauai",
+      "locality_fips": "15007",
+      "vote_type": "electionday",
+      "votes": 31160,
+      "results": {
+        "hawkinsh": 239,
+        "blankenshipd": 50,
+        "trumpd": 10001,
+        "jorgensenj": 285,
+        "bidenj": 20511,
+        "pierceb": 74
+      }
+    },
+    {
+      "locality_name": "Maui",
+      "locality_fips": "15009",
+      "vote_type": "absentee",
+      "votes": 4528,
+      "results": {
+        "bidenj": 1284,
+        "trumpd": 3175,
+        "jorgensenj": 34,
+        "hawkinsh": 27,
+        "pierceb": 0,
+        "blankenshipd": 8
+      }
+    },
+    {
+      "locality_name": "Maui",
+      "locality_fips": "15009",
+      "vote_type": "electionday",
+      "votes": 66516,
+      "results": {
+        "hawkinsh": 558,
+        "blankenshipd": 103,
+        "trumpd": 18951,
+        "jorgensenj": 738,
+        "bidenj": 46021,
+        "pierceb": 145
+      }
+    }
+  ],
+  "versioned_snapshots": [
+    {
+      "timestamp": "2020-11-04T09:30:36Z",
+      "total_votes": 541879,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "absentee",
+          "votes": 4339,
+          "results": {
+            "bidenj": 1345,
+            "trumpd": 2902,
+            "jorgensenj": 48,
+            "hawkinsh": 32,
+            "pierceb": 7,
+            "blankenshipd": 5
+          }
+        },
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "electionday",
+          "votes": 78493,
+          "results": {
+            "hawkinsh": 727,
+            "blankenshipd": 122,
+            "trumpd": 22469,
+            "jorgensenj": 921,
+            "bidenj": 54054,
+            "pierceb": 201
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "absentee",
+          "votes": 16172,
+          "results": {
+            "bidenj": 4148,
+            "trumpd": 11789,
+            "jorgensenj": 132,
+            "hawkinsh": 63,
+            "pierceb": 18,
+            "blankenshipd": 23
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "electionday",
+          "votes": 344264,
+          "results": {
+            "hawkinsh": 1991,
+            "blankenshipd": 572,
+            "trumpd": 116740,
+            "jorgensenj": 3110,
+            "bidenj": 221170,
+            "pierceb": 681
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "absentee",
+          "votes": 2204,
+          "results": {
+            "bidenj": 673,
+            "trumpd": 1491,
+            "jorgensenj": 17,
+            "hawkinsh": 14,
+            "pierceb": 3,
+            "blankenshipd": 6
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "electionday",
+          "votes": 29392,
+          "results": {
+            "hawkinsh": 225,
+            "blankenshipd": 47,
+            "trumpd": 9434,
+            "jorgensenj": 269,
+            "bidenj": 19347,
+            "pierceb": 70
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "absentee",
+          "votes": 4271,
+          "results": {
+            "bidenj": 1211,
+            "trumpd": 2995,
+            "jorgensenj": 32,
+            "hawkinsh": 25,
+            "pierceb": 0,
+            "blankenshipd": 8
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "electionday",
+          "votes": 62743,
+          "results": {
+            "hawkinsh": 526,
+            "blankenshipd": 97,
+            "trumpd": 17876,
+            "jorgensenj": 696,
+            "bidenj": 43410,
+            "pierceb": 137
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T11:29:48Z",
+      "total_votes": 552216,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "absentee",
+          "votes": 4422,
+          "results": {
+            "bidenj": 1371,
+            "trumpd": 2958,
+            "jorgensenj": 49,
+            "hawkinsh": 33,
+            "pierceb": 7,
+            "blankenshipd": 5
+          }
+        },
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "electionday",
+          "votes": 79991,
+          "results": {
+            "hawkinsh": 741,
+            "blankenshipd": 124,
+            "trumpd": 22897,
+            "jorgensenj": 938,
+            "bidenj": 55085,
+            "pierceb": 205
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "absentee",
+          "votes": 16481,
+          "results": {
+            "bidenj": 4227,
+            "trumpd": 12014,
+            "jorgensenj": 135,
+            "hawkinsh": 64,
+            "pierceb": 18,
+            "blankenshipd": 23
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "electionday",
+          "votes": 350831,
+          "results": {
+            "hawkinsh": 2029,
+            "blankenshipd": 583,
+            "trumpd": 118967,
+            "jorgensenj": 3169,
+            "bidenj": 225389,
+            "pierceb": 694
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "absentee",
+          "votes": 2246,
+          "results": {
+            "bidenj": 686,
+            "trumpd": 1520,
+            "jorgensenj": 17,
+            "hawkinsh": 14,
+            "pierceb": 3,
+            "blankenshipd": 6
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "electionday",
+          "votes": 29953,
+          "results": {
+            "hawkinsh": 230,
+            "blankenshipd": 48,
+            "trumpd": 9614,
+            "jorgensenj": 274,
+            "bidenj": 19716,
+            "pierceb": 71
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "absentee",
+          "votes": 4353,
+          "results": {
+            "bidenj": 1234,
+            "trumpd": 3052,
+            "jorgensenj": 33,
+            "hawkinsh": 26,
+            "pierceb": 0,
+            "blankenshipd": 8
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "electionday",
+          "votes": 63939,
+          "results": {
+            "hawkinsh": 536,
+            "blankenshipd": 99,
+            "trumpd": 18217,
+            "jorgensenj": 709,
+            "bidenj": 44238,
+            "pierceb": 139
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-04T17:32:48Z",
+      "total_votes": 573854,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "absentee",
+          "votes": 4595,
+          "results": {
+            "bidenj": 1424,
+            "trumpd": 3074,
+            "jorgensenj": 51,
+            "hawkinsh": 34,
+            "pierceb": 7,
+            "blankenshipd": 5
+          }
+        },
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "electionday",
+          "votes": 83125,
+          "results": {
+            "hawkinsh": 770,
+            "blankenshipd": 129,
+            "trumpd": 23794,
+            "jorgensenj": 975,
+            "bidenj": 57244,
+            "pierceb": 213
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "absentee",
+          "votes": 17127,
+          "results": {
+            "bidenj": 4392,
+            "trumpd": 12485,
+            "jorgensenj": 140,
+            "hawkinsh": 67,
+            "pierceb": 19,
+            "blankenshipd": 24
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "electionday",
+          "votes": 364578,
+          "results": {
+            "hawkinsh": 2109,
+            "blankenshipd": 605,
+            "trumpd": 123629,
+            "jorgensenj": 3293,
+            "bidenj": 234221,
+            "pierceb": 721
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "absentee",
+          "votes": 2334,
+          "results": {
+            "bidenj": 713,
+            "trumpd": 1579,
+            "jorgensenj": 18,
+            "hawkinsh": 15,
+            "pierceb": 3,
+            "blankenshipd": 6
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "electionday",
+          "votes": 31127,
+          "results": {
+            "hawkinsh": 239,
+            "blankenshipd": 50,
+            "trumpd": 9990,
+            "jorgensenj": 285,
+            "bidenj": 20489,
+            "pierceb": 74
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "absentee",
+          "votes": 4523,
+          "results": {
+            "bidenj": 1283,
+            "trumpd": 3172,
+            "jorgensenj": 34,
+            "hawkinsh": 27,
+            "pierceb": 0,
+            "blankenshipd": 8
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "electionday",
+          "votes": 66445,
+          "results": {
+            "hawkinsh": 557,
+            "blankenshipd": 103,
+            "trumpd": 18931,
+            "jorgensenj": 737,
+            "bidenj": 45972,
+            "pierceb": 145
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-13T01:45:53Z",
+      "total_votes": 574341,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "absentee",
+          "votes": 4599,
+          "results": {
+            "bidenj": 1426,
+            "trumpd": 3076,
+            "jorgensenj": 51,
+            "hawkinsh": 34,
+            "pierceb": 7,
+            "blankenshipd": 5
+          }
+        },
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "electionday",
+          "votes": 83195,
+          "results": {
+            "hawkinsh": 771,
+            "blankenshipd": 129,
+            "trumpd": 23815,
+            "jorgensenj": 976,
+            "bidenj": 57292,
+            "pierceb": 213
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "absentee",
+          "votes": 17141,
+          "results": {
+            "bidenj": 4396,
+            "trumpd": 12495,
+            "jorgensenj": 140,
+            "hawkinsh": 67,
+            "pierceb": 19,
+            "blankenshipd": 24
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "electionday",
+          "votes": 364888,
+          "results": {
+            "hawkinsh": 2111,
+            "blankenshipd": 606,
+            "trumpd": 123733,
+            "jorgensenj": 3296,
+            "bidenj": 234420,
+            "pierceb": 722
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "absentee",
+          "votes": 2336,
+          "results": {
+            "bidenj": 714,
+            "trumpd": 1581,
+            "jorgensenj": 18,
+            "hawkinsh": 15,
+            "pierceb": 3,
+            "blankenshipd": 6
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "electionday",
+          "votes": 31153,
+          "results": {
+            "hawkinsh": 239,
+            "blankenshipd": 50,
+            "trumpd": 9999,
+            "jorgensenj": 285,
+            "bidenj": 20506,
+            "pierceb": 74
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "absentee",
+          "votes": 4527,
+          "results": {
+            "bidenj": 1284,
+            "trumpd": 3174,
+            "jorgensenj": 34,
+            "hawkinsh": 27,
+            "pierceb": 0,
+            "blankenshipd": 8
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "electionday",
+          "votes": 66501,
+          "results": {
+            "hawkinsh": 558,
+            "blankenshipd": 103,
+            "trumpd": 18947,
+            "jorgensenj": 738,
+            "bidenj": 46011,
+            "pierceb": 145
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    },
+    {
+      "timestamp": "2020-11-19T20:30:55Z",
+      "total_votes": 574469,
+      "county_by_vote_type": [
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "absentee",
+          "votes": 4600,
+          "results": {
+            "bidenj": 1426,
+            "trumpd": 3077,
+            "jorgensenj": 51,
+            "hawkinsh": 34,
+            "pierceb": 7,
+            "blankenshipd": 5
+          }
+        },
+        {
+          "locality_name": "Hawaii",
+          "locality_fips": "15001",
+          "vote_type": "electionday",
+          "votes": 83214,
+          "results": {
+            "hawkinsh": 771,
+            "blankenshipd": 129,
+            "trumpd": 23820,
+            "jorgensenj": 976,
+            "bidenj": 57305,
+            "pierceb": 213
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "absentee",
+          "votes": 17145,
+          "results": {
+            "bidenj": 4397,
+            "trumpd": 12498,
+            "jorgensenj": 140,
+            "hawkinsh": 67,
+            "pierceb": 19,
+            "blankenshipd": 24
+          }
+        },
+        {
+          "locality_name": "Honolulu",
+          "locality_fips": "15003",
+          "vote_type": "electionday",
+          "votes": 364969,
+          "results": {
+            "hawkinsh": 2111,
+            "blankenshipd": 606,
+            "trumpd": 123761,
+            "jorgensenj": 3297,
+            "bidenj": 234472,
+            "pierceb": 722
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "absentee",
+          "votes": 2337,
+          "results": {
+            "bidenj": 714,
+            "trumpd": 1581,
+            "jorgensenj": 18,
+            "hawkinsh": 15,
+            "pierceb": 3,
+            "blankenshipd": 6
+          }
+        },
+        {
+          "locality_name": "Kauai",
+          "locality_fips": "15007",
+          "vote_type": "electionday",
+          "votes": 31160,
+          "results": {
+            "hawkinsh": 239,
+            "blankenshipd": 50,
+            "trumpd": 10001,
+            "jorgensenj": 285,
+            "bidenj": 20511,
+            "pierceb": 74
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "absentee",
+          "votes": 4528,
+          "results": {
+            "bidenj": 1284,
+            "trumpd": 3175,
+            "jorgensenj": 34,
+            "hawkinsh": 27,
+            "pierceb": 0,
+            "blankenshipd": 8
+          }
+        },
+        {
+          "locality_name": "Maui",
+          "locality_fips": "15009",
+          "vote_type": "electionday",
+          "votes": 66516,
+          "results": {
+            "hawkinsh": 558,
+            "blankenshipd": 103,
+            "trumpd": 18951,
+            "jorgensenj": 738,
+            "bidenj": 46021,
+            "pierceb": 145
+          }
+        }
+      ],
+      "method": "derived_county_absentee_split_timeseries"
+    }
+  ]
+}

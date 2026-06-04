@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "id": "remote-pa-general-live",
+      "label": "PA General (Remote API)",
+      "dataset_group": "county_vote_type",
+      "type": "remote_json",
+      "parser_hint": "county_vote_type",
+      "enabled": false,
+      "endpoint": "https://example.com/PAGeneralConcatenator-latest.json",
+      "notes": "Example connector. Replace endpoint and set enabled=true when ready."
+    },
+    {
+      "id": "remote-state-timeline-live",
+      "label": "State Timeline (Remote API)",
+      "dataset_group": "timeline",
+      "type": "remote_json",
+      "parser_hint": "timeline",
+      "enabled": false,
+      "endpoint": "https://example.com/state-timeline.json",
+      "notes": "Example timeline connector. Uses in-memory ingestion only."
+    },
+    {
+      "id": "local-pa-general-default",
+      "label": "PA General (Local Read-Only)",
+      "dataset_group": "county_vote_type",
+      "type": "local_file",
+      "parser_hint": "county_vote_type",
+      "enabled": true,
+      "path": "{data_dir}/PAGeneralConcatenator-latest.json",
+      "notes": "Read-only local source for PA county_by_vote_type data."
+    }
+  ]
+}
