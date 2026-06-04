@@ -6,6 +6,10 @@
   const MORPH_SCROLL_DISTANCE = 380;
   const MORPH_PROGRESS_EPSILON = 0.0125;
   const HEADER_PIN_TOP_PX = 10;
+  const DETENT_ENTER_PX = 28;
+  const PULL_HINT_THRESHOLD_PX = 26;
+  const PULL_CLOSE_THRESHOLD_PX = 108;
+  const WHEEL_GESTURE_GAP_MS = 140;
   const MATRIX_CHARS = "01 2020年の選挙は盗まれた このウェブサイトは、選挙に不正があったことを証明している 01";
 
   function $(id) {
@@ -223,6 +227,7 @@
     const transitionViewport = $("map-viewport-transition");
     const inlineViewport = $("map-viewport-inline");
     const detailHero = document.querySelector(".detail-hero");
+    const closeIndicator = $("scroll-close-indicator");
     if (!scrollEl || !transitionViewport || !inlineViewport) {
       return () => {};
     }
@@ -230,19 +235,84 @@
     let rafId = 0;
     let mode = "transition";
     let pinScrollTop = null;
+    let detentLocked = false;
+    let forceFullscreenAtTop = false;
     let targetProgress = 0;
     let currentProgress = 0;
     let lastAppliedProgress = -1;
+    let pullDistance = 0;
+    let touchStartY = null;
+    let touchCanPullClose = false;
+    let closingFromPull = false;
+    let wheelPrimedAtTop = false;
+    let wheelCanPullClose = false;
+    let lastWheelTimestamp = 0;
+
+    const updateCloseIndicator = () => {
+      if (!closeIndicator) {
+        return;
+      }
+      const visible = detentLocked && scrollEl.scrollTop <= 0 && pullDistance >= PULL_HINT_THRESHOLD_PX;
+      closeIndicator.classList.toggle("is-visible", visible);
+      closeIndicator.classList.toggle("is-armed", visible && pullDistance >= PULL_CLOSE_THRESHOLD_PX * 0.85);
+      closeIndicator.style.setProperty(
+        "--pull-close-progress",
+        `${clamp01(pullDistance / PULL_CLOSE_THRESHOLD_PX)}`,
+      );
+    };
+
+    const resetPullDistance = () => {
+      pullDistance = 0;
+      updateCloseIndicator();
+    };
+
+    const resetWheelPriming = () => {
+      wheelPrimedAtTop = false;
+      wheelCanPullClose = false;
+      lastWheelTimestamp = 0;
+    };
+
+    const triggerCloseFromPull = () => {
+      if (closingFromPull) {
+        return;
+      }
+      closingFromPull = true;
+      resetPullDistance();
+      detentLocked = false;
+      forceFullscreenAtTop = true;
+      pinScrollTop = null;
+      targetProgress = 0;
+      if (scrollEl.scrollTop > 0) {
+        scrollEl.scrollTop = 0;
+      }
+      if (rafId) {
+        cancelAnimationFrame(rafId);
+        rafId = 0;
+      }
+      rafId = requestAnimationFrame(animateProgress);
+    };
 
     const computeTargetProgress = () => {
+      if (forceFullscreenAtTop && scrollEl.scrollTop <= 0) {
+        return 0;
+      }
+      if (forceFullscreenAtTop && scrollEl.scrollTop > 0) {
+        forceFullscreenAtTop = false;
+      }
       const heroRect = rectFromElement(detailHero);
       if (heroRect && heroRect.top <= HEADER_PIN_TOP_PX && pinScrollTop === null) {
         pinScrollTop = Math.max(1, scrollEl.scrollTop);
       }
+      if (!detentLocked && scrollEl.scrollTop >= DETENT_ENTER_PX) {
+        detentLocked = true;
+      }
       const heroPinnedToTop = Boolean(heroRect && heroRect.top <= HEADER_PIN_TOP_PX);
-      const morphDistance = pinScrollTop || MORPH_SCROLL_DISTANCE;
+      const morphDistance = pinScrollTop || DETENT_ENTER_PX || MORPH_SCROLL_DISTANCE;
       const scrollProgress = clamp01(scrollEl.scrollTop / morphDistance);
-      return heroPinnedToTop ? 1 : scrollProgress;
+      if (detentLocked || heroPinnedToTop) {
+        return 1;
+      }
+      return scrollProgress;
     };
 
     const applyProgress = (progress) => {
@@ -298,30 +368,149 @@
 
       if (Math.abs(targetProgress - currentProgress) > 0.001) {
         rafId = requestAnimationFrame(animateProgress);
+      } else if (closingFromPull) {
+        closingFromPull = false;
       }
     };
 
     const scheduleUpdate = () => {
       targetProgress = computeTargetProgress();
+      if (scrollEl.scrollTop > 0 && pullDistance > 0) {
+        resetPullDistance();
+      }
+      if (scrollEl.scrollTop > 0) {
+        resetWheelPriming();
+      }
       if (rafId) {
         return;
       }
       rafId = requestAnimationFrame(animateProgress);
     };
 
+    const onWheel = (event) => {
+      if (!detentLocked || closingFromPull) {
+        return;
+      }
+      if (scrollEl.scrollTop > 0) {
+        if (pullDistance > 0) {
+          resetPullDistance();
+        }
+        resetWheelPriming();
+        return;
+      }
+      if (event.deltaY < 0) {
+        event.preventDefault();
+        const now = event.timeStamp || performance.now();
+        const gap = lastWheelTimestamp ? now - lastWheelTimestamp : Number.POSITIVE_INFINITY;
+        lastWheelTimestamp = now;
+
+        if (!wheelPrimedAtTop) {
+          wheelPrimedAtTop = true;
+          wheelCanPullClose = false;
+          resetPullDistance();
+          return;
+        }
+        if (!wheelCanPullClose) {
+          if (gap < WHEEL_GESTURE_GAP_MS) {
+            return;
+          }
+          wheelCanPullClose = true;
+        }
+        pullDistance = Math.min(
+          PULL_CLOSE_THRESHOLD_PX * 1.35,
+          pullDistance + Math.abs(event.deltaY),
+        );
+        updateCloseIndicator();
+        if (pullDistance >= PULL_CLOSE_THRESHOLD_PX) {
+          triggerCloseFromPull();
+        }
+      } else if (event.deltaY > 0) {
+        if (pullDistance > 0) {
+          pullDistance = Math.max(0, pullDistance - event.deltaY);
+          updateCloseIndicator();
+        }
+        resetWheelPriming();
+      }
+    };
+
+    const onTouchStart = (event) => {
+      if (!detentLocked || closingFromPull) {
+        return;
+      }
+      touchStartY = event.touches?.[0]?.clientY ?? null;
+      touchCanPullClose = scrollEl.scrollTop <= 0;
+      if (!touchCanPullClose) {
+        resetPullDistance();
+      }
+    };
+
+    const onTouchMove = (event) => {
+      if (!detentLocked || closingFromPull || touchStartY === null) {
+        return;
+      }
+      if (!touchCanPullClose) {
+        return;
+      }
+      if (scrollEl.scrollTop > 0) {
+        if (pullDistance > 0) {
+          resetPullDistance();
+        }
+        touchCanPullClose = false;
+        return;
+      }
+      const currentY = event.touches?.[0]?.clientY ?? touchStartY;
+      const delta = currentY - touchStartY;
+      if (delta <= 0) {
+        if (pullDistance > 0) {
+          resetPullDistance();
+        }
+        return;
+      }
+      pullDistance = Math.min(PULL_CLOSE_THRESHOLD_PX * 1.35, delta);
+      updateCloseIndicator();
+      event.preventDefault();
+      if (pullDistance >= PULL_CLOSE_THRESHOLD_PX) {
+        triggerCloseFromPull();
+      }
+    };
+
+    const onTouchEnd = () => {
+      touchStartY = null;
+      touchCanPullClose = false;
+      if (!closingFromPull) {
+        resetPullDistance();
+      }
+    };
+
     scrollEl.addEventListener("scroll", scheduleUpdate, { passive: true });
     window.addEventListener("resize", scheduleUpdate);
+    scrollEl.addEventListener("wheel", onWheel, { passive: false });
+    scrollEl.addEventListener("touchstart", onTouchStart, { passive: true });
+    scrollEl.addEventListener("touchmove", onTouchMove, { passive: false });
+    scrollEl.addEventListener("touchend", onTouchEnd, { passive: true });
+    scrollEl.addEventListener("touchcancel", onTouchEnd, { passive: true });
+    resetPullDistance();
     scheduleUpdate();
 
     return () => {
       scrollEl.removeEventListener("scroll", scheduleUpdate);
       window.removeEventListener("resize", scheduleUpdate);
+      scrollEl.removeEventListener("wheel", onWheel);
+      scrollEl.removeEventListener("touchstart", onTouchStart);
+      scrollEl.removeEventListener("touchmove", onTouchMove);
+      scrollEl.removeEventListener("touchend", onTouchEnd);
+      scrollEl.removeEventListener("touchcancel", onTouchEnd);
+      resetWheelPriming();
       if (rafId) {
         cancelAnimationFrame(rafId);
         rafId = 0;
       }
       map.setViewportRectOverride(null);
       document.documentElement.style.setProperty("--map-morph-progress", "0");
+      if (closeIndicator) {
+        closeIndicator.classList.remove("is-visible", "is-armed");
+        closeIndicator.style.removeProperty("--pull-close-progress");
+      }
     };
   }
 

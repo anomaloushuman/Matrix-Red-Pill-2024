@@ -18,7 +18,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     environment:
-      name: github-pages
+      name: Build-Matrix-Red-Pill-Pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
